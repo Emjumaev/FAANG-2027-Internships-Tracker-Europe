@@ -1,0 +1,384 @@
+{
+  "jobs": {
+    "amazon:10401402": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10401402",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-04-23",
+      "title": "Software Dev Engineer Intern Machine Learning, Amazon Robotics",
+      "url": "https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics"
+    },
+    "amazon:10418355": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10418355",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2026-05-13",
+      "title": "2027 Software Dev Engineer Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern"
+    },
+    "amazon:3072042": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "3072042",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2025-09-30",
+      "title": "2026 Software Dev Engineer Intern - Ireland",
+      "url": "https://www.amazon.jobs/en/jobs/3072042/2026-software-dev-engineer-intern-ireland"
+    },
+    "amazon:3115016": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "3115016",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2025-10-24",
+      "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition"
+    },
+    "amazon:3120058": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "3120058",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Barcelona, Catalonia, ESP"
+      ],
+      "posted": "2025-11-03",
+      "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition"
+    },
+    "amazon:3125279": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "external_id": "3125279",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Luxembourg, LUX"
+      ],
+      "posted": "2025-11-12",
+      "title": "2026 Data Scientist Internship , Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/3125279/2026-data-scientist-internship-amazon-university-talent-acquisition"
+    },
+    "amazon:3126153": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "3126153",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Turin, Piedmont, ITA"
+      ],
+      "posted": "2025-11-13",
+      "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/3126153/2026-applied-scientist-intern-amazon-university-talent-acquisition"
+    },
+    "amazon:3126764": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "3126764",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2025-11-14",
+      "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition"
+    },
+    "amazon:3128215": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "3128215",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Luxembourg, LUX"
+      ],
+      "posted": "2025-11-18",
+      "title": "2026 Applied Scientist Intern, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition"
+    },
+    "amazon:3134271": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Amazon",
+      "external_id": "3134271",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2025-12-01",
+      "title": "Software Dev Engineer internship - Embedded Development",
+      "url": "https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development"
+    },
+    "apple:200617616": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Apple",
+      "external_id": "200617616",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "London"
+      ],
+      "posted": "2025-08-26",
+      "title": "GPU Internship - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200617616/gpu-internship-platform-architecture"
+    },
+    "apple:200622296": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Apple",
+      "external_id": "200622296",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2025-09-22",
+      "title": "SoC Performance Modeling Internship - Platform Architecture (m/f/d)",
+      "url": "https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d"
+    },
+    "apple:200629965": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Apple",
+      "external_id": "200629965",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "London"
+      ],
+      "posted": "2025-11-04",
+      "title": "SoC Performance Modeling Internship - Platform Architecture",
+      "url": "https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture"
+    },
+    "cisco:2005347": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Cisco",
+      "external_id": "2005347",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Prague, Praha, Czechia"
+      ],
+      "posted": "2026-04-29",
+      "title": "ML Researcher Intern - Prague - Czechia",
+      "url": "https://careers.cisco.com/global/en/job/2005347"
+    },
+    "cisco:2015133": {
+      "active": true,
+      "category": "Software",
+      "company": "Cisco",
+      "external_id": "2015133",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Krakow, Poland"
+      ],
+      "posted": "2026-05-18",
+      "title": "Software Development Intern (Cracow, Poland)",
+      "url": "https://careers.cisco.com/global/en/job/2015133"
+    },
+    "google:135233176434811590": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "135233176434811590",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-07-01",
+      "title": "Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/135233176434811590"
+    },
+    "intel:JR0284874": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0284874",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-06-19",
+      "title": "Middleware Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0284874"
+    },
+    "intel:JR0285471": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0285471",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-07-08",
+      "title": "AI Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
+    },
+    "meta:771948392580541": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "external_id": "771948392580541",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, AI/ML, Core Ads Growth (PhD)",
+      "url": "https://www.metacareers.com/jobs/771948392580541"
+    },
+    "meta:924149567345400": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "external_id": "924149567345400",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
+      "url": "https://www.metacareers.com/jobs/924149567345400"
+    },
+    "microsoft:1970393556625311": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556625311",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Switzerland, Z\u00fcrich, Z\u00fcrich"
+      ],
+      "posted": "2026-01-28",
+      "title": "Applied Sciences Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556625311"
+    },
+    "microsoft:1970393556627170": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556627170",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "posted": "2026-01-29",
+      "title": "Applied Science Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627170"
+    },
+    "microsoft:1970393556627173": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556627173",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "posted": "2026-01-29",
+      "title": "Applied Science Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
+    },
+    "snowflake:3a9baeaf-b107-41fb-a9b3-a98ab78275ed": {
+      "active": true,
+      "category": "Software",
+      "company": "Snowflake",
+      "external_id": "3a9baeaf-b107-41fb-a9b3-a98ab78275ed",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Berlin, Germany"
+      ],
+      "posted": "2026-06-02",
+      "title": "Software Engineer Intern - Berlin (2026)",
+      "url": "https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed"
+    },
+    "snowflake:4298e941-d129-4d7f-a965-faa68e6e599e": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Snowflake",
+      "external_id": "4298e941-d129-4d7f-a965-faa68e6e599e",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-06-02",
+      "title": "Software Engineer Intern (AI/ML) - 2026",
+      "url": "https://careers.snowflake.com/us/en/job/4298e941-d129-4d7f-a965-faa68e6e599e"
+    },
+    "snowflake:a92a900c-56c2-4cf6-8c2e-fcd183a84e58": {
+      "active": true,
+      "category": "Software",
+      "company": "Snowflake",
+      "external_id": "a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "posted": "2026-05-12",
+      "title": "Software Engineer Intern - Zurich (2026)",
+      "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
+    },
+    "snowflake:e70a0f78-05d9-4adc-873e-0ac43bf549d2": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Snowflake",
+      "external_id": "e70a0f78-05d9-4adc-873e-0ac43bf549d2",
+      "first_seen": "2026-07-09",
+      "last_seen": "2026-07-09",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-06-02",
+      "title": "Research Intern (AI) - 2026",
+      "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
+    }
+  },
+  "updated_at": "2026-07-09T16:50:11Z"
+}
