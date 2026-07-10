@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-07-10 09:57:59 UTC** · 📌 **27** open internships
+> 🕐 Last updated: **2026-07-10 14:56:56 UTC** · 📌 **26** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ API every 6 hours by GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 3 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 2 |
+| [Cisco](#cisco) | 1 |
 | Cloudflare | — |
 | Databricks | — |
 | GitHub | — |
@@ -72,7 +72,6 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Development Intern (Cracow, Poland)](https://careers.cisco.com/global/en/job/2015133) 🆕 | Software | Krakow, Poland | 2026-05-18 | 2026-07-09 |
 | [ML Researcher Intern - Prague - Czechia](https://careers.cisco.com/global/en/job/2005347) 🆕 | AI/ML | Prague, Praha, Czechia | 2026-04-29 | 2026-07-09 |
 
 ## Google

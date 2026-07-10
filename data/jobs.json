@@ -197,8 +197,9 @@
       "url": "https://careers.cisco.com/global/en/job/2005347"
     },
     "cisco:2015133": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-10",
       "company": "Cisco",
       "external_id": "2015133",
       "first_seen": "2026-07-09",
@@ -380,5 +381,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-10T09:57:59Z"
+  "updated_at": "2026-07-10T14:56:56Z"
 }
