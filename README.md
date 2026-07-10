@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-07-10 14:56:56 UTC** · 📌 **26** open internships
+> 🕐 Last updated: **2026-07-10 19:56:56 UTC** · 📌 **23** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -27,7 +27,7 @@ API every 6 hours by GitHub Actions.
 | [Intel](#intel) | 2 |
 | Jane Street | — |
 | [Meta](#meta) | 2 |
-| [Microsoft](#microsoft) | 3 |
+| Microsoft | — |
 | NVIDIA | — |
 | Netflix | — |
 | OpenAI | — |
@@ -93,14 +93,6 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) 🆕 | AI/ML | London, UK | — | 2026-07-09 |
 | [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) 🆕 | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
-
-## Microsoft
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [Applied Science Intern](https://apply.careers.microsoft.com/careers/job/1970393556627170) 🆕 | AI/ML | United Kingdom, London, London | 2026-01-29 | 2026-07-09 |
-| [Applied Science Intern](https://apply.careers.microsoft.com/careers/job/1970393556627173) 🆕 | AI/ML | United Kingdom, London, London | 2026-01-29 | 2026-07-09 |
-| [Applied Sciences Internship](https://apply.careers.microsoft.com/careers/job/1970393556625311) 🆕 | AI/ML | Switzerland, Zürich, Zürich | 2026-01-28 | 2026-07-09 |
 
 ## Snowflake
 

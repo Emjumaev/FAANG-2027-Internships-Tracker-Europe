@@ -283,8 +283,9 @@
       "url": "https://www.metacareers.com/jobs/924149567345400"
     },
     "microsoft:1970393556625311": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-10",
       "company": "Microsoft",
       "external_id": "1970393556625311",
       "first_seen": "2026-07-09",
@@ -297,8 +298,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556625311"
     },
     "microsoft:1970393556627170": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-10",
       "company": "Microsoft",
       "external_id": "1970393556627170",
       "first_seen": "2026-07-09",
@@ -311,8 +313,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627170"
     },
     "microsoft:1970393556627173": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-10",
       "company": "Microsoft",
       "external_id": "1970393556627173",
       "first_seen": "2026-07-09",
@@ -381,5 +384,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-10T14:56:56Z"
+  "updated_at": "2026-07-10T19:56:56Z"
 }
