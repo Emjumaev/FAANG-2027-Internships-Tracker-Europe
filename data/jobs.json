@@ -241,8 +241,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/135233176434811590"
     },
     "intel:JR0284874": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-07-13",
       "company": "Intel",
       "external_id": "JR0284874",
       "first_seen": "2026-07-09",
@@ -399,5 +400,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-13T09:52:36Z"
+  "updated_at": "2026-07-13T15:16:21Z"
 }
