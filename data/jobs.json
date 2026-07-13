@@ -1,8 +1,9 @@
 {
   "jobs": {
     "amazon:10401402": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-13",
       "company": "Amazon",
       "external_id": "10401402",
       "first_seen": "2026-07-09",
@@ -41,6 +42,20 @@
       "posted": "2025-09-30",
       "title": "2026 Software Dev Engineer Intern - Ireland",
       "url": "https://www.amazon.jobs/en/jobs/3072042/2026-software-dev-engineer-intern-ireland"
+    },
+    "amazon:3074226": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "3074226",
+      "first_seen": "2026-07-13",
+      "last_seen": "2026-07-13",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2025-09-05",
+      "title": "2026 Software Dev Engineer Intern - Germany",
+      "url": "https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany"
     },
     "amazon:3115016": {
       "active": true,
@@ -235,7 +250,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-06-20",
+      "posted": "2026-06-19",
       "title": "Middleware Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0284874"
     },
@@ -249,7 +264,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-07-09",
+      "posted": "2026-07-08",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
     },
@@ -384,5 +399,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-13T04:04:06Z"
+  "updated_at": "2026-07-13T09:52:36Z"
 }
