@@ -86,8 +86,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition"
     },
     "amazon:3125279": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-07-14",
       "company": "Amazon",
       "external_id": "3125279",
       "first_seen": "2026-07-09",
@@ -100,8 +101,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3125279/2026-data-scientist-internship-amazon-university-talent-acquisition"
     },
     "amazon:3126153": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-14",
       "company": "Amazon",
       "external_id": "3126153",
       "first_seen": "2026-07-09",
@@ -401,5 +403,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-14T14:18:06Z"
+  "updated_at": "2026-07-14T19:47:46Z"
 }
