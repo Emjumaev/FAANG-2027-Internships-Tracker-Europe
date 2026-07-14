@@ -386,8 +386,9 @@
       "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
     },
     "snowflake:e70a0f78-05d9-4adc-873e-0ac43bf549d2": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-14",
       "company": "Snowflake",
       "external_id": "e70a0f78-05d9-4adc-873e-0ac43bf549d2",
       "first_seen": "2026-07-09",
@@ -400,5 +401,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-14T08:32:39Z"
+  "updated_at": "2026-07-14T14:18:06Z"
 }
