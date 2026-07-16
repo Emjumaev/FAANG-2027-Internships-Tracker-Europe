@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-07-16 14:27:04 UTC** · 📌 **19** open internships
+> 🕐 Last updated: **2026-07-16 19:39:36 UTC** · 📌 **20** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -26,7 +26,7 @@ API every 6 hours by GitHub Actions.
 | Hudson River Trading | — |
 | [Intel](#intel) | 1 |
 | Jane Street | — |
-| [Meta](#meta) | 2 |
+| [Meta](#meta) | 3 |
 | Microsoft | — |
 | NVIDIA | — |
 | Netflix | — |
@@ -88,6 +88,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Scientist Intern, 3D Scene Understanding (PhD)](https://www.metacareers.com/jobs/1029177790044680) 🆕 | AI/ML | Zurich, Switzerland | — | 2026-07-16 |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) 🆕 | AI/ML | London, UK | — | 2026-07-09 |
 | [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) 🆕 | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
 
