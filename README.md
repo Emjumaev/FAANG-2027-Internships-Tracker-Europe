@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-07-17 08:33:05 UTC** · 📌 **20** open internships
+> 🕐 Last updated: **2026-07-17 14:08:00 UTC** · 📌 **19** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -36,7 +36,7 @@ API every 6 hours by GitHub Actions.
 | Pinterest | — |
 | Salesforce | — |
 | Snap | — |
-| [Snowflake](#snowflake) | 3 |
+| [Snowflake](#snowflake) | 2 |
 | Spotify | — |
 | Stripe | — |
 | Uber | — |
@@ -97,7 +97,6 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | Berlin, Germany | 2026-06-02 | 2026-07-09 |
-| [Software Engineer Intern (AI/ML) - 2026](https://careers.snowflake.com/us/en/job/4298e941-d129-4d7f-a965-faa68e6e599e) | AI/ML | Warsaw, Poland | 2026-06-02 | 2026-07-09 |
 | [Software Engineer Intern - Zurich (2026)](https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58) | Software | Zurich, Switzerland | 2026-05-12 | 2026-07-09 |
 
 
