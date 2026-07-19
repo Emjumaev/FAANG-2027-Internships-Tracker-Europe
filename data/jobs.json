@@ -267,13 +267,14 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-07-09",
+      "posted": "2026-07-08",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
     },
     "meta:1029177790044680": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-19",
       "company": "Meta",
       "external_id": "1029177790044680",
       "first_seen": "2026-07-16",
@@ -286,8 +287,9 @@
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
     "meta:771948392580541": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-19",
       "company": "Meta",
       "external_id": "771948392580541",
       "first_seen": "2026-07-09",
@@ -301,8 +303,9 @@
       "url": "https://www.metacareers.com/jobs/771948392580541"
     },
     "meta:924149567345400": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-19",
       "company": "Meta",
       "external_id": "924149567345400",
       "first_seen": "2026-07-09",
@@ -418,5 +421,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-19T03:57:50Z"
+  "updated_at": "2026-07-19T08:37:28Z"
 }
