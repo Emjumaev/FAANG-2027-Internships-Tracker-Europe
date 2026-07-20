@@ -21,7 +21,7 @@
       "company": "Amazon",
       "external_id": "10418355",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Dublin, IRL"
       ],
@@ -35,7 +35,7 @@
       "company": "Amazon",
       "external_id": "3072042",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Dublin, IRL"
       ],
@@ -49,7 +49,7 @@
       "company": "Amazon",
       "external_id": "3074226",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -63,7 +63,7 @@
       "company": "Amazon",
       "external_id": "3115016",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -77,7 +77,7 @@
       "company": "Amazon",
       "external_id": "3120058",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Barcelona, Catalonia, ESP"
       ],
@@ -121,7 +121,7 @@
       "company": "Amazon",
       "external_id": "3126764",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "London, England, GBR"
       ],
@@ -135,7 +135,7 @@
       "company": "Amazon",
       "external_id": "3128215",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Luxembourg, LUX"
       ],
@@ -149,7 +149,7 @@
       "company": "Amazon",
       "external_id": "3134271",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -163,7 +163,7 @@
       "company": "Apple",
       "external_id": "200617616",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "London"
       ],
@@ -177,7 +177,7 @@
       "company": "Apple",
       "external_id": "200622296",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Munich"
       ],
@@ -191,7 +191,7 @@
       "company": "Apple",
       "external_id": "200629965",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "London"
       ],
@@ -205,7 +205,7 @@
       "company": "Cisco",
       "external_id": "2005347",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Prague, Praha, Czechia"
       ],
@@ -234,7 +234,7 @@
       "company": "Google",
       "external_id": "135233176434811590",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Z\u00fcrich, Switzerland"
       ],
@@ -263,11 +263,11 @@
       "company": "Intel",
       "external_id": "JR0285471",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-07-08",
+      "posted": "2026-07-09",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
     },
@@ -293,7 +293,7 @@
       "company": "Meta",
       "external_id": "771948392580541",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "London, UK",
         "Zurich, Switzerland"
@@ -309,7 +309,7 @@
       "company": "Meta",
       "external_id": "924149567345400",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "London, UK"
       ],
@@ -368,7 +368,7 @@
       "company": "Snowflake",
       "external_id": "3a9baeaf-b107-41fb-a9b3-a98ab78275ed",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Berlin, Germany"
       ],
@@ -397,7 +397,7 @@
       "company": "Snowflake",
       "external_id": "a92a900c-56c2-4cf6-8c2e-fcd183a84e58",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-19",
+      "last_seen": "2026-07-20",
       "locations": [
         "Zurich, Switzerland"
       ],
@@ -421,5 +421,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-19T19:36:19Z"
+  "updated_at": "2026-07-20T04:08:23Z"
 }
