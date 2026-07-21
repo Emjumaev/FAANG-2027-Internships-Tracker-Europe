@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-07-20 20:01:06 UTC** · 📌 **18** open internships
+> 🕐 Last updated: **2026-07-21 03:48:52 UTC** · 📌 **18** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -56,7 +56,7 @@ API every 6 hours by GitHub Actions.
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | London, England, GBR | 2025-11-14 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Barcelona, Catalonia, ESP | 2025-11-03 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Berlin, Berlin, DEU | 2025-10-24 | 2026-07-09 |
-| [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) 🆕 | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
+| [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
 
 ## Apple
 
@@ -82,7 +82,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) | AI/ML | Poland, Gdansk | 2026-07-08 | 2026-07-09 |
+| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) | AI/ML | Poland, Gdansk | 2026-07-09 | 2026-07-09 |
 
 ## Meta
 
