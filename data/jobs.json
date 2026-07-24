@@ -1,13 +1,13 @@
 {
   "jobs": {
     "amazon:10401402": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-13",
       "company": "Amazon",
       "external_id": "10401402",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-13",
+      "last_seen": "2026-07-24",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -437,5 +437,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-24T08:46:49Z"
+  "updated_at": "2026-07-24T14:17:14Z"
 }
