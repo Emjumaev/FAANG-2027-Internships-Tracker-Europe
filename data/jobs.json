@@ -215,8 +215,9 @@
       "url": "https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture"
     },
     "cisco:2005347": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-27",
       "company": "Cisco",
       "external_id": "2005347",
       "first_seen": "2026-07-09",
@@ -282,7 +283,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-07-09",
+      "posted": "2026-07-08",
       "title": "AI Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
     },
@@ -437,5 +438,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-27T04:07:41Z"
+  "updated_at": "2026-07-27T10:13:40Z"
 }
