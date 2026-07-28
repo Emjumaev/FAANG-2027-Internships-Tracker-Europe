@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-07-28 08:56:22 UTC** · 📌 **17** open internships
+> 🕐 Last updated: **2026-07-28 14:41:13 UTC** · 📌 **18** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ API every 6 hours by GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 3 |
 | Bloomberg | — |
-| Cisco | — |
+| [Cisco](#cisco) | 1 |
 | Cloudflare | — |
 | Databricks | — |
 | GitHub | — |
@@ -66,6 +66,12 @@ API every 6 hours by GitHub Actions.
 | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture) | Backend/Infra | London | 2025-11-04 | 2026-07-09 |
 | [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d) | Backend/Infra | Munich | 2025-09-22 | 2026-07-09 |
 | [GPU Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200617616/gpu-internship-platform-architecture) | Backend/Infra | London | 2025-08-26 | 2026-07-09 |
+
+## Cisco
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Development Intern (Cracow, Poland)](https://careers.cisco.com/global/en/job/2015133) | Software | Krakow, Poland | 2026-07-28 | 2026-07-09 |
 
 ## Google
 

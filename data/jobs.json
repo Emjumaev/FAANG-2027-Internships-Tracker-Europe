@@ -230,17 +230,17 @@
       "url": "https://careers.cisco.com/global/en/job/2005347"
     },
     "cisco:2015133": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-07-10",
       "company": "Cisco",
       "external_id": "2015133",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-07-10",
+      "last_seen": "2026-07-28",
       "locations": [
         "Krakow, Poland"
       ],
-      "posted": "2026-05-18",
+      "posted": "2026-07-28",
       "title": "Software Development Intern (Cracow, Poland)",
       "url": "https://careers.cisco.com/global/en/job/2015133"
     },
@@ -438,5 +438,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-28T08:56:22Z"
+  "updated_at": "2026-07-28T14:41:13Z"
 }
