@@ -378,6 +378,20 @@
       "title": "Applied Science Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
+    "nvidia:JR2022086": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2022086",
+      "first_seen": "2026-07-30",
+      "last_seen": "2026-07-30",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-07-30",
+      "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
+    },
     "snowflake:3a9baeaf-b107-41fb-a9b3-a98ab78275ed": {
       "active": true,
       "category": "Software",
@@ -438,5 +452,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-30T14:38:12Z"
+  "updated_at": "2026-07-30T19:56:20Z"
 }
