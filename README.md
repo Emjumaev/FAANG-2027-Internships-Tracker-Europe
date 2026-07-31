@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-07-31 09:21:33 UTC** · 📌 **19** open internships
+> 🕐 Last updated: **2026-07-31 14:38:56 UTC** · 📌 **18** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -28,7 +28,7 @@ API every 6 hours by GitHub Actions.
 | Jane Street | — |
 | [Meta](#meta) | 2 |
 | Microsoft | — |
-| [NVIDIA](#nvidia) | 1 |
+| NVIDIA | — |
 | Netflix | — |
 | OpenAI | — |
 | Oracle | — |
@@ -91,12 +91,6 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | London, UK | — | 2026-07-09 |
 | [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
-
-## NVIDIA
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [Software Engineering Intern — Replay Tooling & Test Automation, Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) 🆕 | AI/ML | Germany, Munich | 2026-07-30 | 2026-07-30 |
 
 ## Snowflake
 

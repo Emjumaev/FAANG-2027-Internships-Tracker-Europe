@@ -379,8 +379,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
     "nvidia:JR2022086": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-07-31",
       "company": "NVIDIA",
       "external_id": "JR2022086",
       "first_seen": "2026-07-30",
@@ -452,5 +453,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-07-31T09:21:33Z"
+  "updated_at": "2026-07-31T14:38:56Z"
 }
