@@ -258,6 +258,24 @@
       "title": "Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/135233176434811590"
     },
+    "hudson-river-trading:8052083": {
+      "active": true,
+      "category": "Software",
+      "company": "Hudson River Trading",
+      "external_id": "8052083",
+      "first_seen": "2026-08-03",
+      "last_seen": "2026-08-03",
+      "locations": [
+        "Austin, TX, United States",
+        "Chicago, Illinois, United States",
+        "London, United Kingdom",
+        "New York, NY, United States",
+        "Singapore"
+      ],
+      "posted": "2026-07-13",
+      "title": "Software Engineering Internship (C++ or Python) \u2013 Summer 2027",
+      "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083"
+    },
     "intel:JR0284874": {
       "active": false,
       "category": "Software",
@@ -453,5 +471,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-08-03T10:10:03Z"
+  "updated_at": "2026-08-03T15:19:49Z"
 }

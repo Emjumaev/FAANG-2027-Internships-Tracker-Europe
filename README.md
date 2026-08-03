@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-08-03 10:10:03 UTC** · 📌 **18** open internships
+> 🕐 Last updated: **2026-08-03 15:19:49 UTC** · 📌 **19** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -23,7 +23,7 @@ API every 6 hours by GitHub Actions.
 | Databricks | — |
 | GitHub | — |
 | [Google](#google) | 1 |
-| Hudson River Trading | — |
+| [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 1 |
 | Jane Street | — |
 | [Meta](#meta) | 2 |
@@ -78,6 +78,12 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027](https://www.google.com/about/careers/applications/jobs/results/135233176434811590) | Software | Zürich, Switzerland | 2026-07-01 | 2026-07-09 |
+
+## Hudson River Trading
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) 🆕 | Software | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom *(+2 more)* | 2026-07-13 | 2026-08-03 |
 
 ## Intel
 
