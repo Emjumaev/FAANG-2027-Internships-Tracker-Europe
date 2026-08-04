@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-08-04 09:11:46 UTC** · 📌 **19** open internships
+> 🕐 Last updated: **2026-08-04 14:44:07 UTC** · 📌 **18** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -24,7 +24,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 1 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 1 |
+| Intel | — |
 | Jane Street | — |
 | [Meta](#meta) | 2 |
 | Microsoft | — |
@@ -84,12 +84,6 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) 🆕 | Software | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom *(+2 more)* | 2026-07-13 | 2026-08-03 |
-
-## Intel
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [AI Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471) | AI/ML | Poland, Gdansk | 2026-07-08 | 2026-07-09 |
 
 ## Meta
 

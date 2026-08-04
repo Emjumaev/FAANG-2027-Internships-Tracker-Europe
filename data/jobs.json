@@ -292,8 +292,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0284874"
     },
     "intel:JR0285471": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-08-04",
       "company": "Intel",
       "external_id": "JR0285471",
       "first_seen": "2026-07-09",
@@ -471,5 +472,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-08-04T09:11:46Z"
+  "updated_at": "2026-08-04T14:44:07Z"
 }
