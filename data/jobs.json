@@ -244,6 +244,21 @@
       "title": "Software Development Intern (Cracow, Poland)",
       "url": "https://careers.cisco.com/global/en/job/2015133"
     },
+    "google:107087730147500742": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "107087730147500742",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "Krak\u00f3w, Poland",
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-08-17",
+      "title": "Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/107087730147500742"
+    },
     "google:111285665542349510": {
       "active": true,
       "category": "AI/ML",
@@ -274,6 +289,20 @@
       "title": "Data Science PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/132149998191026886"
     },
+    "google:134795423167455942": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Google",
+      "external_id": "134795423167455942",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-08-17",
+      "title": "Research Scientist PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/134795423167455942"
+    },
     "google:135233176434811590": {
       "active": true,
       "category": "Software",
@@ -287,6 +316,34 @@
       "posted": "2026-07-01",
       "title": "Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/135233176434811590"
+    },
+    "google:73321728058499782": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "73321728058499782",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-08-17",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782"
+    },
+    "google:77684590197514950": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "77684590197514950",
+      "first_seen": "2026-08-17",
+      "last_seen": "2026-08-17",
+      "locations": [
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-08-17",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/77684590197514950"
     },
     "google:80037545080955590": {
       "active": true,
@@ -530,5 +587,5 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     }
   },
-  "updated_at": "2026-08-17T13:09:58Z"
+  "updated_at": "2026-08-17T19:03:03Z"
 }
