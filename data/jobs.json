@@ -359,6 +359,21 @@
       "title": "Software Engineering or SRE, PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590"
     },
+    "google:93078491720753862": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "93078491720753862",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "locations": [
+        "Berlin, Germany",
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-08-18",
+      "title": "Software Engineering PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/93078491720753862"
+    },
     "hudson-river-trading:8052083": {
       "active": true,
       "category": "Software",
@@ -585,7 +600,21 @@
       "posted": "2026-06-02",
       "title": "Research Intern (AI) - 2026",
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
+    },
+    "stripe:8097801": {
+      "active": true,
+      "category": "Software",
+      "company": "Stripe",
+      "external_id": "8097801",
+      "first_seen": "2026-08-18",
+      "last_seen": "2026-08-18",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-08-17",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8097801"
     }
   },
-  "updated_at": "2026-08-18T07:08:36Z"
+  "updated_at": "2026-08-18T13:12:16Z"
 }
