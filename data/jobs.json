@@ -528,6 +528,20 @@
       "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
+    "nvidia:JR2023302": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2023302",
+      "first_seen": "2026-08-19",
+      "last_seen": "2026-08-19",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-08-19",
+      "title": "Software Engineering Intern, Test Automation \u2014 Autonomous Vehicles",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302"
+    },
     "snowflake:3045856c-74a4-469e-ba81-a176cc0bef8f": {
       "active": true,
       "category": "Security",
@@ -616,5 +630,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
     }
   },
-  "updated_at": "2026-08-19T01:57:31Z"
+  "updated_at": "2026-08-19T07:09:49Z"
 }

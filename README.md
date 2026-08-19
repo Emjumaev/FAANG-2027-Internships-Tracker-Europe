@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-08-19 01:57:31 UTC** · 📌 **28** open internships
+> 🕐 Last updated: **2026-08-19 07:09:49 UTC** · 📌 **29** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -28,7 +28,7 @@ API every 6 hours by GitHub Actions.
 | Jane Street | — |
 | [Meta](#meta) | 2 |
 | Microsoft | — |
-| NVIDIA | — |
+| [NVIDIA](#nvidia) | 1 |
 | Netflix | — |
 | OpenAI | — |
 | Oracle | — |
@@ -99,6 +99,12 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | London, UK | — | 2026-07-09 |
 | [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
+
+## NVIDIA
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) 🆕 | AI/ML | Germany, Munich | 2026-08-19 | 2026-08-19 |
 
 ## Snowflake
 
