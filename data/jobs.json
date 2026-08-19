@@ -7,7 +7,7 @@
       "company": "Amazon",
       "external_id": "10401402",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -21,7 +21,7 @@
       "company": "Amazon",
       "external_id": "10418355",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Dublin, IRL"
       ],
@@ -50,7 +50,7 @@
       "company": "Amazon",
       "external_id": "3074226",
       "first_seen": "2026-07-13",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -64,7 +64,7 @@
       "company": "Amazon",
       "external_id": "3115016",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -78,7 +78,7 @@
       "company": "Amazon",
       "external_id": "3120058",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Barcelona, Catalonia, ESP"
       ],
@@ -122,7 +122,7 @@
       "company": "Amazon",
       "external_id": "3126764",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "London, England, GBR"
       ],
@@ -136,7 +136,7 @@
       "company": "Amazon",
       "external_id": "3128215",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Luxembourg, LUX"
       ],
@@ -150,7 +150,7 @@
       "company": "Amazon",
       "external_id": "3130528",
       "first_seen": "2026-07-20",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Dresden, Saxony, DEU"
       ],
@@ -164,7 +164,7 @@
       "company": "Amazon",
       "external_id": "3134271",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Berlin, Berlin, DEU"
       ],
@@ -178,7 +178,7 @@
       "company": "Apple",
       "external_id": "200617616",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Cambridge"
       ],
@@ -192,7 +192,7 @@
       "company": "Apple",
       "external_id": "200622296",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Munich"
       ],
@@ -206,7 +206,7 @@
       "company": "Apple",
       "external_id": "200629965",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "London"
       ],
@@ -236,7 +236,7 @@
       "company": "Cisco",
       "external_id": "2015133",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Krakow, Poland"
       ],
@@ -250,7 +250,7 @@
       "company": "Google",
       "external_id": "107087730147500742",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Krak\u00f3w, Poland",
         "Warsaw, Poland"
@@ -265,7 +265,7 @@
       "company": "Google",
       "external_id": "111285665542349510",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Munich, Germany",
         "Paris, France",
@@ -281,7 +281,7 @@
       "company": "Google",
       "external_id": "132149998191026886",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Warsaw, Poland"
       ],
@@ -295,7 +295,7 @@
       "company": "Google",
       "external_id": "134795423167455942",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "London, UK"
       ],
@@ -309,7 +309,7 @@
       "company": "Google",
       "external_id": "135233176434811590",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Z\u00fcrich, Switzerland"
       ],
@@ -323,7 +323,7 @@
       "company": "Google",
       "external_id": "73321728058499782",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "London, UK"
       ],
@@ -337,7 +337,7 @@
       "company": "Google",
       "external_id": "77684590197514950",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Z\u00fcrich, Switzerland"
       ],
@@ -351,7 +351,7 @@
       "company": "Google",
       "external_id": "80037545080955590",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "London, UK"
       ],
@@ -365,7 +365,7 @@
       "company": "Google",
       "external_id": "93078491720753862",
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Berlin, Germany",
         "Z\u00fcrich, Switzerland"
@@ -380,7 +380,7 @@
       "company": "Hudson River Trading",
       "external_id": "8052083",
       "first_seen": "2026-08-03",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Austin, TX, United States",
         "Chicago, Illinois, United States",
@@ -444,7 +444,7 @@
       "company": "Meta",
       "external_id": "771948392580541",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "London, UK",
         "Zurich, Switzerland"
@@ -460,7 +460,7 @@
       "company": "Meta",
       "external_id": "924149567345400",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "London, UK"
       ],
@@ -534,7 +534,7 @@
       "company": "Snowflake",
       "external_id": "3045856c-74a4-469e-ba81-a176cc0bef8f",
       "first_seen": "2026-08-05",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Warsaw, Poland"
       ],
@@ -548,7 +548,7 @@
       "company": "Snowflake",
       "external_id": "3a9baeaf-b107-41fb-a9b3-a98ab78275ed",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Berlin, Germany"
       ],
@@ -607,7 +607,7 @@
       "company": "Stripe",
       "external_id": "8097801",
       "first_seen": "2026-08-18",
-      "last_seen": "2026-08-18",
+      "last_seen": "2026-08-19",
       "locations": [
         "Dublin"
       ],
@@ -616,5 +616,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
     }
   },
-  "updated_at": "2026-08-18T19:01:24Z"
+  "updated_at": "2026-08-19T01:57:31Z"
 }
