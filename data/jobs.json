@@ -244,6 +244,20 @@
       "title": "Software Development Intern (Cracow, Poland)",
       "url": "https://careers.cisco.com/global/en/job/2015133"
     },
+    "cisco:2023625": {
+      "active": true,
+      "category": "Software",
+      "company": "Cisco",
+      "external_id": "2023625",
+      "first_seen": "2026-08-21",
+      "last_seen": "2026-08-21",
+      "locations": [
+        "Harpenden, Herefordshire, United Kingdom"
+      ],
+      "posted": "2026-08-21",
+      "title": "Software Engineer - Intern",
+      "url": "https://careers.cisco.com/global/en/job/2023625"
+    },
     "google:107087730147500742": {
       "active": true,
       "category": "Software",
@@ -630,5 +644,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
     }
   },
-  "updated_at": "2026-08-21T13:15:07Z"
+  "updated_at": "2026-08-21T19:00:58Z"
 }
