@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-08-24 07:24:54 UTC** · 📌 **30** open internships
+> 🕐 Last updated: **2026-08-24 13:17:44 UTC** · 📌 **30** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -78,7 +78,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) 🆕 | Software | Berlin, Germany; Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
+| [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) 🆕 | Software | Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
 | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) 🆕 | Backend/Infra | London, UK | 2026-08-17 | 2026-08-17 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) 🆕 | Software | Kraków, Poland; Warsaw, Poland | 2026-08-17 | 2026-08-17 |
 | [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/111285665542349510) 🆕 | AI/ML | Munich, Germany; Paris, France; Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
