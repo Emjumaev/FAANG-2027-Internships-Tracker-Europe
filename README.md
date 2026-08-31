@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-08-31 05:37:27 UTC** · 📌 **30** open internships
+> 🕐 Last updated: **2026-08-31 13:52:30 UTC** · 📌 **29** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -22,7 +22,7 @@ API every 6 hours by GitHub Actions.
 | Cloudflare | — |
 | Databricks | — |
 | GitHub | — |
-| [Google](#google) | 9 |
+| [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | Intel | — |
 | Jane Street | — |
@@ -83,7 +83,6 @@ API every 6 hours by GitHub Actions.
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) | Software | Kraków, Poland; Warsaw, Poland | 2026-08-17 | 2026-08-17 |
 | [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/111285665542349510) | AI/ML | Munich, Germany; Paris, France; Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
 | [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | AI/ML | London, UK | 2026-08-17 | 2026-08-17 |
-| [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/132149998191026886) | Data | Warsaw, Poland | 2026-08-17 | 2026-08-17 |
 | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data | London, UK | 2026-08-17 | 2026-08-17 |
 | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) | Data | Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
 | [Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027](https://www.google.com/about/careers/applications/jobs/results/135233176434811590) | Software | Zürich, Switzerland | 2026-07-01 | 2026-07-09 |
@@ -105,7 +104,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-20 | 2026-08-19 |
+| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-19 | 2026-08-19 |
 
 ## Snowflake
 
