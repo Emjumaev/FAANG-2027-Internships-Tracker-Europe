@@ -44,6 +44,20 @@
       "title": "2026 Software Dev Engineer Intern - Ireland",
       "url": "https://www.amazon.jobs/en/jobs/3072042/2026-software-dev-engineer-intern-ireland"
     },
+    "amazon:3072061": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "3072061",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2025-09-03",
+      "title": "2026 Software Dev Engineer Intern - UK",
+      "url": "https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk"
+    },
     "amazon:3074226": {
       "active": true,
       "category": "Software",
@@ -257,6 +271,20 @@
       "posted": "2026-08-21",
       "title": "Software Engineer - Intern",
       "url": "https://careers.cisco.com/global/en/job/2023625"
+    },
+    "cisco:2024366": {
+      "active": true,
+      "category": "Software",
+      "company": "Cisco",
+      "external_id": "2024366",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "Lysaker, Norway"
+      ],
+      "posted": "2026-08-31",
+      "title": "Software Engineer Summer Internship - Lysaker, Norway",
+      "url": "https://careers.cisco.com/global/en/job/2024366"
     },
     "google:107087730147500742": {
       "active": true,
@@ -642,7 +670,21 @@
       "posted": "2026-08-17",
       "title": "Software Engineer, Intern (Summer)",
       "url": "https://stripe.com/jobs/search?gh_jid=8097801"
+    },
+    "stripe:8130867": {
+      "active": true,
+      "category": "Software",
+      "company": "Stripe",
+      "external_id": "8130867",
+      "first_seen": "2026-08-31",
+      "last_seen": "2026-08-31",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-08-31",
+      "title": "Software Engineer, Intern",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-08-31T13:52:30Z"
+  "updated_at": "2026-08-31T22:55:08Z"
 }
