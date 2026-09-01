@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-08-31 22:55:08 UTC** · 📌 **32** open internships
+> 🕐 Last updated: **2026-09-01 05:11:28 UTC** · 📌 **33** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -38,7 +38,7 @@ API every 6 hours by GitHub Actions.
 | Snap | — |
 | [Snowflake](#snowflake) | 2 |
 | Spotify | — |
-| [Stripe](#stripe) | 2 |
+| [Stripe](#stripe) | 3 |
 | Uber | — |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
@@ -106,7 +106,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-19 | 2026-08-19 |
+| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-20 | 2026-08-19 |
 
 ## Snowflake
 
@@ -120,7 +120,8 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) 🆕 | Software | London | 2026-08-31 | 2026-08-31 |
-| [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8097801) | Software | Dublin | 2026-08-17 | 2026-08-18 |
+| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) 🆕 | Software | Bucharest | 2026-08-31 | 2026-09-01 |
+| [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | Software | Dublin | 2026-08-17 | 2026-08-18 |
 
 
 ---
