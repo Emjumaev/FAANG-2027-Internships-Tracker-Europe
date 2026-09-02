@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-02 04:37:04 UTC** · 📌 **33** open internships
+> 🕐 Last updated: **2026-09-02 11:22:37 UTC** · 📌 **32** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 10 |
+| [Amazon](#amazon) | 9 |
 | Anthropic | — |
 | [Apple](#apple) | 3 |
 | Bloomberg | — |
@@ -50,7 +50,6 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin, IRL | 2026-05-13 | 2026-07-09 |
-| [Software Dev Engineer Intern Machine Learning, Amazon Robotics](https://www.amazon.jobs/en/jobs/10401402/software-dev-engineer-intern-machine-learning-amazon-robotics) | AI/ML | Berlin, Berlin, DEU | 2026-04-23 | 2026-07-09 |
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | Berlin, Berlin, DEU | 2025-12-01 | 2026-07-09 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | Backend/Infra | Dresden, Saxony, DEU | 2025-11-21 | 2026-07-20 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3128215/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Luxembourg, LUX | 2025-11-18 | 2026-07-09 |
@@ -106,7 +105,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-20 | 2026-08-19 |
+| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-19 | 2026-08-19 |
 
 ## Snowflake
 
