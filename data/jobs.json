@@ -421,6 +421,20 @@
       "title": "Data Science PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/73321728058499782"
     },
+    "google:74389446190867142": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "74389446190867142",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-09-03",
+      "title": "Data Science PhD Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/74389446190867142"
+    },
     "google:77684590197514950": {
       "active": true,
       "category": "Data",
@@ -632,8 +646,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
     "nvidia:JR2023302": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-03",
       "company": "NVIDIA",
       "external_id": "JR2023302",
       "first_seen": "2026-08-19",
@@ -761,5 +776,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-03T11:18:11Z"
+  "updated_at": "2026-09-03T16:30:15Z"
 }
