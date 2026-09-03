@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-03 04:27:19 UTC** · 📌 **32** open internships
+> 🕐 Last updated: **2026-09-03 11:18:11 UTC** · 📌 **36** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -22,7 +22,7 @@ API every 6 hours by GitHub Actions.
 | Cloudflare | — |
 | Databricks | — |
 | GitHub | — |
-| [Google](#google) | 8 |
+| [Google](#google) | 12 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | Intel | — |
 | Jane Street | — |
@@ -79,6 +79,10 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/100028133205254854) 🆕 | Backend/Infra | London, UK | 2026-09-03 | 2026-09-03 |
+| [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121543376737575622) 🆕 | Backend/Infra | Kraków, Poland; Warsaw, Poland | 2026-09-03 | 2026-09-03 |
+| [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) 🆕 | Backend/Infra | Dublin, Ireland; Munich, Germany; Paris, France *(+2 more)* | 2026-09-03 | 2026-09-03 |
+| [Software Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/83199557986329286) 🆕 | Software | Bucharest, Romania | 2026-09-03 | 2026-09-03 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | Software | Zürich, Switzerland | 2026-08-18 | 2026-08-18 |
 | [Software Engineering or SRE, PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/80037545080955590) | Backend/Infra | London, UK | 2026-08-17 | 2026-08-17 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) | Software | Kraków, Poland; Warsaw, Poland | 2026-08-17 | 2026-08-17 |
@@ -105,7 +109,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-20 | 2026-08-19 |
+| [Software Engineering Intern, Test Automation — Autonomous Vehicles](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302) | AI/ML | Germany, Munich | 2026-08-19 | 2026-08-19 |
 
 ## Snowflake
 

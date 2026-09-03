@@ -286,6 +286,20 @@
       "title": "Software Engineer Summer Internship - Lysaker, Norway",
       "url": "https://careers.cisco.com/global/en/job/2024366"
     },
+    "google:100028133205254854": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Google",
+      "external_id": "100028133205254854",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": "2026-09-03",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/100028133205254854"
+    },
     "google:107087730147500742": {
       "active": true,
       "category": "Software",
@@ -316,6 +330,21 @@
       "posted": "2026-08-17",
       "title": "Research Scientist PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/111285665542349510"
+    },
+    "google:121543376737575622": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Google",
+      "external_id": "121543376737575622",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "Krak\u00f3w, Poland",
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-09-03",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/121543376737575622"
     },
     "google:132149998191026886": {
       "active": false,
@@ -360,6 +389,24 @@
       "title": "Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/135233176434811590"
     },
+    "google:142747733357142726": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Google",
+      "external_id": "142747733357142726",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "Dublin, Ireland",
+        "Munich, Germany",
+        "Paris, France",
+        "Stockholm, Sweden",
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-09-03",
+      "title": "Software Engineering, Site Reliability Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/142747733357142726"
+    },
     "google:73321728058499782": {
       "active": true,
       "category": "Data",
@@ -401,6 +448,20 @@
       "posted": "2026-08-17",
       "title": "Software Engineering or SRE, PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590"
+    },
+    "google:83199557986329286": {
+      "active": true,
+      "category": "Software",
+      "company": "Google",
+      "external_id": "83199557986329286",
+      "first_seen": "2026-09-03",
+      "last_seen": "2026-09-03",
+      "locations": [
+        "Bucharest, Romania"
+      ],
+      "posted": "2026-09-03",
+      "title": "Software Engineering BS/MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/83199557986329286"
     },
     "google:93078491720753862": {
       "active": true,
@@ -580,7 +641,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-08-20",
+      "posted": "2026-08-19",
       "title": "Software Engineering Intern, Test Automation \u2014 Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302"
     },
@@ -700,5 +761,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-03T04:27:19Z"
+  "updated_at": "2026-09-03T11:18:11Z"
 }
