@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-04 16:26:27 UTC** · 📌 **37** open internships
+> 🕐 Last updated: **2026-09-04 20:50:25 UTC** · 📌 **38** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -28,7 +28,7 @@ API every 6 hours by GitHub Actions.
 | Jane Street | — |
 | [Meta](#meta) | 2 |
 | Microsoft | — |
-| NVIDIA | — |
+| [NVIDIA](#nvidia) | 1 |
 | Netflix | — |
 | OpenAI | — |
 | Oracle | — |
@@ -106,6 +106,12 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | London, UK | — | 2026-07-09 |
 | [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
+
+## NVIDIA
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Deep Learning Algorithm Engineering Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814) 🆕 | AI/ML | Switzerland, Zurich | 2026-09-04 | 2026-09-04 |
 
 ## Snowflake
 

@@ -644,6 +644,20 @@
       "title": "Applied Science Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
+    "nvidia:JR2012814": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2012814",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "Switzerland, Zurich"
+      ],
+      "posted": "2026-09-04",
+      "title": "Deep Learning Algorithm Engineering Intern - 2026",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
+    },
     "nvidia:JR2022086": {
       "active": false,
       "category": "AI/ML",
@@ -790,5 +804,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-04T16:26:27Z"
+  "updated_at": "2026-09-04T20:50:25Z"
 }
