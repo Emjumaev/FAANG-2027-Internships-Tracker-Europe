@@ -286,6 +286,20 @@
       "title": "Software Engineer Summer Internship - Lysaker, Norway",
       "url": "https://careers.cisco.com/global/en/job/2024366"
     },
+    "cisco:2024810": {
+      "active": true,
+      "category": "Software",
+      "company": "Cisco",
+      "external_id": "2024810",
+      "first_seen": "2026-09-04",
+      "last_seen": "2026-09-04",
+      "locations": [
+        "Galway, Ireland"
+      ],
+      "posted": "2026-09-04",
+      "title": "Software Engineer Intern",
+      "url": "https://careers.cisco.com/global/en/job/2024810"
+    },
     "google:100028133205254854": {
       "active": true,
       "category": "Backend/Infra",
@@ -776,5 +790,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-04T04:36:26Z"
+  "updated_at": "2026-09-04T11:22:02Z"
 }

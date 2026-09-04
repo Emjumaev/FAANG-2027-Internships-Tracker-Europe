@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-04 04:36:26 UTC** · 📌 **36** open internships
+> 🕐 Last updated: **2026-09-04 11:22:02 UTC** · 📌 **37** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ API every 6 hours by GitHub Actions.
 | Anthropic | — |
 | [Apple](#apple) | 3 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 3 |
+| [Cisco](#cisco) | 4 |
 | Cloudflare | — |
 | Databricks | — |
 | GitHub | — |
@@ -71,6 +71,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Software Engineer Intern](https://careers.cisco.com/global/en/job/2024810) 🆕 | Software | Galway, Ireland | 2026-09-04 | 2026-09-04 |
 | [Software Engineer Summer Internship - Lysaker, Norway](https://careers.cisco.com/global/en/job/2024366) 🆕 | Software | Lysaker, Norway | 2026-08-31 | 2026-08-31 |
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) | Software | Harpenden, Herefordshire, United Kingdom | 2026-08-21 | 2026-08-21 |
 | [Software Development Intern (Cracow, Poland)](https://careers.cisco.com/global/en/job/2015133) | Software | Krakow, Poland | 2026-07-28 | 2026-07-09 |
