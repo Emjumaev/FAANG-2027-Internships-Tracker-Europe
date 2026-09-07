@@ -228,6 +228,20 @@
       "title": "SoC Performance Modeling Internship - Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture"
     },
+    "apple:200682229": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Apple",
+      "external_id": "200682229",
+      "first_seen": "2026-09-07",
+      "last_seen": "2026-09-07",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-09-07",
+      "title": "PHY Cellular Firmware Engineer Internship",
+      "url": "https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -654,7 +668,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-05",
+      "posted": "2026-09-04",
       "title": "Deep Learning Algorithm Engineering Intern - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
@@ -804,5 +818,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-07T04:44:16Z"
+  "updated_at": "2026-09-07T12:35:24Z"
 }
