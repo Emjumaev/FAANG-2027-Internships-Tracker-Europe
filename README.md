@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-08 11:22:46 UTC** · 📌 **39** open internships
+> 🕐 Last updated: **2026-09-08 16:43:38 UTC** · 📌 **43** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,17 +14,17 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 9 |
+| [Amazon](#amazon) | 10 |
 | Anthropic | — |
 | [Apple](#apple) | 4 |
 | Bloomberg | — |
-| [Cisco](#cisco) | 4 |
+| [Cisco](#cisco) | 5 |
 | Cloudflare | — |
 | Databricks | — |
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| Intel | — |
+| [Intel](#intel) | 1 |
 | Jane Street | — |
 | [Meta](#meta) | 2 |
 | Microsoft | — |
@@ -36,7 +36,7 @@ API every 6 hours by GitHub Actions.
 | Pinterest | — |
 | Salesforce | — |
 | Snap | — |
-| [Snowflake](#snowflake) | 2 |
+| [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 3 |
 | Uber | — |
@@ -49,6 +49,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-08 | 2026-09-08 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin, IRL | 2026-05-13 | 2026-07-09 |
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | Berlin, Berlin, DEU | 2025-12-01 | 2026-07-09 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | Backend/Infra | Dresden, Saxony, DEU | 2025-11-21 | 2026-07-20 |
@@ -63,15 +64,16 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) 🆕 | QA | London | 2026-09-08 | 2026-09-08 |
 | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) 🆕 | Backend/Infra | Munich | 2026-09-07 | 2026-09-07 |
 | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture) | Backend/Infra | London | 2025-11-04 | 2026-07-09 |
 | [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d) | Backend/Infra | Munich | 2025-09-22 | 2026-07-09 |
-| [GPU Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200617616/gpu-internship-platform-architecture) | Backend/Infra | Cambridge | 2025-08-26 | 2026-07-09 |
 
 ## Cisco
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Wireless Software Engineer_ Intern](https://careers.cisco.com/global/en/job/2025061) 🆕 | Software | Ecublens, Switzerland | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern](https://careers.cisco.com/global/en/job/2024810) 🆕 | Software | Galway, Ireland | 2026-09-04 | 2026-09-04 |
 | [Software Engineer Summer Internship - Lysaker, Norway](https://careers.cisco.com/global/en/job/2024366) | Software | Lysaker, Norway | 2026-08-31 | 2026-08-31 |
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) | Software | Harpenden, Herefordshire, United Kingdom | 2026-08-21 | 2026-08-21 |
@@ -101,6 +103,12 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|
 | [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Software | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom *(+2 more)* | 2026-07-13 | 2026-08-03 |
 
+## Intel
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) 🆕 | Software | Ireland, Leixlip | 2026-09-08 | 2026-09-08 |
+
 ## Meta
 
 | Role | Category | Location | Posted | First seen |
@@ -118,6 +126,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Applied AI Intern - Warsaw](https://careers.snowflake.com/us/en/job/efbbdddd-18a1-4d9d-9455-3e82166b42f6) 🆕 | AI/ML | Warsaw, Poland | 2026-09-08 | 2026-09-08 |
 | [Software Engineer Intern - Warsaw Security](https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f) | Security | Warsaw, Poland | 2026-08-05 | 2026-08-05 |
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | Berlin, Germany | 2026-06-02 | 2026-07-09 |
 
