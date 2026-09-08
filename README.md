@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-07 21:35:46 UTC** · 📌 **39** open internships
+> 🕐 Last updated: **2026-09-08 04:39:08 UTC** · 📌 **39** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -57,7 +57,7 @@ API every 6 hours by GitHub Actions.
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Barcelona, Catalonia, ESP | 2025-11-03 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Berlin, Berlin, DEU | 2025-10-24 | 2026-07-09 |
 | [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
-| [2026 Software Dev Engineer Intern - UK](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) 🆕 | Software | London, England, GBR | 2025-09-03 | 2026-08-31 |
+| [2026 Software Dev Engineer Intern - UK](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) | Software | London, England, GBR | 2025-09-03 | 2026-08-31 |
 
 ## Apple
 
@@ -73,7 +73,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer Intern](https://careers.cisco.com/global/en/job/2024810) 🆕 | Software | Galway, Ireland | 2026-09-04 | 2026-09-04 |
-| [Software Engineer Summer Internship - Lysaker, Norway](https://careers.cisco.com/global/en/job/2024366) 🆕 | Software | Lysaker, Norway | 2026-08-31 | 2026-08-31 |
+| [Software Engineer Summer Internship - Lysaker, Norway](https://careers.cisco.com/global/en/job/2024366) | Software | Lysaker, Norway | 2026-08-31 | 2026-08-31 |
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) | Software | Harpenden, Herefordshire, United Kingdom | 2026-08-21 | 2026-08-21 |
 | [Software Development Intern (Cracow, Poland)](https://careers.cisco.com/global/en/job/2015133) | Software | Krakow, Poland | 2026-07-28 | 2026-07-09 |
 
@@ -112,7 +112,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Deep Learning Algorithm Engineering Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814) 🆕 | AI/ML | Switzerland, Zurich | 2026-09-04 | 2026-09-04 |
+| [Deep Learning Algorithm Engineering Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814) 🆕 | AI/ML | Switzerland, Zurich | 2026-09-05 | 2026-09-04 |
 
 ## Snowflake
 
@@ -126,7 +126,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) 🆕 | Software | Bucharest | 2026-08-31 | 2026-09-01 |
-| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) 🆕 | Software | London | 2026-08-31 | 2026-08-31 |
+| [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) | Software | London | 2026-08-31 | 2026-08-31 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | Software | Dublin | 2026-08-17 | 2026-08-18 |
 
 
