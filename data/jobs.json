@@ -30,8 +30,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern"
     },
     "amazon:10531760": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-09",
       "company": "Amazon",
       "external_id": "10531760",
       "first_seen": "2026-09-08",
@@ -620,7 +621,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-09",
+      "posted": "2026-09-08",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -725,7 +726,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-05",
+      "posted": "2026-09-04",
       "title": "Deep Learning Algorithm Engineering Intern - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
@@ -889,5 +890,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-09T04:45:35Z"
+  "updated_at": "2026-09-09T11:26:40Z"
 }
