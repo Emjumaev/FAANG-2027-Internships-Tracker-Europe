@@ -731,17 +731,17 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
     "nvidia:JR2022086": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-07-31",
       "company": "NVIDIA",
       "external_id": "JR2022086",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-07-31",
+      "last_seen": "2026-09-09",
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-07-30",
+      "posted": "2026-09-09",
       "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
@@ -890,5 +890,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-09T16:43:13Z"
+  "updated_at": "2026-09-09T21:00:59Z"
 }
