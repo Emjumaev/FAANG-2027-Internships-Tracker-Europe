@@ -716,6 +716,20 @@
       "title": "Applied Science Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
+    "microsoft:1970393556991724": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "external_id": "1970393556991724",
+      "first_seen": "2026-09-10",
+      "last_seen": "2026-09-10",
+      "locations": [
+        "United Kingdom, Cambridgeshire, Cambridge"
+      ],
+      "posted": "2026-09-10",
+      "title": "Cambridge Internship Program - Robotics Systems and Control",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724"
+    },
     "nvidia:JR2012814": {
       "active": true,
       "category": "AI/ML",
@@ -890,5 +904,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-10T11:23:09Z"
+  "updated_at": "2026-09-10T16:28:59Z"
 }

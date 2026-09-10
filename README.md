@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-10 11:23:09 UTC** · 📌 **43** open internships
+> 🕐 Last updated: **2026-09-10 16:28:59 UTC** · 📌 **44** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -27,7 +27,7 @@ API every 6 hours by GitHub Actions.
 | [Intel](#intel) | 1 |
 | Jane Street | — |
 | [Meta](#meta) | 2 |
-| Microsoft | — |
+| [Microsoft](#microsoft) | 1 |
 | [NVIDIA](#nvidia) | 2 |
 | Netflix | — |
 | OpenAI | — |
@@ -114,6 +114,12 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/924149567345400) | AI/ML | London, UK | — | 2026-07-09 |
 | [Research Scientist Intern, AI/ML, Core Ads Growth (PhD)](https://www.metacareers.com/jobs/771948392580541) | AI/ML | London, UK; Zurich, Switzerland | — | 2026-07-09 |
+
+## Microsoft
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) 🆕 | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-09-10 | 2026-09-10 |
 
 ## NVIDIA
 
