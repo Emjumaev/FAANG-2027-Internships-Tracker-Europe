@@ -1,6 +1,5 @@
 {
   "failed": {
-    "Google": "503 Server Error: Service Unavailable for url: https://www.google.com/about/careers/applications/jobs/results?q=intern&employment_type=INTERN&page=1",
     "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
   },
   "succeeded": [
@@ -14,6 +13,7 @@
     "Cloudflare",
     "Databricks",
     "GitHub",
+    "Google",
     "Hudson River Trading",
     "Intel",
     "Jane Street",

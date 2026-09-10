@@ -364,7 +364,7 @@
       "company": "Google",
       "external_id": "100028133205254854",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "London, UK"
       ],
@@ -378,7 +378,7 @@
       "company": "Google",
       "external_id": "107087730147500742",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Krak\u00f3w, Poland",
         "Warsaw, Poland"
@@ -393,7 +393,7 @@
       "company": "Google",
       "external_id": "111285665542349510",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Munich, Germany",
         "Paris, France",
@@ -409,7 +409,7 @@
       "company": "Google",
       "external_id": "121543376737575622",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Krak\u00f3w, Poland",
         "Warsaw, Poland"
@@ -439,7 +439,7 @@
       "company": "Google",
       "external_id": "134795423167455942",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "London, UK"
       ],
@@ -453,7 +453,7 @@
       "company": "Google",
       "external_id": "135233176434811590",
       "first_seen": "2026-07-09",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Z\u00fcrich, Switzerland"
       ],
@@ -467,7 +467,7 @@
       "company": "Google",
       "external_id": "142747733357142726",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Dublin, Ireland",
         "Munich, Germany",
@@ -485,7 +485,7 @@
       "company": "Google",
       "external_id": "73321728058499782",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "London, UK"
       ],
@@ -499,7 +499,7 @@
       "company": "Google",
       "external_id": "74389446190867142",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Warsaw, Poland"
       ],
@@ -513,7 +513,7 @@
       "company": "Google",
       "external_id": "77684590197514950",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Z\u00fcrich, Switzerland"
       ],
@@ -527,7 +527,7 @@
       "company": "Google",
       "external_id": "80037545080955590",
       "first_seen": "2026-08-17",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "London, UK"
       ],
@@ -541,7 +541,7 @@
       "company": "Google",
       "external_id": "83199557986329286",
       "first_seen": "2026-09-03",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Bucharest, Romania"
       ],
@@ -555,7 +555,7 @@
       "company": "Google",
       "external_id": "93078491720753862",
       "first_seen": "2026-08-18",
-      "last_seen": "2026-09-09",
+      "last_seen": "2026-09-10",
       "locations": [
         "Z\u00fcrich, Switzerland"
       ],
@@ -621,7 +621,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-09",
+      "posted": "2026-09-08",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -726,7 +726,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-05",
+      "posted": "2026-09-04",
       "title": "Deep Learning Algorithm Engineering Intern - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
@@ -741,7 +741,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-09-10",
+      "posted": "2026-09-09",
       "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
@@ -890,5 +890,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-10T04:46:20Z"
+  "updated_at": "2026-09-10T11:23:09Z"
 }
