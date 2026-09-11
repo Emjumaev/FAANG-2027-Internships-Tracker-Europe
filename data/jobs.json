@@ -44,6 +44,20 @@
       "title": "2026 Software Dev Engineer Intern - Spain",
       "url": "https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain"
     },
+    "amazon:10537284": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10537284",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "locations": [
+        "Madrid, Community of Madrid, ESP"
+      ],
+      "posted": "2026-09-11",
+      "title": "2026 Software Dev Engineer Intern - Spain",
+      "url": "https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -641,9 +655,9 @@
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
     "meta:771948392580541": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-11",
       "company": "Meta",
       "external_id": "771948392580541",
       "first_seen": "2026-07-09",
@@ -657,9 +671,9 @@
       "url": "https://www.metacareers.com/jobs/771948392580541"
     },
     "meta:924149567345400": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-19",
+      "closed": "2026-09-11",
       "company": "Meta",
       "external_id": "924149567345400",
       "first_seen": "2026-07-09",
@@ -904,5 +918,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-11T11:24:39Z"
+  "updated_at": "2026-09-11T16:33:14Z"
 }
