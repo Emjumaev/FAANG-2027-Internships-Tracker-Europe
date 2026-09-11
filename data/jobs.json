@@ -759,9 +759,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
     "nvidia:JR2022086": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-07-31",
+      "closed": "2026-09-11",
       "company": "NVIDIA",
       "external_id": "JR2022086",
       "first_seen": "2026-07-30",
@@ -918,5 +918,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-11T16:33:14Z"
+  "updated_at": "2026-09-11T21:03:16Z"
 }
