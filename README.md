@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-12 04:38:24 UTC** · 📌 **42** open internships
+> 🕐 Last updated: **2026-09-12 10:49:36 UTC** · 📌 **42** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -107,7 +107,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) 🆕 | Software | Ireland, Leixlip | 2026-09-09 | 2026-09-08 |
+| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) 🆕 | Software | Ireland, Leixlip | 2026-09-08 | 2026-09-08 |
 
 ## Microsoft
 
@@ -119,7 +119,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Deep Learning Algorithm Engineering Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814) | AI/ML | Switzerland, Zurich | 2026-09-05 | 2026-09-04 |
+| [Deep Learning Algorithm Engineering Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814) | AI/ML | Switzerland, Zurich | 2026-09-04 | 2026-09-04 |
 
 ## Snowflake
 
