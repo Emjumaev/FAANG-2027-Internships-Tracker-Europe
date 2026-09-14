@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-14 12:49:17 UTC** · 📌 **42** open internships
+> 🕐 Last updated: **2026-09-14 21:54:25 UTC** · 📌 **43** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -27,7 +27,7 @@ API every 6 hours by GitHub Actions.
 | [Intel](#intel) | 1 |
 | Jane Street | — |
 | Meta | — |
-| [Microsoft](#microsoft) | 1 |
+| [Microsoft](#microsoft) | 2 |
 | [NVIDIA](#nvidia) | 1 |
 | Netflix | — |
 | OpenAI | — |
@@ -113,6 +113,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) 🆕 | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
 | [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) 🆕 | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-09-10 | 2026-09-10 |
 
 ## NVIDIA

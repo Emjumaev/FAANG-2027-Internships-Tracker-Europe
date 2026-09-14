@@ -744,6 +744,20 @@
       "title": "Cambridge Internship Program - Robotics Systems and Control",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724"
     },
+    "microsoft:1970393556998387": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Microsoft",
+      "external_id": "1970393556998387",
+      "first_seen": "2026-09-14",
+      "last_seen": "2026-09-14",
+      "locations": [
+        "Belgium, Brussels Region, Brussels"
+      ],
+      "posted": "2026-09-14",
+      "title": "Cloud Solution Architecture Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
+    },
     "nvidia:JR2012814": {
       "active": true,
       "category": "AI/ML",
@@ -918,5 +932,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-14T12:49:17Z"
+  "updated_at": "2026-09-14T21:54:25Z"
 }
