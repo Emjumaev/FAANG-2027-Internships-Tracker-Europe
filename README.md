@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-15 11:48:29 UTC** · 📌 **43** open internships
+> 🕐 Last updated: **2026-09-15 17:04:18 UTC** · 📌 **42** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -22,7 +22,7 @@ API every 6 hours by GitHub Actions.
 | Cloudflare | — |
 | Databricks | — |
 | GitHub | — |
-| [Google](#google) | 13 |
+| [Google](#google) | 12 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
 | [Intel](#intel) | 1 |
 | Jane Street | — |
@@ -95,7 +95,6 @@ API every 6 hours by GitHub Actions.
 | [Research Scientist PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/134795423167455942) | AI/ML | London, UK | 2026-08-17 | 2026-08-17 |
 | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/73321728058499782) | Data | London, UK | 2026-08-17 | 2026-08-17 |
 | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/77684590197514950) | Data | Zürich, Switzerland | 2026-08-17 | 2026-08-17 |
-| [Apprenticeship in Application Development, Informatiker:in EFZ Applikationsentwicklung, August 2027](https://www.google.com/about/careers/applications/jobs/results/135233176434811590) | Software | Zürich, Switzerland | 2026-07-01 | 2026-07-09 |
 
 ## Hudson River Trading
 
