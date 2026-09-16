@@ -286,6 +286,20 @@
       "title": "GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture",
       "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture"
     },
+    "apple:200683768": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200683768",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Paris"
+      ],
+      "posted": "2026-09-16",
+      "title": "Internship - Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -636,7 +650,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-09",
+      "posted": "2026-09-08",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -769,7 +783,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-05",
+      "posted": "2026-09-04",
       "title": "Deep Learning Algorithm Engineering Intern - 2026",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
@@ -933,5 +947,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-16T04:53:33Z"
+  "updated_at": "2026-09-16T11:36:33Z"
 }
