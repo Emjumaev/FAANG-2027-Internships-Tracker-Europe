@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-16 11:36:33 UTC** · 📌 **43** open internships
+> 🕐 Last updated: **2026-09-16 16:59:49 UTC** · 📌 **44** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -14,7 +14,7 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 10 |
+| [Amazon](#amazon) | 11 |
 | Anthropic | — |
 | [Apple](#apple) | 5 |
 | Bloomberg | — |
@@ -49,6 +49,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Business Developer Intern - 2027 - 6 months](https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months) 🆕 | Software | Munich, Bavaria, DEU | 2026-09-16 | 2026-09-16 |
 | [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-11 | 2026-09-11 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin, IRL | 2026-05-13 | 2026-07-09 |
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | Berlin, Berlin, DEU | 2025-12-01 | 2026-07-09 |
@@ -120,7 +121,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Deep Learning Algorithm Engineering Intern - 2026](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814) | AI/ML | Switzerland, Zurich | 2026-09-04 | 2026-09-04 |
+| [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-16 | 2026-07-30 |
 
 ## Snowflake
 

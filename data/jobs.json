@@ -58,6 +58,20 @@
       "title": "2026 Software Dev Engineer Intern - Spain",
       "url": "https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain"
     },
+    "amazon:10544726": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10544726",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-16",
+      "locations": [
+        "Munich, Bavaria, DEU"
+      ],
+      "posted": "2026-09-16",
+      "title": "Business Developer Intern - 2027 - 6 months",
+      "url": "https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -774,8 +788,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
     },
     "nvidia:JR2012814": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-09-16",
       "company": "NVIDIA",
       "external_id": "JR2012814",
       "first_seen": "2026-09-04",
@@ -788,18 +803,18 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
     "nvidia:JR2022086": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-09-11",
       "company": "NVIDIA",
       "external_id": "JR2022086",
       "first_seen": "2026-07-30",
-      "last_seen": "2026-09-11",
+      "last_seen": "2026-09-16",
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-09-09",
-      "title": "Software Engineering Intern \u2014 Replay Tooling & Test Automation, Autonomous Driving",
+      "posted": "2026-09-16",
+      "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
     "nvidia:JR2023302": {
@@ -947,5 +962,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-16T11:36:33Z"
+  "updated_at": "2026-09-16T16:59:49Z"
 }
