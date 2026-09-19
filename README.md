@@ -5,7 +5,7 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 28 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
-> 🕐 Last updated: **2026-09-18 20:59:26 UTC** · 📌 **44** open internships
+> 🕐 Last updated: **2026-09-19 04:41:50 UTC** · 📌 **44** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -50,7 +50,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Business Developer Intern - 2027 - 6 months](https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months) 🆕 | Software | Munich, Bavaria, DEU | 2026-09-16 | 2026-09-16 |
-| [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-11 | 2026-09-11 |
+| [2026 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain) | Software | Madrid, Community of Madrid, ESP | 2026-09-11 | 2026-09-11 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin, IRL | 2026-05-13 | 2026-07-09 |
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | Berlin, Berlin, DEU | 2025-12-01 | 2026-07-09 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | Backend/Infra | Dresden, Saxony, DEU | 2025-11-21 | 2026-07-20 |
@@ -108,7 +108,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | Ireland, Leixlip | 2026-09-08 | 2026-09-08 |
+| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | Ireland, Leixlip | 2026-09-09 | 2026-09-08 |
 
 ## Microsoft
 
@@ -121,7 +121,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-16 | 2026-07-30 |
+| [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-17 | 2026-07-30 |
 
 ## Snowflake
 
