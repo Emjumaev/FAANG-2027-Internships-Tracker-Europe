@@ -1,0 +1,942 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>FaangInternTracker Europe — Open SWE Internships at Top Tech Companies in Europe</title>
+<meta name="description" content="Auto-updated list of open software-engineering internships in Europe at 28 top tech companies, scraped from official careers APIs every 6 hours.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%20100'%3E%3Crect%20width='100'%20height='100'%20rx='22'%20fill='%231c1f23'/%3E%3Ctext%20x='50'%20y='62'%20text-anchor='middle'%20font-family='-apple-system,Segoe%20UI,Roboto,Helvetica,Arial,sans-serif'%20font-size='33'%20font-weight='800'%3E%3Ctspan%20fill='%231877f2'%3EF%3C/tspan%3E%3Ctspan%20fill='%23e8ebee'%3Ea%3C/tspan%3E%3Ctspan%20fill='%23ff9900'%3Ea%3C/tspan%3E%3Ctspan%20fill='%23e50914'%3En%3C/tspan%3E%3Ctspan%20fill='%2334a853'%3Eg%3C/tspan%3E%3C/text%3E%3C/svg%3E">
+<style>
+  :root {
+    --bg: #f4f5f7;
+    --surface: #ffffff;
+    --surface-2: #f0f2f5;
+    --border: #e0e3e8;
+    --border-strong: #c3cad3;
+    --ink: #1c1f23;
+    --dim: #56616c;
+    --faint: #8a939d;
+    --brand: #0b66c2;
+    --brand-hover: #084e96;
+    --brand-soft: #e8f1fa;
+    --new-fg: #157347;
+    --new-bg: #e3f4ea;
+    --save: #0b66c2;
+    --shadow: 0 1px 2px rgba(28, 31, 35, .06);
+    --shadow-lift: 0 3px 10px rgba(28, 31, 35, .1);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #101418;
+      --surface: #1a2026;
+      --surface-2: #232b33;
+      --border: #2c353f;
+      --border-strong: #43505c;
+      --ink: #e8ebee;
+      --dim: #9aa5b0;
+      --faint: #6b7680;
+      --brand: #6ab1f7;
+      --brand-hover: #8fc4fa;
+      --brand-soft: #17293c;
+      --new-fg: #57cf8b;
+      --new-bg: #143526;
+      --save: #6ab1f7;
+      --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+      --shadow-lift: 0 3px 12px rgba(0, 0, 0, .5);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #101418;
+    --surface: #1a2026;
+    --surface-2: #232b33;
+    --border: #2c353f;
+    --border-strong: #43505c;
+    --ink: #e8ebee;
+    --dim: #9aa5b0;
+    --faint: #6b7680;
+    --brand: #6ab1f7;
+    --brand-hover: #8fc4fa;
+    --brand-soft: #17293c;
+    --new-fg: #57cf8b;
+    --new-bg: #143526;
+    --save: #6ab1f7;
+    --shadow: 0 1px 2px rgba(0, 0, 0, .4);
+    --shadow-lift: 0 3px 12px rgba(0, 0, 0, .5);
+    color-scheme: dark;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 14.5px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  a { color: var(--brand); }
+  button { font-family: inherit; }
+  input, select { font-family: inherit; }
+  input:focus-visible, select:focus-visible, button:focus-visible, a:focus-visible {
+    outline: 2px solid var(--brand); outline-offset: 1px;
+  }
+
+  /* ---------- navbar ---------- */
+  .nav {
+    position: sticky; top: 0; z-index: 20;
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+  }
+  .nav-inner {
+    max-width: 1120px; margin: 0 auto; padding: 0 20px;
+    height: 54px; display: flex; align-items: center; gap: 14px;
+  }
+  .nav .name { font-weight: 700; font-size: 17px; letter-spacing: -.01em; }
+  .nav .name > span:not(.faang) { color: var(--brand); }
+  .faang b { font-weight: 800; font-style: normal; }
+  .faang .l-f  { color: #1877f2; }
+  .faang .l-a1 { color: var(--ink); }
+  .faang .l-a2 { color: #ff9900; position: relative; }
+  .faang .l-a2::after {
+    content: ""; position: absolute; left: 0; right: -1px; bottom: 1px;
+    height: 4px; border-bottom: 2.5px solid #ff9900;
+    border-radius: 0 0 100% 100%;
+  }
+  .faang .l-n  { color: #e50914; }
+  .faang .l-g  { color: #34a853; }
+  .eu-badge {
+    display: inline-block; vertical-align: 2px; margin-left: 8px;
+    background: var(--brand-soft); color: var(--brand);
+    border-radius: 6px; padding: 2px 8px; font-size: 12px; font-weight: 600; letter-spacing: 0;
+  }
+  .nav-right { margin-left: auto; display: flex; align-items: center; gap: 10px; }
+  .nav-right a { color: var(--dim); text-decoration: none; font-size: 13.5px; font-weight: 500; }
+  .nav-right a:hover { color: var(--brand); }
+  .theme-btn {
+    background: none; border: 1px solid var(--border); color: var(--dim);
+    border-radius: 8px; padding: 6px 9px; cursor: pointer; font-size: 14px; line-height: 1;
+  }
+  .theme-btn:hover { border-color: var(--border-strong); color: var(--ink); }
+
+  /* ---------- search hero ---------- */
+  .hero {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 26px 0 24px;
+  }
+  .hero-inner { max-width: 1120px; margin: 0 auto; padding: 0 20px; }
+  .hero h1 { font-size: 22px; margin: 0 0 4px; letter-spacing: -.015em; }
+  .hero p { margin: 0 0 16px; color: var(--dim); font-size: 14px; }
+  .hero p b { color: var(--ink); }
+  .searchbar { display: flex; gap: 10px; flex-wrap: wrap; }
+  .search-box { position: relative; flex: 1 1 320px; min-width: 220px; }
+  .search-box .icon {
+    position: absolute; left: 13px; top: 50%; transform: translateY(-50%);
+    color: var(--faint); pointer-events: none; font-size: 14px;
+  }
+  input[type="search"] {
+    width: 100%;
+    background: var(--surface); color: var(--ink);
+    border: 1.5px solid var(--border-strong); border-radius: 10px;
+    padding: 11px 14px 11px 36px; font-size: 15px;
+  }
+  input[type="search"]:hover { border-color: var(--faint); }
+  input[type="search"]::placeholder { color: var(--faint); }
+  .region-select {
+    background: var(--surface); color: var(--ink);
+    border: 1.5px solid var(--border-strong); border-radius: 10px;
+    padding: 11px 12px; font-size: 14.5px; cursor: pointer;
+    flex: 0 1 240px; min-width: 170px;
+  }
+
+  /* ---------- layout ---------- */
+  .layout {
+    max-width: 1120px; margin: 0 auto; padding: 20px 20px 72px;
+    display: grid; grid-template-columns: 264px minmax(0, 1fr); gap: 22px;
+    align-items: start;
+  }
+
+  /* ---------- sidebar ---------- */
+  .filters-toggle {
+    display: none;
+    width: 100%;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 10px;
+    padding: 10px 14px; font-size: 14px; font-weight: 600; color: var(--ink);
+    cursor: pointer; box-shadow: var(--shadow);
+    text-align: left;
+  }
+  .filters-toggle .badge-n {
+    background: var(--brand); color: #fff; border-radius: 999px;
+    font-size: 11.5px; padding: 1px 7px; margin-left: 6px; font-weight: 600;
+  }
+  .filters-toggle .arrow { float: right; color: var(--dim); }
+  aside { position: sticky; top: 68px; }
+  .fgroup {
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 14px 16px 12px; margin-bottom: 12px; box-shadow: var(--shadow);
+  }
+  .fgroup h3 {
+    margin: 0 0 10px; font-size: 13px; text-transform: uppercase;
+    letter-spacing: .05em; color: var(--dim); font-weight: 600;
+  }
+  .fopt {
+    display: flex; align-items: center; gap: 9px;
+    padding: 4px 0; cursor: pointer; font-size: 14px; color: var(--ink);
+    user-select: none;
+  }
+  .fopt:hover { color: var(--brand); }
+  .fopt input { accent-color: var(--brand); width: 15px; height: 15px; margin: 0; cursor: pointer; flex-shrink: 0; }
+  .fopt .lbl { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .fopt .cnt { color: var(--faint); font-size: 12.5px; flex-shrink: 0; }
+  .fopt.special .lbl { font-weight: 500; }
+  .co-list { max-height: 246px; overflow-y: auto; margin-right: -6px; padding-right: 6px; }
+  .sidebar-reset {
+    width: 100%; background: none; border: 1px solid var(--border); border-radius: 10px;
+    color: var(--dim); font-size: 13.5px; padding: 8px; cursor: pointer;
+  }
+  .sidebar-reset:hover { color: var(--brand); border-color: var(--brand); }
+
+  /* ---------- results ---------- */
+  .results-head {
+    display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+  .results-head .rcount { font-size: 16px; font-weight: 700; }
+  .results-head .rcount small { color: var(--dim); font-weight: 400; font-size: 13px; margin-left: 6px; }
+  .clear-link {
+    background: none; border: none; color: var(--brand); cursor: pointer;
+    font-size: 13.5px; padding: 0; text-decoration: underline;
+  }
+  .sort-wrap { margin-left: auto; display: flex; align-items: center; gap: 7px; color: var(--dim); font-size: 13.5px; }
+  .sort-wrap select {
+    background: var(--surface); color: var(--ink);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 7px 9px; font-size: 13.5px; cursor: pointer;
+  }
+
+  /* ---------- job cards ---------- */
+  .job {
+    position: relative;
+    background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+    padding: 16px 18px; margin-bottom: 10px; box-shadow: var(--shadow);
+    display: flex; gap: 14px;
+    transition: border-color .12s, box-shadow .12s;
+  }
+  .job:hover { border-color: var(--brand); box-shadow: var(--shadow-lift); }
+  .logo {
+    position: relative;
+    width: 46px; height: 46px; border-radius: 10px; flex-shrink: 0;
+    background: var(--surface-2); border: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden; user-select: none;
+  }
+  .logo .fb { color: var(--dim); font-weight: 700; font-size: 14px; }
+  .logo img { position: absolute; inset: 0; margin: auto; width: 28px; height: 28px; object-fit: contain; }
+
+  .job-main { flex: 1; min-width: 0; }
+  .job .title {
+    display: inline-block;
+    font-size: 16px; font-weight: 600; color: var(--brand);
+    text-decoration: none; letter-spacing: -.005em;
+    overflow-wrap: anywhere; margin-bottom: 1px;
+    padding-right: 30px;
+  }
+  .job .title:hover { text-decoration: underline; text-underline-offset: 3px; color: var(--brand-hover); }
+  .job .co { font-size: 14px; font-weight: 500; margin-bottom: 1px; }
+  .job .loc { color: var(--dim); font-size: 13.5px; }
+  .loc-more { cursor: help; text-decoration: underline dotted; text-underline-offset: 2px; }
+  .job .tags { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; margin-top: 9px; }
+  .tag {
+    display: inline-block; border-radius: 6px; padding: 2.5px 9px;
+    font-size: 12px; font-weight: 600;
+    background: var(--surface-2); color: var(--dim);
+  }
+  .tag.new { background: var(--new-bg); color: var(--new-fg); }
+  .tag.posted { background: none; color: var(--faint); font-weight: 400; padding-left: 0; }
+
+  .job-actions {
+    display: flex; flex-direction: column; align-items: flex-end;
+    justify-content: flex-end; gap: 10px; flex-shrink: 0;
+    min-height: 76px; /* keeps Apply clear of the absolute bookmark in short cards */
+  }
+  .apply-btn {
+    display: inline-block;
+    background: var(--brand); color: var(--surface);
+    border: none; border-radius: 999px;
+    padding: 7px 18px; font-size: 13.5px; font-weight: 600;
+    text-decoration: none; white-space: nowrap; cursor: pointer;
+  }
+  .apply-btn:hover { background: var(--brand-hover); color: var(--surface); }
+  .save-btn {
+    position: absolute; top: 13px; right: 14px;
+    background: none; border: none; cursor: pointer; padding: 4px;
+    color: var(--faint); line-height: 0; border-radius: 8px;
+  }
+  .save-btn:hover { color: var(--save); background: var(--brand-soft); }
+  .save-btn.on { color: var(--save); }
+  .save-btn svg { width: 20px; height: 20px; }
+
+  @media (max-width: 860px) {
+    .layout { grid-template-columns: 1fr; gap: 0; }
+    .filters-toggle { display: block; margin-bottom: 12px; }
+    aside { position: static; display: none; margin-bottom: 8px; }
+    aside.open { display: block; }
+    .job { flex-wrap: wrap; padding: 14px; }
+    .job-actions { flex-direction: row; width: 100%; justify-content: flex-end; min-height: 0; }
+    .job .title { padding-right: 34px; }
+  }
+
+  .empty, .loading, .error { text-align: center; color: var(--dim); padding: 60px 20px; }
+  .empty .big { font-size: 34px; margin-bottom: 8px; }
+  .empty button {
+    margin-top: 14px; background: var(--brand); color: var(--surface); border: none;
+    border-radius: 999px; padding: 9px 22px; font-size: 14px; cursor: pointer; font-weight: 600;
+  }
+
+  footer {
+    border-top: 1px solid var(--border);
+    background: var(--surface);
+  }
+  .footer-inner {
+    max-width: 1120px; margin: 0 auto; padding: 18px 20px 26px;
+    color: var(--dim); font-size: 13px;
+  }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <span class="name"><span class="faang" aria-label="Faang"><b class="l-f">F</b><b class="l-a1">a</b><b class="l-a2">a</b><b class="l-n">n</b><b class="l-g">g</b></span>Intern<span>Tracker</span><span class="eu-badge">🇪🇺 Europe</span></span>
+    <div class="nav-right">
+      <a href="https://emjumaev.github.io/FAANG-2027-Internships-Tracker/" title="Worldwide edition of this tracker">🌎 Worldwide</a>
+      <a id="repo-link" href="#" target="_blank" rel="noopener">GitHub</a>
+      <button class="theme-btn" id="theme-btn" title="Toggle theme">◐</button>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-inner">
+    <h1>Find your software engineering internship in Europe</h1>
+    <p id="hero-line">Openings across Europe at top tech companies, updated <b>every 6 hours</b> from official careers pages.</p>
+    <div class="searchbar">
+      <div class="search-box">
+        <span class="icon">🔍</span>
+        <input type="search" id="q" placeholder="Job title, company, or keyword" autocomplete="off">
+      </div>
+      <select class="region-select" id="region" title="Filter by country">
+        <option value="">🇪🇺 All of Europe</option>
+      </select>
+    </div>
+  </div>
+</section>
+
+<div class="layout">
+  <div>
+    <button class="filters-toggle" id="filters-toggle" hidden>
+      Filters<span class="badge-n" id="fcount" hidden>0</span>
+      <span class="arrow">▾</span>
+    </button>
+    <aside id="sidebar">
+      <div class="fgroup" id="fg-quick">
+        <h3>Quick filters</h3>
+        <label class="fopt special"><input type="checkbox" id="f-new"><span class="lbl">🆕 New this week</span><span class="cnt" id="n-new"></span></label>
+        <label class="fopt special"><input type="checkbox" id="f-saved"><span class="lbl">🔖 Saved jobs</span><span class="cnt" id="n-saved"></span></label>
+      </div>
+      <div class="fgroup">
+        <h3>Date posted</h3>
+        <label class="fopt"><input type="radio" name="dp" value="" checked><span class="lbl">Any time</span></label>
+        <label class="fopt"><input type="radio" name="dp" value="1"><span class="lbl">Past 24 hours</span></label>
+        <label class="fopt"><input type="radio" name="dp" value="7"><span class="lbl">Past week</span></label>
+        <label class="fopt"><input type="radio" name="dp" value="30"><span class="lbl">Past month</span></label>
+      </div>
+      <div class="fgroup">
+        <h3>Category</h3>
+        <div id="cat-list"></div>
+      </div>
+      <div class="fgroup">
+        <h3>Company</h3>
+        <div class="co-list" id="co-list"></div>
+      </div>
+      <button class="sidebar-reset" id="sidebar-reset">Reset all filters</button>
+    </aside>
+  </div>
+
+  <main>
+    <div class="results-head" id="results-head" hidden>
+      <span class="rcount" id="count">–</span>
+      <button class="clear-link" id="clear" hidden>Clear filters</button>
+      <span class="sort-wrap">Sort by
+        <select id="sort">
+          <option value="posted">Newest</option>
+          <option value="first_seen">Recently added</option>
+          <option value="company">Company (A–Z)</option>
+        </select>
+      </span>
+    </div>
+    <div id="list"><div class="loading">Loading internships…</div></div>
+  </main>
+</div>
+
+<footer>
+  <div class="footer-inner">
+    Listings are scraped from each company's official careers API every 6 hours by
+    <a id="repo-link2" href="#">GitHub Actions</a> — every job links to the real application page.
+    🔖 Saved jobs are stored in your browser only. Want another company tracked? Open an issue on GitHub.
+  </div>
+</footer>
+
+<script>
+(function () {
+  "use strict";
+  var REPO = "Emjumaev/FAANG-2027-Internships-Tracker-Europe";
+  var DATA_URL = "https://raw.githubusercontent.com/" + REPO + "/main/data/jobs.json";
+  var repoUrl = "https://github.com/" + REPO;
+  document.getElementById("repo-link").href = repoUrl;
+  document.getElementById("repo-link2").href = repoUrl;
+
+  var $ = function (id) { return document.getElementById(id); };
+  var list = $("list");
+
+  var BOOKMARK = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.7L5 21V4a1 1 0 0 1 1-1z"/></svg>';
+  var BOOKMARK_FILL = '<svg viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M6 3h12a1 1 0 0 1 1 1v17l-7-4.7L5 21V4a1 1 0 0 1 1-1z"/></svg>';
+
+  /* ---------- theme ---------- */
+  var THEMES = ["auto", "light", "dark"];
+  var themeIcons = { auto: "◐", light: "☀️", dark: "🌙" };
+  var theme = "auto";
+  try { theme = localStorage.getItem("theme") || "auto"; } catch (e) {}
+  applyTheme();
+  $("theme-btn").addEventListener("click", function () {
+    theme = THEMES[(THEMES.indexOf(theme) + 1) % 3];
+    try { localStorage.setItem("theme", theme); } catch (e) {}
+    applyTheme();
+  });
+  function applyTheme() {
+    if (theme === "auto") document.documentElement.removeAttribute("data-theme");
+    else document.documentElement.setAttribute("data-theme", theme);
+    $("theme-btn").textContent = themeIcons[theme];
+    $("theme-btn").title = "Theme: " + theme + " (click to change)";
+  }
+
+  /* ---------- saved jobs ---------- */
+  var saved = {};
+  try { saved = JSON.parse(localStorage.getItem("saved-jobs") || "{}"); } catch (e) {}
+  function persistSaved() {
+    try { localStorage.setItem("saved-jobs", JSON.stringify(saved)); } catch (e) {}
+  }
+
+  /* ---------- company logos ---------- */
+  var DOMAIN = {
+    "Adobe": "adobe.com", "Airbnb": "airbnb.com", "Amazon": "amazon.com",
+    "Anthropic": "anthropic.com", "Apple": "apple.com", "Bloomberg": "bloomberg.com",
+    "Cisco": "cisco.com", "Cloudflare": "cloudflare.com", "Databricks": "databricks.com",
+    "GitHub": "github.com", "Google": "google.com",
+    "Hudson River Trading": "hudsonrivertrading.com", "Intel": "intel.com",
+    "Jane Street": "janestreet.com", "Meta": "meta.com", "Microsoft": "microsoft.com",
+    "NVIDIA": "nvidia.com", "Netflix": "netflix.com", "OpenAI": "openai.com",
+    "Oracle": "oracle.com", "PayPal": "paypal.com", "Pinterest": "pinterest.com",
+    "Salesforce": "salesforce.com", "Snap": "snap.com", "Snowflake": "snowflake.com",
+    "Spotify": "spotify.com", "Stripe": "stripe.com", "Uber": "uber.com",
+    "Dropbox": "dropbox.com", "Reddit": "reddit.com", "Scale AI": "scale.com",
+    "Waymo": "waymo.com", "Figma": "figma.com", "DoorDash": "doordash.com",
+    "Lyft": "lyft.com", "Coinbase": "coinbase.com", "MongoDB": "mongodb.com"
+  };
+  function initials(company) {
+    var words = company.split(/\s+/).filter(Boolean);
+    if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
+    return (words[0][0] + words[1][0]).toUpperCase();
+  }
+  function logoHTML(company) {
+    var fb = '<span class="fb">' + esc(initials(company)) + "</span>";
+    var d = DOMAIN[company];
+    if (!d) return '<span class="logo">' + fb + "</span>";
+    return '<span class="logo">' + fb +
+      '<img src="https://www.google.com/s2/favicons?domain=' + esc(d) + '&sz=64" alt="" loading="lazy" onload="this.previousElementSibling.style.visibility=\'hidden\'" onerror="this.remove()">' +
+      "</span>";
+  }
+
+  /* ---------- country classification ---------- */
+  // Every listing here is already filtered to Europe by the scraper, so the
+  // location dropdown narrows by country instead of by continent.
+  var REGIONS = [
+    ["uk",          "🇬🇧 United Kingdom"],
+    ["ireland",     "🇮🇪 Ireland"],
+    ["germany",     "🇩🇪 Germany"],
+    ["france",      "🇫🇷 France"],
+    ["switzerland", "🇨🇭 Switzerland"],
+    ["netherlands", "🇳🇱 Netherlands"],
+    ["poland",      "🇵🇱 Poland"],
+    ["spain",       "🇪🇸 Spain"],
+    ["italy",       "🇮🇹 Italy"],
+    ["sweden",      "🇸🇪 Sweden"],
+    ["denmark",     "🇩🇰 Denmark"],
+    ["norway",      "🇳🇴 Norway"],
+    ["finland",     "🇫🇮 Finland"],
+    ["austria",     "🇦🇹 Austria"],
+    ["belgium",     "🇧🇪 Belgium"],
+    ["luxembourg",  "🇱🇺 Luxembourg"],
+    ["czechia",     "🇨🇿 Czechia"],
+    ["portugal",    "🇵🇹 Portugal"],
+    ["greece",      "🇬🇷 Greece"],
+    ["hungary",     "🇭🇺 Hungary"],
+    ["romania",     "🇷🇴 Romania"],
+    ["bulgaria",    "🇧🇬 Bulgaria"],
+    ["croatia",     "🇭🇷 Croatia"],
+    ["slovakia",    "🇸🇰 Slovakia"],
+    ["slovenia",    "🇸🇮 Slovenia"],
+    ["serbia",      "🇷🇸 Serbia"],
+    ["estonia",     "🇪🇪 Estonia"],
+    ["latvia",      "🇱🇻 Latvia"],
+    ["lithuania",   "🇱🇹 Lithuania"],
+    ["iceland",     "🇮🇸 Iceland"],
+    ["ukraine",     "🇺🇦 Ukraine"],
+    ["turkey",      "🇹🇷 Turkey"],
+    ["cyprus",      "🇨🇾 Cyprus"],
+    ["malta",       "🇲🇹 Malta"],
+    ["europe",      "🌍 Europe-wide / remote"],
+    ["other",       "❓ Multiple / unspecified"]
+  ];
+  var COUNTRY = {
+    uk: ["uk", "united kingdom", "gbr", "great britain", "england", "scotland", "wales", "northern ireland"],
+    ireland: ["ireland", "irl", "republic of ireland"],
+    germany: ["germany", "deu", "deutschland"],
+    france: ["france", "fra"],
+    switzerland: ["switzerland", "che", "schweiz", "suisse"],
+    netherlands: ["netherlands", "nld", "the netherlands", "holland"],
+    poland: ["poland", "pol", "polska"],
+    spain: ["spain", "esp", "españa"],
+    italy: ["italy", "ita", "italia"],
+    sweden: ["sweden", "swe", "sverige"],
+    denmark: ["denmark", "dnk", "danmark"],
+    norway: ["norway", "nor", "norge"],
+    finland: ["finland", "fin", "suomi"],
+    austria: ["austria", "aut", "österreich"],
+    belgium: ["belgium", "bel", "belgique", "belgië"],
+    luxembourg: ["luxembourg", "lux"],
+    czechia: ["czechia", "czech republic", "cze"],
+    portugal: ["portugal", "prt"],
+    greece: ["greece", "grc"],
+    hungary: ["hungary", "hun"],
+    romania: ["romania", "rou"],
+    bulgaria: ["bulgaria", "bgr"],
+    croatia: ["croatia", "hrv"],
+    slovakia: ["slovakia", "svk"],
+    slovenia: ["slovenia", "svn"],
+    serbia: ["serbia", "srb"],
+    estonia: ["estonia", "est"],
+    latvia: ["latvia", "lva"],
+    lithuania: ["lithuania", "ltu"],
+    iceland: ["iceland", "isl"],
+    ukraine: ["ukraine", "ukr"],
+    turkey: ["turkey", "türkiye", "turkiye", "tur"],
+    cyprus: ["cyprus", "cyp"],
+    malta: ["malta", "mlt"],
+    europe: ["europe", "emea", "remote - emea", "remote emea", "remote - europe", "remote europe", "eu"]
+  };
+  var CITY = {
+    uk: ["london", "ldn", "cambridge", "oxford", "manchester", "edinburgh", "glasgow", "bristol",
+      "reading", "leeds", "belfast", "harpenden", "cambridgeshire", "birmingham", "brighton"],
+    ireland: ["dublin", "cork", "galway", "leixlip", "limerick"],
+    germany: ["berlin", "munich", "münchen", "hamburg", "frankfurt", "cologne", "köln", "stuttgart",
+      "dresden", "aachen", "karlsruhe", "nuremberg", "nürnberg", "düsseldorf", "bavaria", "saxony",
+      "heidelberg", "walldorf", "bonn"],
+    france: ["paris", "grenoble", "toulouse", "lyon", "nice", "sophia antipolis", "rennes", "nantes",
+      "montpellier", "île-de-france", "ile-de-france"],
+    switzerland: ["zurich", "zürich", "geneva", "genève", "basel", "lausanne", "zug", "ecublens", "bern"],
+    netherlands: ["amsterdam", "eindhoven", "rotterdam", "utrecht", "the hague", "den haag", "delft"],
+    poland: ["warsaw", "warszawa", "krakow", "kraków", "wroclaw", "wrocław", "gdansk", "gdańsk",
+      "poznan", "poznań", "lodz", "łódź"],
+    spain: ["madrid", "barcelona", "malaga", "málaga", "valencia", "seville", "sevilla", "catalonia",
+      "community of madrid"],
+    italy: ["milan", "milano", "rome", "roma", "turin", "torino", "novara", "pisa", "bologna", "piedmont"],
+    sweden: ["stockholm", "gothenburg", "göteborg", "lund", "malmö", "malmo"],
+    denmark: ["copenhagen", "københavn", "aarhus"],
+    norway: ["oslo", "lysaker", "bergen", "trondheim"],
+    finland: ["helsinki", "espoo", "tampere", "oulu"],
+    austria: ["vienna", "wien", "graz", "linz"],
+    belgium: ["brussels", "bruxelles", "brussels region", "ghent", "gent", "antwerp", "antwerpen", "leuven"],
+    czechia: ["prague", "praha", "brno"],
+    portugal: ["lisbon", "lisboa", "porto", "braga"],
+    greece: ["athens", "thessaloniki"],
+    hungary: ["budapest"],
+    romania: ["bucharest", "bucurești", "cluj", "cluj-napoca", "timisoara", "timișoara", "iasi", "iași"],
+    bulgaria: ["sofia"],
+    croatia: ["zagreb"],
+    slovakia: ["bratislava"],
+    slovenia: ["ljubljana"],
+    serbia: ["belgrade", "beograd"],
+    estonia: ["tallinn"],
+    latvia: ["riga"],
+    lithuania: ["vilnius"],
+    iceland: ["reykjavik", "reykjavík"],
+    ukraine: ["kyiv", "kiev", "lviv"],
+    turkey: ["istanbul", "ankara", "izmir"],
+    cyprus: ["nicosia", "limassol"],
+    malta: ["valletta"]
+  };
+  // A location that names a non-European country is skipped, even if it also
+  // contains a European-sounding city ("London, Ontario, Canada").
+  var NON_EU = ["usa", "us", "u.s.", "united states", "united states of america", "canada", "can",
+    "mexico", "mex", "brazil", "bra", "argentina", "arg", "chile", "chl", "colombia", "col",
+    "costa rica", "cri", "india", "ind", "china", "chn", "japan", "jpn", "singapore", "sgp",
+    "australia", "aus", "new zealand", "nzl", "south korea", "korea", "kor", "israel", "isr",
+    "uae", "united arab emirates", "are", "saudi arabia", "sau", "qatar", "qat", "hong kong", "hkg",
+    "taiwan", "twn", "malaysia", "mys", "indonesia", "idn", "thailand", "tha", "vietnam", "vnm",
+    "philippines", "phl", "south africa", "zaf", "egypt", "egy", "nigeria", "nga", "kenya", "ken"];
+
+  var TOKEN_REGION = {};
+  Object.keys(COUNTRY).forEach(function (r) {
+    COUNTRY[r].forEach(function (t) { TOKEN_REGION[t] = TOKEN_REGION[t] || { region: r, tier: 0 }; });
+  });
+  Object.keys(CITY).forEach(function (r) {
+    CITY[r].forEach(function (t) { if (!TOKEN_REGION[t]) TOKEN_REGION[t] = { region: r, tier: 1 }; });
+  });
+  var NON_EU_SET = {};
+  NON_EU.forEach(function (t) { NON_EU_SET[t] = true; });
+
+  function classifyLocation(loc) {
+    // country beats city; an explicit non-European country disqualifies the whole string
+    var parts = loc.toLowerCase().split(/[,;·]/).map(function (p) { return p.trim(); });
+    var best = null;
+    for (var i = 0; i < parts.length; i++) {
+      var p = parts[i];
+      if (NON_EU_SET[p]) return null;
+      var hit = TOKEN_REGION[p];
+      if (hit && (!best || hit.tier < best.tier)) best = hit;
+    }
+    return best ? best.region : null;
+  }
+  function classifyJob(j) {
+    var regions = {};
+    j.locations.forEach(function (l) {
+      var r = classifyLocation(l);
+      if (r) regions[r] = true;
+    });
+    var keys = Object.keys(regions);
+    return keys.length ? keys : ["other"];
+  }
+
+  /* ---------- state (synced to URL hash) ---------- */
+  var state = {
+    q: "", region: "", sort: "posted", dp: "",
+    cats: {}, cos: {},
+    newonly: false, savedonly: false
+  };
+  function setFromCSV(str) {
+    var s = {};
+    if (str) str.split("|").forEach(function (v) { if (v) s[v] = true; });
+    return s;
+  }
+  function csvFromSet(s) { return Object.keys(s).join("|"); }
+
+  function readHash() {
+    var p = new URLSearchParams(location.hash.slice(1));
+    state.q = p.get("q") || "";
+    state.region = p.get("r") || "";
+    state.sort = p.get("s") || "posted";
+    state.dp = p.get("dp") || "";
+    state.cats = setFromCSV(p.get("cat"));
+    state.cos = setFromCSV(p.get("co"));
+    state.newonly = p.get("new") === "1";
+    state.savedonly = p.get("saved") === "1";
+  }
+  function writeHash() {
+    var p = new URLSearchParams();
+    if (state.q) p.set("q", state.q);
+    if (Object.keys(state.cos).length) p.set("co", csvFromSet(state.cos));
+    if (Object.keys(state.cats).length) p.set("cat", csvFromSet(state.cats));
+    if (state.region) p.set("r", state.region);
+    if (state.dp) p.set("dp", state.dp);
+    if (state.sort !== "posted") p.set("s", state.sort);
+    if (state.newonly) p.set("new", "1");
+    if (state.savedonly) p.set("saved", "1");
+    var h = p.toString();
+    history.replaceState(null, "", h ? "#" + h : location.pathname + location.search);
+  }
+
+  /* ---------- load data ---------- */
+  var jobs = [];
+  fetch(DATA_URL)
+    .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+    .then(function (data) {
+      var updated = new Date(data.updated_at);
+      var newCutoff = updated.getTime() - 7 * 864e5;
+      jobs = Object.keys(data.jobs).map(function (k) {
+        var j = data.jobs[k]; j.key = k; return j;
+      }).filter(function (j) { return j.active; }).map(function (j) {
+        j.isNew = j.first_seen && new Date(j.first_seen + "T00:00:00Z").getTime() >= newCutoff;
+        j.postedTs = j.posted ? new Date(j.posted + "T00:00:00Z").getTime() : 0;
+        j.regions = classifyJob(j);
+        j.search = (j.title + " " + j.company + " " + j.category + " " + j.locations.join(" ")).toLowerCase();
+        return j;
+      });
+      init(updated);
+    })
+    .catch(function (e) {
+      list.innerHTML = '<div class="error">Could not load listings (' + esc(e.message) +
+        ').<br>You can still browse them in the <a href="' + repoUrl + '#readme">README on GitHub</a>.</div>';
+    });
+
+  /* ---------- init UI ---------- */
+  function init(updated) {
+    readHash();
+
+    var nCompanies = uniq(jobs.map(function (j) { return j.company; })).length;
+    $("hero-line").innerHTML = "<b>" + jobs.length + " open internships</b> at " + nCompanies +
+      " top tech companies across Europe · updated " + esc(timeAgo(updated)) + " from official careers pages.";
+
+    // region select with counts
+    var regionCounts = {};
+    jobs.forEach(function (j) {
+      j.regions.forEach(function (r) { regionCounts[r] = (regionCounts[r] || 0) + 1; });
+    });
+    var rsel = $("region");
+    REGIONS.forEach(function (r) {
+      if (!regionCounts[r[0]]) return;
+      var o = document.createElement("option");
+      o.value = r[0];
+      o.textContent = r[1] + " (" + regionCounts[r[0]] + ")";
+      rsel.appendChild(o);
+    });
+
+    // sidebar: category checkboxes
+    var cats = {};
+    jobs.forEach(function (j) { cats[j.category] = (cats[j.category] || 0) + 1; });
+    var catBox = $("cat-list");
+    Object.keys(cats).sort(function (a, b) { return cats[b] - cats[a]; }).forEach(function (c) {
+      catBox.appendChild(checkboxOpt(c, cats[c], !!state.cats[c], function (checked) {
+        if (checked) state.cats[c] = true; else delete state.cats[c];
+        refresh();
+      }));
+    });
+
+    // sidebar: company checkboxes
+    var cos = {};
+    jobs.forEach(function (j) { cos[j.company] = (cos[j.company] || 0) + 1; });
+    var coBox = $("co-list");
+    Object.keys(cos).sort(function (a, b) { return cos[b] - cos[a] || (a < b ? -1 : 1); }).forEach(function (c) {
+      coBox.appendChild(checkboxOpt(c, cos[c], !!state.cos[c], function (checked) {
+        if (checked) state.cos[c] = true; else delete state.cos[c];
+        refresh();
+      }));
+    });
+
+    // quick filters
+    $("n-new").textContent = jobs.filter(function (j) { return j.isNew; }).length;
+    $("f-new").checked = state.newonly;
+    $("f-new").addEventListener("change", function () { state.newonly = this.checked; refresh(); });
+    $("f-saved").checked = state.savedonly;
+    $("f-saved").addEventListener("change", function () { state.savedonly = this.checked; refresh(); });
+
+    // date posted radios
+    var radios = document.querySelectorAll('input[name="dp"]');
+    Array.prototype.forEach.call(radios, function (r) {
+      r.checked = r.value === state.dp;
+      r.addEventListener("change", function () { if (this.checked) { state.dp = this.value; refresh(); } });
+    });
+
+    // search / region / sort
+    $("q").value = state.q;
+    rsel.value = state.region;
+    $("sort").value = state.sort;
+    $("q").addEventListener("input", function () { state.q = this.value.trim().toLowerCase(); refresh(); });
+    rsel.addEventListener("change", function () { state.region = this.value; refresh(); });
+    $("sort").addEventListener("change", function () { state.sort = this.value; refresh(); });
+
+    $("clear").addEventListener("click", clearFilters);
+    $("sidebar-reset").addEventListener("click", clearFilters);
+
+    // mobile filters toggle
+    var toggle = $("filters-toggle");
+    toggle.hidden = false;
+    toggle.addEventListener("click", function () {
+      $("sidebar").classList.toggle("open");
+      toggle.querySelector(".arrow").textContent = $("sidebar").classList.contains("open") ? "▴" : "▾";
+    });
+
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "/" && document.activeElement !== $("q") &&
+          !/^(input|select|textarea)$/i.test(document.activeElement.tagName)) {
+        e.preventDefault(); $("q").focus();
+      } else if (e.key === "Escape" && document.activeElement === $("q")) {
+        if ($("q").value) { $("q").value = ""; state.q = ""; refresh(); }
+        else $("q").blur();
+      }
+    });
+
+    $("results-head").hidden = false;
+    render();
+  }
+
+  function checkboxOpt(label, count, checked, onChange) {
+    var l = document.createElement("label");
+    l.className = "fopt";
+    var cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = checked;
+    cb.addEventListener("change", function () { onChange(this.checked); });
+    var lbl = document.createElement("span");
+    lbl.className = "lbl";
+    lbl.textContent = label;
+    lbl.title = label;
+    var cnt = document.createElement("span");
+    cnt.className = "cnt";
+    cnt.textContent = count;
+    l.appendChild(cb); l.appendChild(lbl); l.appendChild(cnt);
+    return l;
+  }
+
+  function refresh() {
+    writeHash();
+    updateQuickCounts();
+    render();
+  }
+
+  function updateQuickCounts() {
+    $("n-saved").textContent = jobs.filter(function (j) { return saved[j.key]; }).length;
+    var n = activeFilterCount();
+    $("fcount").textContent = n;
+    $("fcount").hidden = n === 0;
+  }
+
+  function activeFilterCount() {
+    return (state.q ? 1 : 0) + Object.keys(state.cos).length + Object.keys(state.cats).length +
+           (state.region ? 1 : 0) + (state.dp ? 1 : 0) +
+           (state.newonly ? 1 : 0) + (state.savedonly ? 1 : 0);
+  }
+
+  function clearFilters() {
+    state.q = ""; state.region = ""; state.dp = "";
+    state.cats = {}; state.cos = {};
+    state.newonly = false; state.savedonly = false;
+    $("q").value = ""; $("region").value = "";
+    $("f-new").checked = false; $("f-saved").checked = false;
+    Array.prototype.forEach.call(document.querySelectorAll('input[name="dp"]'), function (r) {
+      r.checked = r.value === "";
+    });
+    Array.prototype.forEach.call(document.querySelectorAll("#cat-list input, #co-list input"), function (cb) {
+      cb.checked = false;
+    });
+    refresh();
+  }
+
+  /* ---------- render ---------- */
+  function render() {
+    var catsOn = Object.keys(state.cats).length;
+    var cosOn = Object.keys(state.cos).length;
+    var dpCutoff = state.dp ? Date.now() - (+state.dp) * 864e5 : 0;
+
+    var rows = jobs.filter(function (j) {
+      if (cosOn && !state.cos[j.company]) return false;
+      if (catsOn && !state.cats[j.category]) return false;
+      if (state.region && j.regions.indexOf(state.region) === -1) return false;
+      if (state.dp && (!j.postedTs || j.postedTs < dpCutoff)) return false;
+      if (state.newonly && !j.isNew) return false;
+      if (state.savedonly && !saved[j.key]) return false;
+      if (state.q && j.search.indexOf(state.q) === -1) return false;
+      return true;
+    });
+
+    var byDate = function (field) {
+      return function (a, b) {
+        var av = a[field] || "", bv = b[field] || "";
+        if (av !== bv) return av < bv ? 1 : -1; // desc, undated last
+        return a.company < b.company ? -1 : 1;
+      };
+    };
+    if (state.sort === "posted") rows.sort(byDate("posted"));
+    else if (state.sort === "first_seen") rows.sort(byDate("first_seen"));
+    else rows.sort(function (a, b) {
+      if (a.company !== b.company) return a.company < b.company ? -1 : 1;
+      return (a.posted || "") < (b.posted || "") ? 1 : -1;
+    });
+
+    var nFilters = activeFilterCount();
+    $("count").innerHTML = nFilters
+      ? rows.length + " internship" + (rows.length === 1 ? "" : "s") + "<small>of " + jobs.length + "</small>"
+      : jobs.length + " internships";
+    $("clear").hidden = nFilters === 0;
+    updateQuickCounts();
+
+    if (!rows.length) {
+      list.innerHTML = '<div class="empty"><div class="big">🔎</div>' +
+        (state.savedonly && !Object.keys(saved).length
+          ? "No saved jobs yet — click the bookmark on a listing to keep it here."
+          : "No internships match your filters.") +
+        '<br><button id="empty-clear">Clear all filters</button></div>';
+      $("empty-clear").addEventListener("click", clearFilters);
+      return;
+    }
+
+    list.innerHTML = rows.map(jobCard).join("");
+
+    Array.prototype.forEach.call(list.querySelectorAll(".save-btn"), function (btn) {
+      btn.addEventListener("click", function () {
+        var k = btn.getAttribute("data-k");
+        if (saved[k]) delete saved[k]; else saved[k] = 1;
+        persistSaved();
+        btn.classList.toggle("on", !!saved[k]);
+        btn.innerHTML = saved[k] ? BOOKMARK_FILL : BOOKMARK;
+        btn.title = saved[k] ? "Remove from saved" : "Save job";
+        btn.setAttribute("aria-pressed", saved[k] ? "true" : "false");
+        updateQuickCounts();
+        if (state.savedonly) render();
+      });
+    });
+  }
+
+  function jobCard(j) {
+    var loc = j.locations.length > 2
+      ? esc(j.locations[0]) + ' <span class="loc-more" title="' + esc(j.locations.join("\n")) + '">+' + (j.locations.length - 1) + " more locations</span>"
+      : esc(j.locations.join(" · "));
+    var isSaved = !!saved[j.key];
+    return '<article class="job">' +
+      logoHTML(j.company) +
+      '<div class="job-main">' +
+        '<a class="title" href="' + esc(j.url) + '" target="_blank" rel="noopener">' + esc(j.title) + "</a>" +
+        '<div class="co">' + esc(j.company) + "</div>" +
+        '<div class="loc">📍 ' + loc + "</div>" +
+        '<div class="tags">' +
+          (j.isNew ? '<span class="tag new">🆕 New</span>' : "") +
+          '<span class="tag">' + esc(j.category) + "</span>" +
+          (j.posted ? '<span class="tag posted" title="posted ' + esc(j.posted) + '">Posted ' + relDate(j.posted) + "</span>" : "") +
+        "</div>" +
+      "</div>" +
+      '<div class="job-actions">' +
+        '<button class="save-btn' + (isSaved ? " on" : "") + '" data-k="' + esc(j.key) + '" aria-pressed="' + isSaved + '" title="' +
+          (isSaved ? "Remove from saved" : "Save job") + '">' + (isSaved ? BOOKMARK_FILL : BOOKMARK) + "</button>" +
+        '<a class="apply-btn" href="' + esc(j.url) + '" target="_blank" rel="noopener">Apply ↗</a>' +
+      "</div>" +
+      "</article>";
+  }
+
+  /* ---------- utils ---------- */
+  function uniq(a) {
+    var s = {}; return a.filter(function (x) { return s[x] ? false : (s[x] = true); });
+  }
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function timeAgo(d) {
+    var h = Math.round((Date.now() - d.getTime()) / 36e5);
+    if (h < 1) return "just now";
+    if (h < 24) return h + " hour" + (h === 1 ? "" : "s") + " ago";
+    var days = Math.round(h / 24);
+    return days + " day" + (days === 1 ? "" : "s") + " ago";
+  }
+  function relDate(iso) {
+    var days = Math.round((Date.now() - new Date(iso + "T00:00:00Z").getTime()) / 864e5);
+    if (days <= 0) return "today";
+    if (days === 1) return "yesterday";
+    if (days < 30) return days + " days ago";
+    if (days < 365) { var m = Math.round(days / 30.44); return m + " month" + (m === 1 ? "" : "s") + " ago"; }
+    return "over a year ago";
+  }
+})();
+</script>
+</body>
+</html>

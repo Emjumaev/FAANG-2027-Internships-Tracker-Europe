@@ -13,6 +13,8 @@ AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
 {n_companies} top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
+🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
+
 > 🕐 Last updated: **{updated}** · 📌 **{n_open}** open internships
 > · 🆕 = added in the last {new_days} days
 
