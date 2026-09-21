@@ -74,6 +74,48 @@
       "title": "Business Developer Intern - 2027 - 6 months",
       "url": "https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months"
     },
+    "amazon:10554586": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554586",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom"
+    },
+    "amazon:10554652": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554652",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "Iasi, ROU"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - Ia\u0219i, Romania",
+      "url": "https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania"
+    },
+    "amazon:10554669": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554669",
+      "first_seen": "2026-09-21",
+      "last_seen": "2026-09-21",
+      "locations": [
+        "Bucharest, ROU"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - Bucharest, Romania",
+      "url": "https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -964,5 +1006,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-21T12:52:04Z"
+  "updated_at": "2026-09-21T22:04:46Z"
 }
