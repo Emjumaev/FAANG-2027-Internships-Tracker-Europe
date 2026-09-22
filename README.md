@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-09-22 04:59:30 UTC** · 📌 **45** open internships
+> 🕐 Last updated: **2026-09-22 11:42:06 UTC** · 📌 **49** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,7 +16,7 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 12 |
+| [Amazon](#amazon) | 17 |
 | Anthropic | — |
 | [Apple](#apple) | 5 |
 | Bloomberg | — |
@@ -26,7 +26,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 12 |
 | [Hudson River Trading](#hudson-river-trading) | 1 |
-| [Intel](#intel) | 1 |
+| Intel | — |
 | Jane Street | — |
 | Meta | — |
 | [Microsoft](#microsoft) | 2 |
@@ -51,7 +51,12 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [2027 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) 🆕 | Software | Madrid, Community of Madrid, ESP | 2026-09-22 | 2026-09-22 |
+| [2027 Software Dev Engineer Intern - Poland](https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland) 🆕 | Software | Gdansk, Pomeranian Voivodeship, POL | 2026-09-22 | 2026-09-22 |
+| [2027 Software Dev Engineer Intern - Italy](https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy) 🆕 | Software | Turin, Piedmont, ITA | 2026-09-22 | 2026-09-22 |
+| [2027 Software Dev Engineer Intern - France](https://www.amazon.jobs/en/jobs/10555863/2027-software-dev-engineer-intern-france) 🆕 | Software | Clichy, Ile-de-France, FRA | 2026-09-22 | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10554586/2027-software-dev-engineer-intern-united-kingdom) 🆕 | Software | London, England, GBR | 2026-09-21 | 2026-09-21 |
+| [2027 Software Dev Engineer Intern - Luxembourg](https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg) 🆕 | Software | Luxembourg, LUX | 2026-09-21 | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) 🆕 | Software | Iasi, ROU | 2026-09-21 | 2026-09-21 |
 | [2027 Software Dev Engineer Intern - Bucharest, Romania](https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania) 🆕 | Software | Bucharest, ROU | 2026-09-21 | 2026-09-21 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | Dublin, IRL | 2026-05-13 | 2026-07-09 |
@@ -107,12 +112,6 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|
 | [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Software | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom *(+2 more)* | 2026-07-13 | 2026-08-03 |
 
-## Intel
-
-| Role | Category | Location | Posted | First seen |
-|---|---|---|---|---|
-| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | Ireland, Leixlip | 2026-09-09 | 2026-09-08 |
-
 ## Microsoft
 
 | Role | Category | Location | Posted | First seen |
@@ -124,7 +123,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-17 | 2026-07-30 |
+| [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-16 | 2026-07-30 |
 
 ## Snowflake
 

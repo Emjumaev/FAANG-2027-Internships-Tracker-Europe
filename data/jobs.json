@@ -116,6 +116,76 @@
       "title": "2027 Software Dev Engineer Intern - Bucharest, Romania",
       "url": "https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania"
     },
+    "amazon:10554706": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554706",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Luxembourg, LUX"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - Luxembourg",
+      "url": "https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg"
+    },
+    "amazon:10555855": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10555855",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Madrid, Community of Madrid, ESP"
+      ],
+      "posted": "2026-09-22",
+      "title": "2027 Software Dev Engineer Intern - Spain",
+      "url": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain"
+    },
+    "amazon:10555863": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10555863",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Clichy, Ile-de-France, FRA"
+      ],
+      "posted": "2026-09-22",
+      "title": "2027 Software Dev Engineer Intern - France",
+      "url": "https://www.amazon.jobs/en/jobs/10555863/2027-software-dev-engineer-intern-france"
+    },
+    "amazon:10555867": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10555867",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Turin, Piedmont, ITA"
+      ],
+      "posted": "2026-09-22",
+      "title": "2027 Software Dev Engineer Intern - Italy",
+      "url": "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy"
+    },
+    "amazon:10555873": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10555873",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Gdansk, Pomeranian Voivodeship, POL"
+      ],
+      "posted": "2026-09-22",
+      "title": "2027 Software Dev Engineer Intern - Poland",
+      "url": "https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -699,8 +769,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
     },
     "intel:JR0286944": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-22",
       "company": "Intel",
       "external_id": "JR0286944",
       "first_seen": "2026-09-08",
@@ -857,7 +928,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-16",
       "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
@@ -1006,5 +1077,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-22T04:59:30Z"
+  "updated_at": "2026-09-22T11:42:06Z"
 }
