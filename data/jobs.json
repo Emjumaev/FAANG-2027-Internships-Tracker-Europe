@@ -428,6 +428,20 @@
       "title": "Internship - Machine Learning Research",
       "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research"
     },
+    "apple:200685035": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200685035",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-09-22",
+      "title": "Internship - Machine Learning (Foundation Models)",
+      "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -961,6 +975,20 @@
       "title": "Software Engineer Intern - Warsaw Security",
       "url": "https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f"
     },
+    "snowflake:36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e": {
+      "active": true,
+      "category": "Software",
+      "company": "Snowflake",
+      "external_id": "36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e",
+      "first_seen": "2026-09-22",
+      "last_seen": "2026-09-22",
+      "locations": [
+        "Berlin, Germany"
+      ],
+      "posted": "2026-09-22",
+      "title": "Software Engineer Intern - Berlin (2027)",
+      "url": "https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e"
+    },
     "snowflake:3a9baeaf-b107-41fb-a9b3-a98ab78275ed": {
       "active": true,
       "category": "Software",
@@ -1077,5 +1105,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-22T11:42:06Z"
+  "updated_at": "2026-09-22T17:03:05Z"
 }
