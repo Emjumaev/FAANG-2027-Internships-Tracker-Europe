@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-09-23 11:39:36 UTC** · 📌 **53** open internships
+> 🕐 Last updated: **2026-09-23 17:03:08 UTC** · 📌 **53** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ API every 6 hours by GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 18 |
 | Anthropic | — |
-| [Apple](#apple) | 6 |
+| [Apple](#apple) | 5 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 5 |
 | Cloudflare | — |
@@ -26,7 +26,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 12 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| Intel | — |
+| [Intel](#intel) | 1 |
 | Jane Street | — |
 | Meta | — |
 | [Microsoft](#microsoft) | 2 |
@@ -77,7 +77,6 @@ API every 6 hours by GitHub Actions.
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) 🆕 | AI/ML | Zurich | 2026-09-22 | 2026-09-22 |
 | [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) 🆕 | AI/ML | Paris | 2026-09-16 | 2026-09-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-09-08 |
-| [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) | Backend/Infra | Munich | 2026-09-07 | 2026-09-07 |
 | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture) | Backend/Infra | London | 2025-11-04 | 2026-07-09 |
 | [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d) | Backend/Infra | Munich | 2025-09-22 | 2026-07-09 |
 
@@ -114,6 +113,12 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|
 | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8222413) 🆕 | Data | London, United Kingdom | 2026-09-22 | 2026-09-23 |
 | [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Software | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom *(+2 more)* | 2026-07-13 | 2026-08-03 |
+
+## Intel
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) 🆕 | Backend/Infra | Ireland, Leixlip | 2026-09-23 | 2026-09-23 |
 
 ## Microsoft
 

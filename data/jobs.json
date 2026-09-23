@@ -401,8 +401,9 @@
       "url": "https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture"
     },
     "apple:200682229": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-23",
       "company": "Apple",
       "external_id": "200682229",
       "first_seen": "2026-09-07",
@@ -825,6 +826,20 @@
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
+    "intel:JR0287250": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "external_id": "JR0287250",
+      "first_seen": "2026-09-23",
+      "last_seen": "2026-09-23",
+      "locations": [
+        "Ireland, Leixlip"
+      ],
+      "posted": "2026-09-23",
+      "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250"
+    },
     "meta:1029177790044680": {
       "active": false,
       "category": "AI/ML",
@@ -1133,5 +1148,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-23T11:39:36Z"
+  "updated_at": "2026-09-23T17:03:08Z"
 }
