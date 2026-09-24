@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-09-23 21:35:51 UTC** · 📌 **53** open internships
+> 🕐 Last updated: **2026-09-24 04:54:14 UTC** · 📌 **54** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -28,7 +28,7 @@ API every 6 hours by GitHub Actions.
 | [Hudson River Trading](#hudson-river-trading) | 2 |
 | [Intel](#intel) | 1 |
 | Jane Street | — |
-| Meta | — |
+| [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 2 |
 | [NVIDIA](#nvidia) | 1 |
 | Netflix | — |
@@ -75,7 +75,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) 🆕 | AI/ML | Zurich | 2026-09-22 | 2026-09-22 |
-| [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) 🆕 | AI/ML | Paris | 2026-09-16 | 2026-09-16 |
+| [Internship - Machine Learning Research](https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research) | AI/ML | Paris | 2026-09-16 | 2026-09-16 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | London | 2026-09-08 | 2026-09-08 |
 | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture) | Backend/Infra | London | 2025-11-04 | 2026-07-09 |
 | [SoC Performance Modeling Internship - Platform Architecture (m/f/d)](https://jobs.apple.com/en-us/details/200622296/soc-performance-modeling-internship-platform-architecture-m-f-d) | Backend/Infra | Munich | 2025-09-22 | 2026-07-09 |
@@ -118,7 +118,13 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) 🆕 | Backend/Infra | Ireland, Leixlip | 2026-09-23 | 2026-09-23 |
+| [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) 🆕 | Backend/Infra | Ireland, Leixlip | 2026-09-24 | 2026-09-23 |
+
+## Meta
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Network Production Engineer Intern](https://www.metacareers.com/jobs/2558941294546763) 🆕 | Backend/Infra | Dublin, Ireland; London, UK | — | 2026-09-24 |
 
 ## Microsoft
 
@@ -131,7 +137,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-16 | 2026-07-30 |
+| [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-17 | 2026-07-30 |
 
 ## Snowflake
 
