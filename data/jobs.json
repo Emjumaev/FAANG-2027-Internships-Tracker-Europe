@@ -812,17 +812,17 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering-Intern_JR0285471"
     },
     "intel:JR0286944": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-22",
       "company": "Intel",
       "external_id": "JR0286944",
       "first_seen": "2026-09-08",
-      "last_seen": "2026-09-22",
+      "last_seen": "2026-09-24",
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-09",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -836,7 +836,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-24",
+      "posted": "2026-09-23",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250"
     },
@@ -856,8 +856,9 @@
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
     "meta:2558941294546763": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-09-24",
       "company": "Meta",
       "external_id": "2558941294546763",
       "first_seen": "2026-09-24",
@@ -1000,7 +1001,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-16",
       "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
@@ -1163,5 +1164,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-24T04:54:14Z"
+  "updated_at": "2026-09-24T11:49:36Z"
 }
