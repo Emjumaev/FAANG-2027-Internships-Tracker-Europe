@@ -856,7 +856,7 @@
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
     "meta:2558941294546763": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-09-24",
       "company": "Meta",
@@ -1164,5 +1164,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-24T11:49:36Z"
+  "updated_at": "2026-09-24T17:15:44Z"
 }
