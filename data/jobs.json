@@ -145,8 +145,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain"
     },
     "amazon:10555863": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-28",
       "company": "Amazon",
       "external_id": "10555863",
       "first_seen": "2026-09-22",
@@ -822,7 +823,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -836,7 +837,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-24",
+      "posted": "2026-09-23",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250"
     },
@@ -975,6 +976,22 @@
       "title": "Cloud Solution Architecture Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
     },
+    "microsoft:1970393557007677": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557007677",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "locations": [
+        "Romania, Bucharest, Bucharest",
+        "Romania, Iasi, Iasi",
+        "Romania, Timis, Timisoara"
+      ],
+      "posted": "2026-09-28",
+      "title": "Software Engineer Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557007677"
+    },
     "nvidia:JR2012814": {
       "active": false,
       "category": "AI/ML",
@@ -1001,7 +1018,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-16",
       "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
@@ -1020,6 +1037,20 @@
       "title": "Software Engineering Intern, Test Automation \u2014 Autonomous Vehicles",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern--Test-Automation---Autonomous-Vehicles_JR2023302"
     },
+    "nvidia:JR2024606": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "NVIDIA",
+      "external_id": "JR2024606",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "locations": [
+        "Switzerland, Zurich"
+      ],
+      "posted": "2026-09-28",
+      "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
+    },
     "snowflake:3045856c-74a4-469e-ba81-a176cc0bef8f": {
       "active": true,
       "category": "Security",
@@ -1035,8 +1066,9 @@
       "url": "https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f"
     },
     "snowflake:36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-28",
       "company": "Snowflake",
       "external_id": "36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e",
       "first_seen": "2026-09-22",
@@ -1164,5 +1196,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-28T05:27:22Z"
+  "updated_at": "2026-09-28T13:57:39Z"
 }
