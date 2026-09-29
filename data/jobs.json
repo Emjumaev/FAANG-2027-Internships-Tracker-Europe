@@ -160,8 +160,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10555863/2027-software-dev-engineer-intern-france"
     },
     "amazon:10555867": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-29",
       "company": "Amazon",
       "external_id": "10555867",
       "first_seen": "2026-09-22",
@@ -457,6 +458,34 @@
       "posted": "2026-09-22",
       "title": "Internship - Machine Learning (Foundation Models)",
       "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models"
+    },
+    "apple:200686332": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200686332",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-09-29",
+      "title": "Internship Computer Vision & Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research"
+    },
+    "apple:200686336": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200686336",
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-09-29",
+      "title": "Internship Computer Vision & Machine Learning Research",
+      "url": "https://jobs.apple.com/en-us/details/200686336/internship-computer-vision-machine-learning-research"
     },
     "cisco:2005347": {
       "active": false,
@@ -823,7 +852,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -837,7 +866,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-24",
+      "posted": "2026-09-23",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250"
     },
@@ -1018,7 +1047,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-09-17",
+      "posted": "2026-09-16",
       "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086"
     },
@@ -1047,7 +1076,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
     },
@@ -1066,17 +1095,17 @@
       "url": "https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f"
     },
     "snowflake:36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-09-28",
       "company": "Snowflake",
       "external_id": "36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-09-28",
+      "last_seen": "2026-09-29",
       "locations": [
         "Berlin, Germany"
       ],
-      "posted": "2026-09-22",
+      "posted": "2026-09-29",
       "title": "Software Engineer Intern - Berlin (2027)",
       "url": "https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e"
     },
@@ -1196,5 +1225,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-29T05:48:11Z"
+  "updated_at": "2026-09-29T12:56:32Z"
 }
