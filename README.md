@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-09-30 12:38:26 UTC** · 📌 **55** open internships
+> 🕐 Last updated: **2026-09-30 22:20:46 UTC** · 📌 **55** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -16,9 +16,9 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 15 |
+| [Amazon](#amazon) | 13 |
 | Anthropic | — |
-| [Apple](#apple) | 7 |
+| [Apple](#apple) | 9 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 5 |
 | Cloudflare | — |
@@ -64,13 +64,13 @@ API every 6 hours by GitHub Actions.
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3126764/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | London, England, GBR | 2025-11-14 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Barcelona, Catalonia, ESP | 2025-11-03 | 2026-07-09 |
 | [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | Berlin, Berlin, DEU | 2025-10-24 | 2026-07-09 |
-| [2026 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany) | Software | Berlin, Berlin, DEU | 2025-09-05 | 2026-07-13 |
-| [2026 Software Dev Engineer Intern - UK](https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk) | Software | London, England, GBR | 2025-09-03 | 2026-08-31 |
 
 ## Apple
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Internship Computer Vision & Machine Learning Research - LLM Efficiency](https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency) 🆕 | AI/ML | Zurich | 2026-09-30 | 2026-09-30 |
+| [Internship Computer Vision & Machine Learning Research - LLM Efficiency](https://jobs.apple.com/en-us/details/200686569/internship-computer-vision-machine-learning-research-llm-efficiency) 🆕 | AI/ML | Munich | 2026-09-30 | 2026-09-30 |
 | [Internship Computer Vision & Machine Learning Research](https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research) 🆕 | AI/ML | Munich | 2026-09-29 | 2026-09-29 |
 | [Internship Computer Vision & Machine Learning Research](https://jobs.apple.com/en-us/details/200686336/internship-computer-vision-machine-learning-research) 🆕 | AI/ML | Zurich | 2026-09-29 | 2026-09-29 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | Zurich | 2026-09-22 | 2026-09-22 |

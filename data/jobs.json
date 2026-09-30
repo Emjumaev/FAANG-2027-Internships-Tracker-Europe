@@ -218,8 +218,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3072042/2026-software-dev-engineer-intern-ireland"
     },
     "amazon:3072061": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-30",
       "company": "Amazon",
       "external_id": "3072061",
       "first_seen": "2026-08-31",
@@ -232,8 +233,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3072061/2026-software-dev-engineer-intern-uk"
     },
     "amazon:3074226": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-09-30",
       "company": "Amazon",
       "external_id": "3074226",
       "first_seen": "2026-07-13",
@@ -487,6 +489,34 @@
       "posted": "2026-09-29",
       "title": "Internship Computer Vision & Machine Learning Research",
       "url": "https://jobs.apple.com/en-us/details/200686336/internship-computer-vision-machine-learning-research"
+    },
+    "apple:200686569": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200686569",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-09-30",
+      "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
+      "url": "https://jobs.apple.com/en-us/details/200686569/internship-computer-vision-machine-learning-research-llm-efficiency"
+    },
+    "apple:200686571": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200686571",
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30",
+      "locations": [
+        "Zurich"
+      ],
+      "posted": "2026-09-30",
+      "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
+      "url": "https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency"
     },
     "cisco:2005347": {
       "active": false,
@@ -1227,5 +1257,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-09-30T12:38:26Z"
+  "updated_at": "2026-09-30T22:20:46Z"
 }
