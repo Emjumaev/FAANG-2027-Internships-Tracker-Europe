@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-01 05:56:31 UTC** · 📌 **55** open internships
+> 🕐 Last updated: **2026-10-01 13:17:02 UTC** · 📌 **55** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -18,7 +18,7 @@ API every 6 hours by GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 13 |
 | Anthropic | — |
-| [Apple](#apple) | 9 |
+| [Apple](#apple) | 10 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 5 |
 | Cloudflare | — |
@@ -30,7 +30,7 @@ API every 6 hours by GitHub Actions.
 | Jane Street | — |
 | [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 3 |
-| [NVIDIA](#nvidia) | 2 |
+| [NVIDIA](#nvidia) | 1 |
 | Netflix | — |
 | OpenAI | — |
 | Oracle | — |
@@ -69,6 +69,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [AMS Lab Validation Intern](https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern) 🆕 | QA | Munich | 2026-10-01 | 2026-10-01 |
 | [Internship Computer Vision & Machine Learning Research - LLM Efficiency](https://jobs.apple.com/en-us/details/200686569/internship-computer-vision-machine-learning-research-llm-efficiency) 🆕 | AI/ML | Munich | 2026-09-30 | 2026-09-30 |
 | [Internship Computer Vision & Machine Learning Research - LLM Efficiency](https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency) 🆕 | AI/ML | Zurich | 2026-09-30 | 2026-09-30 |
 | [Internship Computer Vision & Machine Learning Research](https://jobs.apple.com/en-us/details/200686332/internship-computer-vision-machine-learning-research) 🆕 | AI/ML | Munich | 2026-09-29 | 2026-09-29 |
@@ -117,7 +118,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | Ireland, Leixlip | 2026-09-25 | 2026-09-08 |
+| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | Ireland, Leixlip | 2026-09-24 | 2026-09-08 |
 
 ## Meta
 
@@ -137,8 +138,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) 🆕 | AI/ML | Switzerland, Zurich | 2026-09-29 | 2026-09-28 |
-| [Software Engineering Intern — Replay Tooling and Test Automation - Autonomous Driving](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086) | AI/ML | Germany, Munich | 2026-09-17 | 2026-07-30 |
+| [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) 🆕 | AI/ML | Switzerland, Zurich | 2026-09-28 | 2026-09-28 |
 
 ## Snowflake
 

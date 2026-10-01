@@ -518,6 +518,20 @@
       "title": "Internship Computer Vision & Machine Learning Research - LLM Efficiency",
       "url": "https://jobs.apple.com/en-us/details/200686571/internship-computer-vision-machine-learning-research-llm-efficiency"
     },
+    "apple:200686742": {
+      "active": true,
+      "category": "QA",
+      "company": "Apple",
+      "external_id": "200686742",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-10-01",
+      "title": "AMS Lab Validation Intern",
+      "url": "https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -883,7 +897,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -1069,9 +1083,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Deep-Learning-Algorithm-Engineering-Intern---2026_JR2012814"
     },
     "nvidia:JR2022086": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-09-11",
+      "closed": "2026-10-01",
       "company": "NVIDIA",
       "external_id": "JR2022086",
       "first_seen": "2026-07-30",
@@ -1108,7 +1122,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
     },
@@ -1257,5 +1271,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-01T05:56:31Z"
+  "updated_at": "2026-10-01T13:17:02Z"
 }
