@@ -1052,8 +1052,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
     },
     "microsoft:1970393557007677": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-01",
       "company": "Microsoft",
       "external_id": "1970393557007677",
       "first_seen": "2026-09-28",
@@ -1066,6 +1067,20 @@
       "posted": "2026-09-28",
       "title": "Software Engineer Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557007677"
+    },
+    "microsoft:1970393557021513": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557021513",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Czech Republic, Prague, Prague"
+      ],
+      "posted": "2026-10-01",
+      "title": "Software Engineering Internship Opportunities - CoreAI",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021513"
     },
     "nvidia:JR2012814": {
       "active": false,
@@ -1125,6 +1140,48 @@
       "posted": "2026-09-28",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
+    },
+    "pinterest:8138034": {
+      "active": true,
+      "category": "Software",
+      "company": "Pinterest",
+      "external_id": "8138034",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Dublin, IE"
+      ],
+      "posted": "2026-10-01",
+      "title": "Software Engineering Intern 2027 (Dublin)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138034"
+    },
+    "pinterest:8214745": {
+      "active": true,
+      "category": "Software",
+      "company": "Pinterest",
+      "external_id": "8214745",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Zurich, CH"
+      ],
+      "posted": "2026-10-01",
+      "title": "Software Engineering Intern 2027 (Zurich)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745"
+    },
+    "pinterest:8214757": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Pinterest",
+      "external_id": "8214757",
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01",
+      "locations": [
+        "Zurich, CH"
+      ],
+      "posted": "2026-10-01",
+      "title": "Machine Learning Intern 2027 (Zurich)",
+      "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214757"
     },
     "snowflake:3045856c-74a4-469e-ba81-a176cc0bef8f": {
       "active": true,
@@ -1271,5 +1328,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-01T13:17:02Z"
+  "updated_at": "2026-10-01T22:46:33Z"
 }

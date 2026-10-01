@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-01 13:17:02 UTC** · 📌 **55** open internships
+> 🕐 Last updated: **2026-10-01 22:46:33 UTC** · 📌 **58** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -35,7 +35,7 @@ API every 6 hours by GitHub Actions.
 | OpenAI | — |
 | Oracle | — |
 | PayPal | — |
-| Pinterest | — |
+| [Pinterest](#pinterest) | 3 |
 | Salesforce | — |
 | Snap | — |
 | [Snowflake](#snowflake) | 4 |
@@ -130,7 +130,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557007677) 🆕 | Software | Romania, Bucharest, Bucharest; Romania, Iasi, Iasi; Romania, Timis, Timisoara | 2026-09-28 | 2026-09-28 |
+| [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) 🆕 | Software | Czech Republic, Prague, Prague | 2026-10-01 | 2026-10-01 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | Belgium, Brussels Region, Brussels | 2026-09-14 | 2026-09-14 |
 | [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-09-10 | 2026-09-10 |
 
@@ -139,6 +139,14 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) 🆕 | AI/ML | Switzerland, Zurich | 2026-09-28 | 2026-09-28 |
+
+## Pinterest
+
+| Role | Category | Location | Posted | First seen |
+|---|---|---|---|---|
+| [Software Engineering Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214745) 🆕 | Software | Zurich, CH | 2026-10-01 | 2026-10-01 |
+| [Software Engineering Intern 2027 (Dublin)](https://www.pinterestcareers.com/jobs/?gh_jid=8138034) 🆕 | Software | Dublin, IE | 2026-10-01 | 2026-10-01 |
+| [Machine Learning Intern 2027 (Zurich)](https://www.pinterestcareers.com/jobs/?gh_jid=8214757) 🆕 | AI/ML | Zurich, CH | 2026-10-01 | 2026-10-01 |
 
 ## Snowflake
 
