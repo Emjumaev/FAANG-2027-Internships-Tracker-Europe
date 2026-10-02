@@ -202,6 +202,62 @@
       "title": "Business Intelligence Intern Luxembourg",
       "url": "https://www.amazon.jobs/en/jobs/10557454/business-intelligence-intern-luxembourg"
     },
+    "amazon:10567687": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "external_id": "10567687",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-02",
+      "title": "Business Intelligence Intern London",
+      "url": "https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london"
+    },
+    "amazon:10567688": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "external_id": "10567688",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Munich, Bavaria, DEU"
+      ],
+      "posted": "2026-10-02",
+      "title": "Business Intelligence Engineer Intern Germany",
+      "url": "https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany"
+    },
+    "amazon:10567694": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10567694",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-02",
+      "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+    },
+    "amazon:10567711": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Amazon",
+      "external_id": "10567711",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2026-10-02",
+      "title": "Cloud Support Associate Internship - April 2027 start, Support Engineering",
+      "url": "https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -248,8 +304,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3074226/2026-software-dev-engineer-intern-germany"
     },
     "amazon:3115016": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-02",
       "company": "Amazon",
       "external_id": "3115016",
       "first_seen": "2026-07-09",
@@ -548,9 +605,9 @@
       "url": "https://careers.cisco.com/global/en/job/2005347"
     },
     "cisco:2015133": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-07-10",
+      "closed": "2026-10-02",
       "company": "Cisco",
       "external_id": "2015133",
       "first_seen": "2026-07-09",
@@ -810,6 +867,20 @@
       "title": "Software Engineering BS/MS Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/83199557986329286"
     },
+    "google:84561862556820166": {
+      "active": true,
+      "category": "Data",
+      "company": "Google",
+      "external_id": "84561862556820166",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Z\u00fcrich, Switzerland"
+      ],
+      "posted": "2026-10-02",
+      "title": "Data Scientist Product MS Intern, 2027",
+      "url": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166"
+    },
     "google:93078491720753862": {
       "active": true,
       "category": "Software",
@@ -897,7 +968,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -1137,7 +1208,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
     },
@@ -1328,5 +1399,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-02T05:41:10Z"
+  "updated_at": "2026-10-02T12:38:47Z"
 }
