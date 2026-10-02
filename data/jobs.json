@@ -258,6 +258,48 @@
       "title": "Cloud Support Associate Internship - April 2027 start, Support Engineering",
       "url": "https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering"
     },
+    "amazon:10567744": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "external_id": "10567744",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Madrid, Community of Madrid, ESP"
+      ],
+      "posted": "2026-10-02",
+      "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+    },
+    "amazon:10567769": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "external_id": "10567769",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Zaragoza, Aragon, ESP"
+      ],
+      "posted": "2026-10-02",
+      "title": "(Physical) Security Specialist Intern -  2027 Internship",
+      "url": "https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship"
+    },
+    "amazon:10567818": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "external_id": "10567818",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Paris, Ile-de-France, FRA"
+      ],
+      "posted": "2026-10-02",
+      "title": "(Physical) Security Specialist Intern -  2027 Internship",
+      "url": "https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -675,6 +717,76 @@
       "title": "Wireless Software Engineer_ Intern",
       "url": "https://careers.cisco.com/global/en/job/2025061"
     },
+    "databricks:6866531002": {
+      "active": true,
+      "category": "Software",
+      "company": "Databricks",
+      "external_id": "6866531002",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Berlin, Germany"
+      ],
+      "posted": "2023-09-01",
+      "title": "Software Engineering Intern (2027 Start) - Berlin",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002"
+    },
+    "databricks:6866534002": {
+      "active": true,
+      "category": "Software",
+      "company": "Databricks",
+      "external_id": "6866534002",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Amsterdam, Netherlands"
+      ],
+      "posted": "2023-09-01",
+      "title": "Software Engineering Intern (2027 Start) - Amsterdam",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002"
+    },
+    "databricks:7640764002": {
+      "active": true,
+      "category": "Software",
+      "company": "Databricks",
+      "external_id": "7640764002",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Belgrade, Serbia"
+      ],
+      "posted": "2024-09-27",
+      "title": "Software Engineering Intern (2027 Start) - Belgrade",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002"
+    },
+    "databricks:8133710002": {
+      "active": true,
+      "category": "Software",
+      "company": "Databricks",
+      "external_id": "8133710002",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "Aarhus, Denmark"
+      ],
+      "posted": "2025-08-29",
+      "title": "Software Engineering Intern (2027 Start) - Aarhus",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002"
+    },
+    "databricks:8847738002": {
+      "active": true,
+      "category": "Software",
+      "company": "Databricks",
+      "external_id": "8847738002",
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "locations": [
+        "London, United Kingdom"
+      ],
+      "posted": "2026-10-02",
+      "title": "Software Engineering Intern (2027 Start) - London",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002"
+    },
     "google:100028133205254854": {
       "active": true,
       "category": "Backend/Infra",
@@ -751,8 +863,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/132149998191026886"
     },
     "google:134795423167455942": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-02",
       "company": "Google",
       "external_id": "134795423167455942",
       "first_seen": "2026-08-17",
@@ -841,7 +954,7 @@
     },
     "google:80037545080955590": {
       "active": true,
-      "category": "Backend/Infra",
+      "category": "Software",
       "company": "Google",
       "external_id": "80037545080955590",
       "first_seen": "2026-08-17",
@@ -850,7 +963,7 @@
         "London, UK"
       ],
       "posted": "2026-08-17",
-      "title": "Software Engineering or SRE, PhD Intern, 2027",
+      "title": "Software Engineering PhD Intern, 2027",
       "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590"
     },
     "google:83199557986329286": {
@@ -1343,8 +1456,9 @@
       "url": "https://careers.snowflake.com/us/en/job/e70a0f78-05d9-4adc-873e-0ac43bf549d2"
     },
     "snowflake:efbbdddd-18a1-4d9d-9455-3e82166b42f6": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-02",
       "company": "Snowflake",
       "external_id": "efbbdddd-18a1-4d9d-9455-3e82166b42f6",
       "first_seen": "2026-09-08",
@@ -1399,5 +1513,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-02T12:38:47Z"
+  "updated_at": "2026-10-02T22:19:16Z"
 }
