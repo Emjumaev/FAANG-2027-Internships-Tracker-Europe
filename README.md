@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-04 12:25:24 UTC** · 📌 **67** open internships
+> 🕐 Last updated: **2026-10-04 21:28:38 UTC** · 📌 **67** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
