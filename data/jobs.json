@@ -116,6 +116,20 @@
       "title": "2027 Software Dev Engineer Intern - Bucharest, Romania",
       "url": "https://www.amazon.jobs/en/jobs/10554669/2027-software-dev-engineer-intern-bucharest-romania"
     },
+    "amazon:10554701": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554701",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - Germany",
+      "url": "https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany"
+    },
     "amazon:10554706": {
       "active": true,
       "category": "Software",
@@ -129,6 +143,20 @@
       "posted": "2026-09-21",
       "title": "2027 Software Dev Engineer Intern - Luxembourg",
       "url": "https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg"
+    },
+    "amazon:10554717": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10554717",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-09-21",
+      "title": "2027 Software Dev Engineer Intern - Germany",
+      "url": "https://www.amazon.jobs/en/jobs/10554717/2027-software-dev-engineer-intern-germany"
     },
     "amazon:10555855": {
       "active": true,
@@ -631,6 +659,34 @@
       "title": "AMS Lab Validation Intern",
       "url": "https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern"
     },
+    "apple:200686958": {
+      "active": true,
+      "category": "Data",
+      "company": "Apple",
+      "external_id": "200686958",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-10-06",
+      "title": "Internship - Software Engineering - Wireless Data Science",
+      "url": "https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science"
+    },
+    "apple:200687209": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "external_id": "200687209",
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06",
+      "locations": [
+        "Munich"
+      ],
+      "posted": "2026-10-06",
+      "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
+      "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -1119,7 +1175,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -1148,7 +1204,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
     },
@@ -1260,8 +1316,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
     "microsoft:1970393556991724": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-06",
       "company": "Microsoft",
       "external_id": "1970393556991724",
       "first_seen": "2026-09-10",
@@ -1305,8 +1362,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557007677"
     },
     "microsoft:1970393557021513": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-06",
       "company": "Microsoft",
       "external_id": "1970393557021513",
       "first_seen": "2026-10-01",
@@ -1373,7 +1431,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
     },
@@ -1579,5 +1637,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-06T06:24:55Z"
+  "updated_at": "2026-10-06T18:27:14Z"
 }
