@@ -547,17 +547,17 @@
       "url": "https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture"
     },
     "apple:200682229": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-09-23",
       "company": "Apple",
       "external_id": "200682229",
       "first_seen": "2026-09-07",
-      "last_seen": "2026-09-23",
+      "last_seen": "2026-10-07",
       "locations": [
         "Munich"
       ],
-      "posted": "2026-09-07",
+      "posted": "2026-10-07",
       "title": "PHY Cellular Firmware Engineer Internship",
       "url": "https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship"
     },
@@ -1190,7 +1190,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -1219,7 +1219,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
     },
@@ -1446,7 +1446,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
     },
@@ -1652,5 +1652,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-07T06:03:01Z"
+  "updated_at": "2026-10-07T13:26:11Z"
 }
