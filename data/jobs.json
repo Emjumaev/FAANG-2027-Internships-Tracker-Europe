@@ -328,6 +328,20 @@
       "title": "(Physical) Security Specialist Intern -  2027 Internship",
       "url": "https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship"
     },
+    "amazon:10568017": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "external_id": "10568017",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Amsterdam, North Holland, NLD"
+      ],
+      "posted": "2026-10-05",
+      "title": "2027 Software Dev Engineer Intern - Netherlands",
+      "url": "https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands"
+    },
     "amazon:10571025": {
       "active": true,
       "category": "Backend/Infra",
@@ -1223,6 +1237,34 @@
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
     },
+    "intel:JR0287884": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0287884",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-07",
+      "title": "GPU Software Performance Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884"
+    },
+    "intel:JR0287886": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287886",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-07",
+      "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886"
+    },
     "meta:1029177790044680": {
       "active": false,
       "category": "AI/ML",
@@ -1351,13 +1393,27 @@
       "company": "Microsoft",
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
       "posted": "2026-09-14",
       "title": "Cloud Solution Architecture Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
+    },
+    "microsoft:1970393557006399": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557006399",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Serbia, Belgrade, Belgrade"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557006399"
     },
     "microsoft:1970393557007677": {
       "active": false,
@@ -1377,19 +1433,61 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557007677"
     },
     "microsoft:1970393557021513": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-06",
       "company": "Microsoft",
       "external_id": "1970393557021513",
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-07",
       "locations": [
         "Czech Republic, Prague, Prague"
       ],
-      "posted": "2026-10-01",
+      "posted": "2026-10-07",
       "title": "Software Engineering Internship Opportunities - CoreAI",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557021513"
+    },
+    "microsoft:1970393557021515": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557021515",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Czech Republic, Multiple Locations, Multiple Locations"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineering Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557021515"
+    },
+    "microsoft:1970393557025004": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557025004",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineering Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557025004"
+    },
+    "microsoft:1970393557025005": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "external_id": "1970393557025005",
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07",
+      "locations": [
+        "Ireland, Dublin, Dublin"
+      ],
+      "posted": "2026-10-07",
+      "title": "Software Engineer Internship Opportunities",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557025005"
     },
     "nvidia:JR2012814": {
       "active": false,
@@ -1652,5 +1750,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-07T13:26:11Z"
+  "updated_at": "2026-10-07T23:10:45Z"
 }
