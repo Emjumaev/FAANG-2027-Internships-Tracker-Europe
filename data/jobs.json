@@ -1321,6 +1321,20 @@
       "title": "AI Frameworks Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
     },
+    "intel:JR0287923": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "external_id": "JR0287923",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-08",
+      "title": "Software Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923"
+    },
     "meta:1029177790044680": {
       "active": false,
       "category": "AI/ML",
@@ -1807,5 +1821,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-08T13:33:03Z"
+  "updated_at": "2026-10-08T23:26:12Z"
 }

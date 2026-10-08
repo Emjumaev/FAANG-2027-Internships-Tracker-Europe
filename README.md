@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-08 13:33:03 UTC** · 📌 **86** open internships
+> 🕐 Last updated: **2026-10-08 23:26:12 UTC** · 📌 **87** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -26,7 +26,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 8 |
+| [Intel](#intel) | 9 |
 | Jane Street | — |
 | [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 6 |
@@ -142,6 +142,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) | Backend/Infra | Ireland, Leixlip | 2026-10-08 | 2026-09-23 |
+| [Software Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923) 🆕 | Software | Germany, Munich | 2026-10-08 | 2026-10-08 |
 | [AI Software Engineering - Workloads Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890) 🆕 | QA | Poland, Gdansk | 2026-10-08 | 2026-10-08 |
 | [AI Frameworks Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895) 🆕 | AI/ML | Poland, Gdansk | 2026-10-08 | 2026-10-08 |
 | [AI Frameworks Engineer - Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885) 🆕 | AI/ML | Poland, Gdansk | 2026-10-08 | 2026-10-08 |
