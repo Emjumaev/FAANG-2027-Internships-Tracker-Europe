@@ -356,6 +356,20 @@
       "title": "Network Development Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern"
     },
+    "amazon:10573018": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "external_id": "10573018",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "Milan, Lombardy, ITA"
+      ],
+      "posted": "2026-10-08",
+      "title": "(Physical) Security Specialist Intern -  2027 Internship",
+      "url": "https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -1204,22 +1218,22 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
     "intel:JR0287250": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-09-30",
       "company": "Intel",
       "external_id": "JR0287250",
       "first_seen": "2026-09-23",
-      "last_seen": "2026-09-30",
+      "last_seen": "2026-10-08",
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-24",
+      "posted": "2026-10-08",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250"
     },
@@ -1233,7 +1247,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-06",
+      "posted": "2026-10-05",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
     },
@@ -1247,9 +1261,23 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "GPU Software Performance Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884"
+    },
+    "intel:JR0287885": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287885",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-08",
+      "title": "AI Frameworks Engineer - Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885"
     },
     "intel:JR0287886": {
       "active": true,
@@ -1261,9 +1289,37 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886"
+    },
+    "intel:JR0287890": {
+      "active": true,
+      "category": "QA",
+      "company": "Intel",
+      "external_id": "JR0287890",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-08",
+      "title": "AI Software Engineering - Workloads Validation Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890"
+    },
+    "intel:JR0287895": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Intel",
+      "external_id": "JR0287895",
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-08",
+      "title": "AI Frameworks Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
     },
     "meta:1029177790044680": {
       "active": false,
@@ -1373,17 +1429,17 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556627173"
     },
     "microsoft:1970393556991724": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-06",
       "company": "Microsoft",
       "external_id": "1970393556991724",
       "first_seen": "2026-09-10",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-08",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
-      "posted": "2026-09-10",
+      "posted": "2026-10-08",
       "title": "Cambridge Internship Program - Robotics Systems and Control",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556991724"
     },
@@ -1462,8 +1518,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557021515"
     },
     "microsoft:1970393557025004": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-08",
       "company": "Microsoft",
       "external_id": "1970393557025004",
       "first_seen": "2026-10-07",
@@ -1544,7 +1601,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
     },
@@ -1750,5 +1807,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-08T06:08:09Z"
+  "updated_at": "2026-10-08T13:33:03Z"
 }
