@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-09 22:43:38 UTC** · 📌 **88** open internships
+> 🕐 Last updated: **2026-10-10 05:56:08 UTC** · 📌 **89** open internships
 > · 🆕 = added in the last 7 days
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
@@ -29,7 +29,7 @@ API every 6 hours by GitHub Actions.
 | [Intel](#intel) | 9 |
 | Jane Street | — |
 | [Meta](#meta) | 1 |
-| [Microsoft](#microsoft) | 7 |
+| [Microsoft](#microsoft) | 8 |
 | [NVIDIA](#nvidia) | 4 |
 | Netflix | — |
 | OpenAI | — |
@@ -55,13 +55,13 @@ API every 6 hours by GitHub Actions.
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) 🆕 | Security | Milan, Lombardy, ITA | 2026-10-08 | 2026-10-08 |
 | [Network Development Engineer Intern](https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern) 🆕 | Backend/Infra | Dublin, IRL | 2026-10-06 | 2026-10-07 |
 | [2027 Software Dev Engineer Intern - Netherlands](https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands) 🆕 | Software | Amsterdam, North Holland, NLD | 2026-10-05 | 2026-10-07 |
-| [Cloud Support Associate Internship - April 2027 start, Support Engineering](https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering) 🆕 | Backend/Infra | Dublin, IRL | 2026-10-02 | 2026-10-02 |
-| [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) 🆕 | Data | London, England, GBR | 2026-10-02 | 2026-10-02 |
-| [Business Intelligence Engineer Intern Germany](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) 🆕 | Data | Munich, Bavaria, DEU | 2026-10-02 | 2026-10-02 |
-| [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | London, England, GBR | 2026-10-02 | 2026-10-02 |
-| [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | Madrid, Community of Madrid, ESP | 2026-10-02 | 2026-10-02 |
-| [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship) 🆕 | Security | Zaragoza, Aragon, ESP | 2026-10-02 | 2026-10-02 |
-| [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) 🆕 | Security | Paris, Ile-de-France, FRA | 2026-10-02 | 2026-10-02 |
+| [Cloud Support Associate Internship - April 2027 start, Support Engineering](https://www.amazon.jobs/en/jobs/10567711/cloud-support-associate-internship-april-2027-start-support-engineering) | Backend/Infra | Dublin, IRL | 2026-10-02 | 2026-10-02 |
+| [Business Intelligence Intern London](https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london) | Data | London, England, GBR | 2026-10-02 | 2026-10-02 |
+| [Business Intelligence Engineer Intern Germany](https://www.amazon.jobs/en/jobs/10567688/business-intelligence-engineer-intern-germany) | Data | Munich, Bavaria, DEU | 2026-10-02 | 2026-10-02 |
+| [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567694/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | London, England, GBR | 2026-10-02 | 2026-10-02 |
+| [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | Madrid, Community of Madrid, ESP | 2026-10-02 | 2026-10-02 |
+| [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship) | Security | Zaragoza, Aragon, ESP | 2026-10-02 | 2026-10-02 |
+| [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) | Security | Paris, Ile-de-France, FRA | 2026-10-02 | 2026-10-02 |
 | [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10557454/business-intelligence-intern-luxembourg) | Data | Luxembourg, LUX | 2026-09-23 | 2026-09-23 |
 | [2027 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) | Software | Madrid, Community of Madrid, ESP | 2026-09-22 | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Poland](https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland) | Software | Gdansk, Pomeranian Voivodeship, POL | 2026-09-22 | 2026-09-22 |
@@ -103,18 +103,18 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) 🆕 | Software | London, United Kingdom | 2026-10-02 | 2026-10-02 |
-| [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) 🆕 | Software | Aarhus, Denmark | 2025-08-29 | 2026-10-02 |
-| [Software Engineering Intern (2027 Start) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002) 🆕 | Software | Belgrade, Serbia | 2024-09-27 | 2026-10-02 |
-| [Software Engineering Intern (2027 Start) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002) 🆕 | Software | Berlin, Germany | 2023-09-01 | 2026-10-02 |
-| [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) 🆕 | Software | Amsterdam, Netherlands | 2023-09-01 | 2026-10-02 |
+| [Software Engineering Intern (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847738002) | Software | London, United Kingdom | 2026-10-02 | 2026-10-02 |
+| [Software Engineering Intern (2027 Start) - Aarhus](https://databricks.com/company/careers/open-positions/job?gh_jid=8133710002) | Software | Aarhus, Denmark | 2025-08-29 | 2026-10-02 |
+| [Software Engineering Intern (2027 Start) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002) | Software | Belgrade, Serbia | 2024-09-27 | 2026-10-02 |
+| [Software Engineering Intern (2027 Start) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002) | Software | Berlin, Germany | 2023-09-01 | 2026-10-02 |
+| [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Software | Amsterdam, Netherlands | 2023-09-01 | 2026-10-02 |
 
 ## Google
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
 | [Student Researcher, 2027](https://www.google.com/about/careers/applications/jobs/results/86733690079453894) 🆕 | AI/ML | Accra, Ghana; Amsterdam, Netherlands; Berlin, Germany *(+6 more)* | 2026-10-05 | 2026-10-05 |
-| [Data Scientist Product MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/84561862556820166) 🆕 | Data | Zürich, Switzerland | 2026-10-02 | 2026-10-02 |
+| [Data Scientist Product MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/84561862556820166) | Data | Zürich, Switzerland | 2026-10-02 | 2026-10-02 |
 | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/100028133205254854) | Backend/Infra | London, UK | 2026-09-03 | 2026-09-03 |
 | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/121543376737575622) | Backend/Infra | Kraków, Poland; Warsaw, Poland | 2026-09-03 | 2026-09-03 |
 | [Software Engineering, Site Reliability Engineering BS/MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/142747733357142726) | Backend/Infra | Dublin, Ireland; Munich, Germany; Paris, France *(+2 more)* | 2026-09-03 | 2026-09-03 |
@@ -138,15 +138,15 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) | Backend/Infra | Ireland, Leixlip | 2026-10-08 | 2026-09-23 |
-| [Software Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923) 🆕 | Software | Germany, Munich | 2026-10-08 | 2026-10-08 |
-| [AI Software Engineering - Workloads Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890) 🆕 | QA | Poland, Gdansk | 2026-10-08 | 2026-10-08 |
-| [AI Frameworks Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895) 🆕 | AI/ML | Poland, Gdansk | 2026-10-08 | 2026-10-08 |
-| [AI Frameworks Engineer - Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885) 🆕 | AI/ML | Poland, Gdansk | 2026-10-08 | 2026-10-08 |
-| [Intern C++ Developer - Graphics Compute Driver (AI, HPC)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886) 🆕 | AI/ML | Poland, Gdansk | 2026-10-07 | 2026-10-07 |
-| [GPU Software Performance Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884) 🆕 | Software | Poland, Gdansk | 2026-10-07 | 2026-10-07 |
-| [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675) 🆕 | Backend/Infra | Germany, Munich | 2026-10-05 | 2026-10-05 |
-| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | Ireland, Leixlip | 2026-09-24 | 2026-09-08 |
+| [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) | Backend/Infra | Ireland, Leixlip | 2026-10-09 | 2026-09-23 |
+| [Software Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923) 🆕 | Software | Germany, Munich | 2026-10-09 | 2026-10-08 |
+| [AI Software Engineering - Workloads Validation Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890) 🆕 | QA | Poland, Gdansk | 2026-10-09 | 2026-10-08 |
+| [AI Frameworks Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895) 🆕 | AI/ML | Poland, Gdansk | 2026-10-09 | 2026-10-08 |
+| [AI Frameworks Engineer - Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885) 🆕 | AI/ML | Poland, Gdansk | 2026-10-09 | 2026-10-08 |
+| [Intern C++ Developer - Graphics Compute Driver (AI, HPC)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886) 🆕 | AI/ML | Poland, Gdansk | 2026-10-08 | 2026-10-07 |
+| [GPU Software Performance Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884) 🆕 | Software | Poland, Gdansk | 2026-10-08 | 2026-10-07 |
+| [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675) 🆕 | Backend/Infra | Germany, Munich | 2026-10-06 | 2026-10-05 |
+| [Software Solutions Eng PhD Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944) | Software | Ireland, Leixlip | 2026-09-25 | 2026-09-08 |
 
 ## Meta
 
@@ -158,6 +158,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
+| [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393557026573) 🆕 | AI/ML | Switzerland, Zürich, Zürich | 2026-10-09 | 2026-10-10 |
 | [Software Engineering Intern](https://apply.careers.microsoft.com/careers/job/1970393557027064) 🆕 | Software | United Kingdom, London, London | 2026-10-08 | 2026-10-09 |
 | [Cambridge Internship Program - Robotics Systems and Control](https://apply.careers.microsoft.com/careers/job/1970393556991724) | AI/ML | United Kingdom, Cambridgeshire, Cambridge | 2026-10-08 | 2026-09-10 |
 | [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) | Software | Czech Republic, Prague, Prague | 2026-10-07 | 2026-10-01 |
@@ -170,10 +171,10 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Location | Posted | First seen |
 |---|---|---|---|---|
-| [Robotics Simulation and Evaluation PhD Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-09 | 2026-10-09 |
-| [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-09 | 2026-10-09 |
-| [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251) 🆕 | Backend/Infra | UK, Cambridge | 2026-10-09 | 2026-10-09 |
-| [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) | AI/ML | Switzerland, Zurich | 2026-09-28 | 2026-09-28 |
+| [Robotics Simulation and Evaluation PhD Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-10 | 2026-10-09 |
+| [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294) 🆕 | AI/ML | Switzerland, Zurich | 2026-10-10 | 2026-10-09 |
+| [CPU Compiler Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251) 🆕 | Backend/Infra | UK, Cambridge | 2026-10-10 | 2026-10-09 |
+| [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) | AI/ML | Switzerland, Zurich | 2026-09-29 | 2026-09-28 |
 
 ## Pinterest
 
