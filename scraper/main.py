@@ -16,6 +16,7 @@ import traceback
 from . import store
 from .categories import categorize
 from .companies import COMPANIES
+from .degrees import detect_degrees
 from .regions import is_european_job
 from .render_readme import render
 
@@ -34,6 +35,7 @@ def run(only=None):
             interns = [j for j in fetched if j.looks_like_internship() and j.url]
             for j in interns:
                 j.category = categorize(j.title)
+                j.degrees = detect_degrees(j.title)
             in_scope = [j for j in interns if j.category]
             in_europe = [j for j in in_scope if is_european_job(j.locations)]
             print("[ok]   {:<24} {:>4} postings, {:>3} internships, "

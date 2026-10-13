@@ -16,7 +16,8 @@ API every 6 hours by GitHub Actions.
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
 > 🕐 Last updated: **{updated}** · 📌 **{n_open}** open internships
-> · 🆕 = added in the last {new_days} days
+> · 🆕 = added in the last {new_days} days · 🎓 Degree = BS / MS / PhD when the
+> title names one (— = not specified, usually open to all levels)
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
 
@@ -31,7 +32,8 @@ A [Python scraper](scraper/) queries each company's official careers API
 (Greenhouse, Ashby, Workday, Eightfold or their in-house endpoints), filters
 titles matching *intern / internship / co-op*, keeps only software-engineering
 roles ([scraper/categories.py](scraper/categories.py)) located in Europe
-([scraper/regions.py](scraper/regions.py)), and diffs against
+([scraper/regions.py](scraper/regions.py)), tags the degree level named in
+the title ([scraper/degrees.py](scraper/degrees.py)), and diffs against
 [`data/jobs.json`](data/jobs.json). A GitHub Actions
 [workflow](.github/workflows/update.yml) runs it on a cron schedule and commits
 only when something changed. Positions that disappear from a careers page are
@@ -97,13 +99,14 @@ def render(state):
                                      j["title"]),
                       reverse=True)
         out.append("## {}\n\n".format(c))
-        out.append("| Role | Category | Location | Posted | First seen |\n"
-                   "|---|---|---|---|---|\n")
+        out.append("| Role | Category | Degree | Location | Posted | First seen |\n"
+                   "|---|---|---|---|---|---|\n")
         for j in rows:
             badge = " 🆕" if j.get("first_seen", "") >= cutoff else ""
             out.append("| [{}]({}){} | {} | {} | {} | {} |\n".format(
                 _md_escape(j["title"]), j["url"], badge,
                 j.get("category") or "—",
+                "/".join(j.get("degrees") or []) or "—",
                 _fmt_locations(j.get("locations", [])),
                 j.get("posted") or "—",
                 j.get("first_seen", "—"),
