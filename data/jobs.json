@@ -434,6 +434,21 @@
       "title": "(Physical) Security Specialist Intern - 2027 Internship, DUB West",
       "url": "https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west"
     },
+    "amazon:10577611": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10577611",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-13",
+      "title": "(Physical) Security Specialist Intern - 2027 Internship, DC Security",
+      "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -1476,6 +1491,36 @@
       "title": "AI Software Engineering - Workloads Validation Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890"
     },
+    "intel:JR0287893": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0287893",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-13",
+      "title": "GPU Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893"
+    },
+    "intel:JR0287894": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0287894",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-13",
+      "title": "GPU Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894"
+    },
     "intel:JR0287895": {
       "active": true,
       "category": "AI/ML",
@@ -1977,8 +2022,9 @@
       "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8244922"
     },
     "snowflake:3045856c-74a4-469e-ba81-a176cc0bef8f": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-10-13",
       "company": "Snowflake",
       "degrees": [],
       "external_id": "3045856c-74a4-469e-ba81-a176cc0bef8f",
@@ -2132,5 +2178,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-13T14:16:11Z"
+  "updated_at": "2026-10-13T22:49:35Z"
 }

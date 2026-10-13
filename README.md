@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-13 14:16:11 UTC** · 📌 **88** open internships
+> 🕐 Last updated: **2026-10-13 22:49:35 UTC** · 📌 **90** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -17,7 +17,7 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 23 |
+| [Amazon](#amazon) | 24 |
 | Anthropic | — |
 | [Apple](#apple) | 11 |
 | Bloomberg | — |
@@ -27,7 +27,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 9 |
+| [Intel](#intel) | 11 |
 | Jane Street | — |
 | [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 6 |
@@ -39,7 +39,7 @@ API every 6 hours by GitHub Actions.
 | [Pinterest](#pinterest) | 4 |
 | Salesforce | — |
 | Snap | — |
-| [Snowflake](#snowflake) | 4 |
+| [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 3 |
 | Uber | — |
@@ -53,6 +53,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) 🆕 | Security | — | Dublin, IRL | 2026-10-13 |
+| [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) 🆕 | Security | — | London, England, GBR | 2026-10-13 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10574920/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | PhD | Luxembourg, LUX | 2026-10-09 |
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship) 🆕 | Security | — | Milan, Lombardy, ITA | 2026-10-08 |
 | [Network Development Engineer Intern](https://www.amazon.jobs/en/jobs/10571025/network-development-engineer-intern) 🆕 | Backend/Infra | — | Dublin, IRL | 2026-10-06 |
@@ -140,6 +141,8 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894) 🆕 | Software | — | Poland, Gdansk | 2026-10-13 |
+| [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893) 🆕 | Software | — | Poland, Gdansk | 2026-10-13 |
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675) | Backend/Infra | BS | Germany, Munich | 2026-10-12 |
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250) | Backend/Infra | BS | Ireland, Leixlip | 2026-10-08 |
 | [Software Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923) 🆕 | Software | BS | Germany, Munich | 2026-10-08 |
@@ -190,7 +193,6 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|---|
 | [Software Engineer Intern - Zurich (2026)](https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58) | Software | — | Zurich, Switzerland | 2026-10-12 |
 | [Software Engineer Intern - Berlin (2027)](https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e) | Software | — | Berlin, Germany | 2026-09-29 |
-| [Software Engineer Intern - Warsaw Security](https://careers.snowflake.com/us/en/job/3045856c-74a4-469e-ba81-a176cc0bef8f) | Security | — | Warsaw, Poland | 2026-08-05 |
 | [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | — | Berlin, Germany | 2026-06-02 |
 
 ## Stripe
