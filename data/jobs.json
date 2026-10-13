@@ -419,6 +419,21 @@
       "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10574920/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
     },
+    "amazon:10576777": {
+      "active": true,
+      "category": "Security",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10576777",
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13",
+      "locations": [
+        "Dublin, IRL"
+      ],
+      "posted": "2026-10-13",
+      "title": "(Physical) Security Specialist Intern - 2027 Internship, DUB West",
+      "url": "https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -687,18 +702,18 @@
       "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research"
     },
     "apple:200685035": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-10-07",
       "company": "Apple",
       "degrees": [],
       "external_id": "200685035",
       "first_seen": "2026-09-22",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-13",
       "locations": [
         "Zurich"
       ],
-      "posted": "2026-09-22",
+      "posted": "2026-10-13",
       "title": "Internship - Machine Learning (Foundation Models)",
       "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models"
     },
@@ -1362,7 +1377,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "title": "Software Solutions Eng PhD Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Software-Solutions-Eng-PhD-Intern_JR0286944"
     },
@@ -1380,7 +1395,7 @@
       "locations": [
         "Ireland, Leixlip"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Ireland-Leixlip/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools-_JR0287250"
     },
@@ -1397,7 +1412,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-13",
+      "posted": "2026-10-12",
       "title": "Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
     },
@@ -1412,7 +1427,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "GPU Software Performance Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Performance-Intern_JR0287884"
     },
@@ -1427,7 +1442,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "title": "AI Frameworks Engineer - Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Engineer---Intern_JR0287885"
     },
@@ -1442,7 +1457,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-08",
+      "posted": "2026-10-07",
       "title": "Intern C++ Developer - Graphics Compute Driver (AI, HPC)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-C---Developer---Graphics-Compute-Driver--AI--HPC-_JR0287886"
     },
@@ -1457,7 +1472,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "title": "AI Software Engineering - Workloads Validation Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Engineering---Workloads-Validation-Intern_JR0287890"
     },
@@ -1472,7 +1487,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "title": "AI Frameworks Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
     },
@@ -1489,7 +1504,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-10-08",
       "title": "Software Engineering Undergraduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923"
     },
@@ -1847,13 +1862,14 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-09-29",
+      "posted": "2026-09-28",
       "title": "PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1"
     },
     "nvidia:JR2027251": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
+      "closed": "2026-10-13",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2027251",
@@ -1879,7 +1895,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "title": "PhD Research Intern, Robotics - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294"
     },
@@ -1896,7 +1912,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-10-10",
+      "posted": "2026-10-09",
       "title": "Robotics Simulation and Evaluation PhD Intern - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531"
     },
@@ -2116,5 +2132,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-13T00:44:36Z"
+  "updated_at": "2026-10-13T14:16:11Z"
 }
