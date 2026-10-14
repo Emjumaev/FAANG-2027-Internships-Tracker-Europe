@@ -1536,6 +1536,21 @@
       "title": "AI Frameworks Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Frameworks-Intern_JR0287895"
     },
+    "intel:JR0287897": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0287897",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-14",
+      "title": "Compiler Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"
+    },
     "intel:JR0287923": {
       "active": true,
       "category": "Software",
@@ -1552,6 +1567,41 @@
       "posted": "2026-10-08",
       "title": "Software Engineering Undergraduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923"
+    },
+    "intel:JR0287942": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [
+        "BS"
+      ],
+      "external_id": "JR0287942",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-14",
+      "title": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942"
+    },
+    "intel:JR0287943": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [
+        "MS",
+        "PhD"
+      ],
+      "external_id": "JR0287943",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-14",
+      "title": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"
     },
     "meta:1029177790044680": {
       "active": false,
@@ -2178,5 +2228,5 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
     }
   },
-  "updated_at": "2026-10-14T11:56:16Z"
+  "updated_at": "2026-10-14T17:15:44Z"
 }

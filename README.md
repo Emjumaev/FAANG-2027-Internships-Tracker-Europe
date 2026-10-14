@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-14 11:56:16 UTC** · 📌 **90** open internships
+> 🕐 Last updated: **2026-10-14 17:15:44 UTC** · 📌 **93** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -27,7 +27,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 11 |
+| [Intel](#intel) | 14 |
 | Jane Street | — |
 | [Meta](#meta) | 1 |
 | [Microsoft](#microsoft) | 6 |
@@ -141,6 +141,9 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [MLIR Compiler Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942) 🆕 | Backend/Infra | BS | Germany, Munich | 2026-10-14 |
+| [MLIR Compiler Engineering Graduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943) 🆕 | Backend/Infra | MS/PhD | Germany, Munich | 2026-10-14 |
+| [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897) 🆕 | Backend/Infra | — | Poland, Gdansk | 2026-10-14 |
 | [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893) 🆕 | Software | — | Poland, Gdansk | 2026-10-13 |
 | [GPU Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894) 🆕 | Software | — | Poland, Gdansk | 2026-10-13 |
 | [Undergraduate Intern Technical (OpenVINO, Neural Network Compression Tools) (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675) | Backend/Infra | BS | Germany, Munich | 2026-10-12 |
