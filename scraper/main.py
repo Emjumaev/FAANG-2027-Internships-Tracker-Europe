@@ -19,7 +19,6 @@ from .companies import COMPANIES
 from .degrees import detect_degrees
 from .regions import is_european_job
 from .render_readme import render
-from .visa import visa_for
 
 HEALTH_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "health.json")
 
@@ -57,9 +56,6 @@ def run(only=None):
 
     state = store.load()
     added, closed, reopened = store.merge(state, all_jobs, succeeded)
-    # Company-level reference data for the README and the web page.
-    state["companies"] = {cfg["name"]: {"visa": visa_for(cfg["name"])}
-                          for cfg in COMPANIES}
     store.save(state)
     render(state)
 
