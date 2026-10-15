@@ -464,6 +464,36 @@
       "title": "Business Intelligence Engineer Internship Turkey",
       "url": "https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey"
     },
+    "amazon:10579727": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10579727",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Clichy, Ile-de-France, FRA"
+      ],
+      "posted": "2026-10-15",
+      "title": "Business Intelligence Engineer Internship France",
+      "url": "https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france"
+    },
+    "amazon:10579728": {
+      "active": true,
+      "category": "Data",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10579728",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Milan, Lombardy, ITA"
+      ],
+      "posted": "2026-10-15",
+      "title": "Business Intelligence Intern Italy",
+      "url": "https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -2502,5 +2532,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
     }
   },
-  "updated_at": "2026-10-15T11:32:35Z"
+  "updated_at": "2026-10-15T17:06:16Z"
 }
