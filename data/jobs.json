@@ -1,4 +1,285 @@
 {
+  "companies": {
+    "Adobe": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Edinburgh/London 13-month and Bucharest 6-9 month intern postings don't state right-to-work terms",
+        "source": "https://builtin.com/job/2026-intern-software-engineer/7422310",
+        "status": "unknown"
+      }
+    },
+    "Airbnb": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "No Europe-based SWE internship postings found; program is US-only (SF/remote US)",
+        "source": "https://builtin.com/job/software-engineering-intern/7916098",
+        "status": "unknown"
+      }
+    },
+    "Amazon": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Dublin/London/Berlin 2026 SDE intern postings don't state visa or right-to-work terms; ask recruiter",
+        "source": "https://amazon.jobs/en/jobs/2713207/2025-program-manager-intern",
+        "status": "unknown"
+      }
+    },
+    "Anthropic": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "London Fellows must already hold UK work authorization; Anthropic does not sponsor fellows",
+        "source": "https://jobs.accel.com/companies/anthropic/jobs/74068663-anthropic-fellows-program",
+        "status": "no"
+      }
+    },
+    "Apple": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Munich/Zurich intern postings found but none state visa or work-permit terms",
+        "source": "https://www.extern.com/post/apple-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "Bloomberg": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "London/Dublin eng intern posts silent; London non-eng intern listing says Bloomberg sponsors (secondary)",
+        "source": "https://www.extern.com/post/bloomberg-internship-guide",
+        "status": "limited"
+      }
+    },
+    "Cisco": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "Krakow/Lisbon postings: must already be able to live and work there with no visa sponsorship; Galway needs EU rights",
+        "source": "https://jobright.ai/jobs/info/6a0bf82d963f7a67d95d42af",
+        "status": "no"
+      }
+    },
+    "Cloudflare": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "Lisbon and London intern postings: no relocation or visa sponsorship, must already have right to work",
+        "source": "https://job-boards.greenhouse.io/cloudflare/jobs/7738938",
+        "status": "no"
+      }
+    },
+    "Databricks": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Amsterdam/Berlin/London/Belgrade 2027 intern postings carry no right-to-work or sponsorship wording",
+        "source": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002",
+        "status": "unknown"
+      }
+    },
+    "GitHub": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "No Europe-based GitHub internship postings found",
+        "source": "https://nodesk.co/remote-jobs/github-software-engineering-intern/",
+        "status": "unknown"
+      }
+    },
+    "Google": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "London/Zurich/Dublin/Munich 2026 SWE+SRE interns: no immigration sponsorship; must be EMEA student located in-country",
+        "source": "https://jobs.anitab.org/companies/google-24698/jobs/58499871-software-engineering-site-reliability-engineering-bs-ms-intern-2026",
+        "status": "no"
+      }
+    },
+    "Hudson River Trading": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2705 Sponsors",
+        "note": "London SWE internship listings carry same visa-sponsorship benefit plus paid housing and travel allowance",
+        "source": "https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-c-or-python-summer-2027",
+        "status": "yes"
+      }
+    },
+    "IBM": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "UK internships/placements require right to work in UK (no visa sponsorship); German Ehningen posts require enrolment, no relocation",
+        "source": "https://www.themuse.com/jobs/ibm/software-developer-internship-2026",
+        "status": "no"
+      }
+    },
+    "Intel": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Gdansk/Munich/Leixlip intern postings not verified; Intel's non-US intern postings elsewhere say 'No visa sponsorship'",
+        "source": "https://builtin.com/job/software-engineering-intern-bachelor-s/7557806",
+        "status": "unknown"
+      }
+    },
+    "Jane Street": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2705 Sponsors",
+        "note": "London internship listings include visa sponsorship plus flights and accommodation for the program",
+        "source": "https://jobsconnect.prosple.com/graduate-employers/jane-street/jobs-internships/software-engineer-internship",
+        "status": "yes"
+      }
+    },
+    "Mastercard": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Lisbon 2026 SWE intern post is silent on visas; other EU early-career posts (Warsaw, Copenhagen, Istanbul) say no sponsorship",
+        "source": "https://builtin.com/job/platform-engineering-intern-summer-2026-st-louis-mo/7232224",
+        "status": "limited"
+      }
+    },
+    "Meta": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "London SWE intern posting: 'Must obtain UK work authorization at time of hire'; sponsorship not stated either way",
+        "source": "https://jobs.anitab.org/companies/meta-3-c00df464-9d7f-4a12-a5c0-f043ccf7bf75/jobs/58835198-software-engineer-intern-co-op",
+        "status": "limited"
+      }
+    },
+    "Microsoft": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "UK SWE intern posting: 'You must be legally authorised to work in the UK to be eligible'; Czech posting same",
+        "source": "https://flexa.careers/jobs/microsoft-software-engineer-internship-opportunities-66e806d24731caf085f888f7",
+        "status": "no"
+      }
+    },
+    "NVIDIA": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Germany/Poland remote and Munich/Zurich intern postings carry no visa or work-permit wording",
+        "source": "https://www.extern.com/post/nvidia-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "Netflix": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Warsaw SWE intern posting exists (4th/5th-year students) but states no visa or work-permit terms",
+        "source": "https://www.extern.com/post/netflix-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "OpenAI": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "No Europe-based SWE internship postings found; Ashby board lists US-only intern roles",
+        "source": "https://jobs.stripes.co/companies/openai/jobs/65336977-software-engineer-internship-co-op-applied-emerging-talent-fall-2026",
+        "status": "unknown"
+      }
+    },
+    "Oracle": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "No Europe intern wording found; roles post per country on careers.oracle.com, check right-to-work line",
+        "source": "https://simplify.jobs/p/c8105a36-7da9-4019-bfdb-e9668188553d/Java-Software-Engineer-Intern",
+        "status": "unknown"
+      }
+    },
+    "PayPal": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "London/Luxembourg 2026 intern postings silent; a 2023 London intern posting required existing work authorization",
+        "source": "https://www.extern.com/post/paypal-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "Pinterest": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u26a0\ufe0f Case-by-case",
+        "note": "Dublin 2027 SWE intern posting 'may be eligible for relocation assistance'; no visa wording either way",
+        "source": "https://builtin.com/job/software-engineer-intern-2026/7199234",
+        "status": "limited"
+      }
+    },
+    "Salesforce": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Dublin Summer 2026 SWE intern posting carries no visa or right-to-work wording",
+        "source": "https://www.extern.com/post/salesforce-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "Snap": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "London ML intern posting has no right-to-work wording; pre-2020 Tier 2 sponsorship anecdote only (Blind)",
+        "source": "https://blog.internset.com/what-are-the-eligibility-criteria-for-snap-internships/",
+        "status": "unknown"
+      }
+    },
+    "Snowflake": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "Berlin 2026 SWE intern posting has no right-to-work or sponsorship wording; no Warsaw data found",
+        "source": "https://www.extern.com/post/snowflake-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "Spotify": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "London/Stockholm interns must already hold work authorization in that country; no sponsorship/relocation",
+        "source": "https://jobs.lever.co/spotify/4261f025-4ea4-4d24-9edd-ec0db9696152",
+        "status": "no"
+      }
+    },
+    "Stripe": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "London and Dublin SWE intern postings contain no right-to-work or sponsorship wording",
+        "source": "https://www.extern.com/post/stripe-internship-guide",
+        "status": "unknown"
+      }
+    },
+    "Uber": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u274c No sponsorship",
+        "note": "Amsterdam/EMEA intern postings require local work authorization; no visa sponsorship for internships",
+        "source": "https://www.themuse.com/jobs/uber/2026-software-engineering-internship-amsterdam",
+        "status": "no"
+      }
+    },
+    "Waymo": {
+      "visa": {
+        "checked": "2026-10-15",
+        "label": "\u2754 Unknown",
+        "note": "London MS/PhD ML intern roles exist (Waymo is a UK Skilled Worker sponsor); Warsaw via Formation; wording silent",
+        "source": "https://www.extern.com/post/waymo-internship-guide",
+        "status": "unknown"
+      }
+    }
+  },
   "jobs": {
     "amazon:10401402": {
       "active": false,
@@ -1346,6 +1627,100 @@
       "title": "Data Scientist Intern - 2027",
       "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369"
     },
+    "ibm:133042": {
+      "active": true,
+      "category": "Data",
+      "company": "IBM",
+      "degrees": [
+        "BS"
+      ],
+      "external_id": "133042",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
+    },
+    "ibm:134050": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134050",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Praktika im Bereich z/OS Softwareentwicklung (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134050"
+    },
+    "ibm:134679": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134679",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134679"
+    },
+    "ibm:134827": {
+      "active": true,
+      "category": "Security",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "134827",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Dublin, Ireland"
+      ],
+      "posted": null,
+      "title": "Research Intern 2027 (3 months)  - Security & Privacy",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=134827"
+    },
+    "ibm:135456": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [
+        "MS"
+      ],
+      "external_id": "135456",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Master@IBM Werkstudent - Software Developer (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
+    },
+    "ibm:135502": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "135502",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Ehningen, Germany"
+      ],
+      "posted": null,
+      "title": "Internship - Software Developer (f/m/x)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=135502"
+    },
     "intel:JR0284874": {
       "active": false,
       "category": "Software",
@@ -2226,7 +2601,96 @@
       "posted": "2026-08-31",
       "title": "Software Engineer, Intern",
       "url": "https://stripe.com/jobs/search?gh_jid=8130867"
+    },
+    "waymo:8205680": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "degrees": [
+        "MS",
+        "PhD"
+      ],
+      "external_id": "8205680",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "posted": "2026-09-18",
+      "title": "2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8205680"
+    },
+    "waymo:8208465": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "degrees": [
+        "MS",
+        "PhD"
+      ],
+      "external_id": "8208465",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "posted": "2026-09-17",
+      "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8208465"
+    },
+    "waymo:8214729": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "degrees": [
+        "BS",
+        "MS"
+      ],
+      "external_id": "8214729",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-09-18",
+      "title": "2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8214729"
+    },
+    "waymo:8265868": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Waymo",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "8265868",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "London, England, United Kingdom"
+      ],
+      "posted": "2026-10-13",
+      "title": "2027 Summer Intern, PhD, Machine Learning, Simulation Realism",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8265868"
+    },
+    "waymo:8268204": {
+      "active": true,
+      "category": "Software",
+      "company": "Waymo",
+      "degrees": [
+        "BS",
+        "MS"
+      ],
+      "external_id": "8268204",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-10-12",
+      "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+      "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
     }
   },
-  "updated_at": "2026-10-15T04:42:35Z"
+  "updated_at": "2026-10-15T05:25:20Z"
 }

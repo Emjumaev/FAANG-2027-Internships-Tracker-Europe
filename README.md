@@ -2,53 +2,61 @@
 
 Auto-updated list of **open software-engineering internships in Europe** —
 AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
-28 top tech companies, scraped directly from each company's careers
+31 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-15 04:42:35 UTC** · 📌 **93** open internships
+> 🕐 Last updated: **2026-10-15 05:25:20 UTC** · 📌 **104** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
+> · 🛂 Visa = does the company sponsor work visas for interns (✅ yes ·
+> ⚠️ case-by-case · ❌ no · ❔ unknown) — hand-checked against company FAQs and
+> postings, but the individual posting always has the final word
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
 
-| Company | Open internships |
-|---|---|
-| Adobe | — |
-| Airbnb | — |
-| [Amazon](#amazon) | 24 |
-| Anthropic | — |
-| [Apple](#apple) | 11 |
-| Bloomberg | — |
-| [Cisco](#cisco) | 4 |
-| Cloudflare | — |
-| [Databricks](#databricks) | 5 |
-| GitHub | — |
-| [Google](#google) | 13 |
-| [Hudson River Trading](#hudson-river-trading) | 2 |
-| [Intel](#intel) | 14 |
-| Jane Street | — |
-| [Meta](#meta) | 1 |
-| [Microsoft](#microsoft) | 6 |
-| [NVIDIA](#nvidia) | 3 |
-| Netflix | — |
-| OpenAI | — |
-| Oracle | — |
-| PayPal | — |
-| [Pinterest](#pinterest) | 4 |
-| Salesforce | — |
-| Snap | — |
-| [Snowflake](#snowflake) | 3 |
-| Spotify | — |
-| [Stripe](#stripe) | 3 |
-| Uber | — |
-| Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
-| LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
+| Company | Open internships | 🛂 Visa sponsorship |
+|---|---|---|
+| Adobe | — | ❔ Unknown — Edinburgh/London 13-month and Bucharest 6-9 month intern postings don't state right-to-work terms |
+| Airbnb | — | ❔ Unknown — No Europe-based SWE internship postings found; program is US-only (SF/remote US) |
+| [Amazon](#amazon) | 24 | ❔ Unknown — Dublin/London/Berlin 2026 SDE intern postings don't state visa or right-to-work terms; ask recruiter |
+| Anthropic | — | ❌ No sponsorship — London Fellows must already hold UK work authorization; Anthropic does not sponsor fellows |
+| [Apple](#apple) | 11 | ❔ Unknown — Munich/Zurich intern postings found but none state visa or work-permit terms |
+| Bloomberg | — | ⚠️ Case-by-case — London/Dublin eng intern posts silent; London non-eng intern listing says Bloomberg sponsors (secondary) |
+| [Cisco](#cisco) | 4 | ❌ No sponsorship — Krakow/Lisbon postings: must already be able to live and work there with no visa sponsorship; Galway needs EU rights |
+| Cloudflare | — | ❌ No sponsorship — Lisbon and London intern postings: no relocation or visa sponsorship, must already have right to work |
+| [Databricks](#databricks) | 5 | ❔ Unknown — Amsterdam/Berlin/London/Belgrade 2027 intern postings carry no right-to-work or sponsorship wording |
+| GitHub | — | ❔ Unknown — No Europe-based GitHub internship postings found |
+| [Google](#google) | 13 | ❌ No sponsorship — London/Zurich/Dublin/Munich 2026 SWE+SRE interns: no immigration sponsorship; must be EMEA student located in-country |
+| [Hudson River Trading](#hudson-river-trading) | 2 | ✅ Sponsors — London SWE internship listings carry same visa-sponsorship benefit plus paid housing and travel allowance |
+| [IBM](#ibm) | 6 | ❌ No sponsorship — UK internships/placements require right to work in UK (no visa sponsorship); German Ehningen posts require enrolment, no relocation |
+| [Intel](#intel) | 14 | ❔ Unknown — Gdansk/Munich/Leixlip intern postings not verified; Intel's non-US intern postings elsewhere say 'No visa sponsorship' |
+| Jane Street | — | ✅ Sponsors — London internship listings include visa sponsorship plus flights and accommodation for the program |
+| Mastercard | — | ⚠️ Case-by-case — Lisbon 2026 SWE intern post is silent on visas; other EU early-career posts (Warsaw, Copenhagen, Istanbul) say no sponsorship |
+| [Meta](#meta) | 1 | ⚠️ Case-by-case — London SWE intern posting: 'Must obtain UK work authorization at time of hire'; sponsorship not stated either way |
+| [Microsoft](#microsoft) | 6 | ❌ No sponsorship — UK SWE intern posting: 'You must be legally authorised to work in the UK to be eligible'; Czech posting same |
+| [NVIDIA](#nvidia) | 3 | ❔ Unknown — Germany/Poland remote and Munich/Zurich intern postings carry no visa or work-permit wording |
+| Netflix | — | ❔ Unknown — Warsaw SWE intern posting exists (4th/5th-year students) but states no visa or work-permit terms |
+| OpenAI | — | ❔ Unknown — No Europe-based SWE internship postings found; Ashby board lists US-only intern roles |
+| Oracle | — | ❔ Unknown — No Europe intern wording found; roles post per country on careers.oracle.com, check right-to-work line |
+| PayPal | — | ❔ Unknown — London/Luxembourg 2026 intern postings silent; a 2023 London intern posting required existing work authorization |
+| [Pinterest](#pinterest) | 4 | ⚠️ Case-by-case — Dublin 2027 SWE intern posting 'may be eligible for relocation assistance'; no visa wording either way |
+| Salesforce | — | ❔ Unknown — Dublin Summer 2026 SWE intern posting carries no visa or right-to-work wording |
+| Snap | — | ❔ Unknown — London ML intern posting has no right-to-work wording; pre-2020 Tier 2 sponsorship anecdote only (Blind) |
+| [Snowflake](#snowflake) | 3 | ❔ Unknown — Berlin 2026 SWE intern posting has no right-to-work or sponsorship wording; no Warsaw data found |
+| Spotify | — | ❌ No sponsorship — London/Stockholm interns must already hold work authorization in that country; no sponsorship/relocation |
+| [Stripe](#stripe) | 3 | ❔ Unknown — London and Dublin SWE intern postings contain no right-to-work or sponsorship wording |
+| Uber | — | ❌ No sponsorship — Amsterdam/EMEA intern postings require local work authorization; no visa sponsorship for internships |
+| [Waymo](#waymo) | 5 | ❔ Unknown — London MS/PhD ML intern roles exist (Waymo is a UK Skilled Worker sponsor); Warsaw via Formation; wording silent |
+| Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* | |
+| LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* | |
 
 ---
 
 ## Amazon
+
+> 🛂 **Visa:** ❔ Unknown — Dublin/London/Berlin 2026 SDE intern postings don't state visa or right-to-work terms; ask recruiter ([source](https://amazon.jobs/en/jobs/2713207/2025-program-manager-intern))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -79,6 +87,8 @@ API every 6 hours by GitHub Actions.
 
 ## Apple
 
+> 🛂 **Visa:** ❔ Unknown — Munich/Zurich intern postings found but none state visa or work-permit terms ([source](https://www.extern.com/post/apple-internship-guide))
+
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | — | Zurich | 2026-10-13 |
@@ -95,6 +105,8 @@ API every 6 hours by GitHub Actions.
 
 ## Cisco
 
+> 🛂 **Visa:** ❌ No sponsorship — Krakow/Lisbon postings: must already be able to live and work there with no visa sponsorship; Galway needs EU rights ([source](https://jobright.ai/jobs/info/6a0bf82d963f7a67d95d42af))
+
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Wireless Software Engineer_ Intern](https://careers.cisco.com/global/en/job/2025061) | Software | — | Ecublens, Switzerland | 2026-09-08 |
@@ -103,6 +115,8 @@ API every 6 hours by GitHub Actions.
 | [Software Engineer - Intern](https://careers.cisco.com/global/en/job/2023625) | Software | — | Harpenden, Herefordshire, United Kingdom | 2026-08-21 |
 
 ## Databricks
+
+> 🛂 **Visa:** ❔ Unknown — Amsterdam/Berlin/London/Belgrade 2027 intern postings carry no right-to-work or sponsorship wording ([source](https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2026-6865687002))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -113,6 +127,8 @@ API every 6 hours by GitHub Actions.
 | [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Software | — | Amsterdam, Netherlands | 2023-09-01 |
 
 ## Google
+
+> 🛂 **Visa:** ❌ No sponsorship — London/Zurich/Dublin/Munich 2026 SWE+SRE interns: no immigration sponsorship; must be EMEA student located in-country ([source](https://jobs.anitab.org/companies/google-24698/jobs/58499871-software-engineering-site-reliability-engineering-bs-ms-intern-2026))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -132,12 +148,29 @@ API every 6 hours by GitHub Actions.
 
 ## Hudson River Trading
 
+> 🛂 **Visa:** ✅ Sponsors — London SWE internship listings carry same visa-sponsorship benefit plus paid housing and travel allowance ([source](https://www.themuse.com/jobs/hudsonrivertrading/software-engineering-internship-c-or-python-summer-2027))
+
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Data Scientist Intern - 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8257369) | Data | — | London, United Kingdom; New York, NY, United States | 2026-10-05 |
 | [Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) | Software | — | Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom *(+2 more)* | 2026-07-13 |
 
+## IBM
+
+> 🛂 **Visa:** ❌ No sponsorship — UK internships/placements require right to work in UK (no visa sponsorship); German Ehningen posts require enrolment, no relocation ([source](https://www.themuse.com/jobs/ibm/software-developer-internship-2026))
+
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [Research Intern 2027 (3 months)  - Security & Privacy](https://careers.ibm.com/careers/JobDetail?jobId=134827) 🆕 | Security | — | Dublin, Ireland | — |
+| [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) 🆕 | Backend/Infra | — | Ehningen, Germany | — |
+| [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) 🆕 | Software | — | Ehningen, Germany | — |
+| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) 🆕 | Software | MS | Ehningen, Germany | — |
+| [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) 🆕 | Software | — | Ehningen, Germany | — |
+| [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) 🆕 | Data | BS | Ehningen, Germany | — |
+
 ## Intel
+
+> 🛂 **Visa:** ❔ Unknown — Gdansk/Munich/Leixlip intern postings not verified; Intel's non-US intern postings elsewhere say 'No visa sponsorship' ([source](https://builtin.com/job/software-engineering-intern-bachelor-s/7557806))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -158,11 +191,15 @@ API every 6 hours by GitHub Actions.
 
 ## Meta
 
+> 🛂 **Visa:** ⚠️ Case-by-case — London SWE intern posting: 'Must obtain UK work authorization at time of hire'; sponsorship not stated either way ([source](https://jobs.anitab.org/companies/meta-3-c00df464-9d7f-4a12-a5c0-f043ccf7bf75/jobs/58835198-software-engineer-intern-co-op))
+
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/2558941294546763) | Backend/Infra | — | Dublin, Ireland; London, UK | — |
 
 ## Microsoft
+
+> 🛂 **Visa:** ❌ No sponsorship — UK SWE intern posting: 'You must be legally authorised to work in the UK to be eligible'; Czech posting same ([source](https://flexa.careers/jobs/microsoft-software-engineer-internship-opportunities-66e806d24731caf085f888f7))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -175,6 +212,8 @@ API every 6 hours by GitHub Actions.
 
 ## NVIDIA
 
+> 🛂 **Visa:** ❔ Unknown — Germany/Poland remote and Munich/Zurich intern postings carry no visa or work-permit wording ([source](https://www.extern.com/post/nvidia-internship-guide))
+
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Robotics Simulation and Evaluation PhD Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531) 🆕 | AI/ML | PhD | Switzerland, Zurich | 2026-10-10 |
@@ -182,6 +221,8 @@ API every 6 hours by GitHub Actions.
 | [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) | AI/ML | PhD | Switzerland, Zurich | 2026-09-29 |
 
 ## Pinterest
+
+> 🛂 **Visa:** ⚠️ Case-by-case — Dublin 2027 SWE intern posting 'may be eligible for relocation assistance'; no visa wording either way ([source](https://builtin.com/job/software-engineer-intern-2026/7199234))
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
@@ -192,6 +233,8 @@ API every 6 hours by GitHub Actions.
 
 ## Snowflake
 
+> 🛂 **Visa:** ❔ Unknown — Berlin 2026 SWE intern posting has no right-to-work or sponsorship wording; no Warsaw data found ([source](https://www.extern.com/post/snowflake-internship-guide))
+
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineer Intern - Zurich (2026)](https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58) | Software | — | Zurich, Switzerland | 2026-10-12 |
@@ -200,11 +243,25 @@ API every 6 hours by GitHub Actions.
 
 ## Stripe
 
+> 🛂 **Visa:** ❔ Unknown — London and Dublin SWE intern postings contain no right-to-work or sponsorship wording ([source](https://www.extern.com/post/stripe-internship-guide))
+
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130807) | Software | — | Bucharest | 2026-08-31 |
 | [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) | Software | — | London | 2026-08-31 |
 | [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) | Software | — | Dublin | 2026-08-17 |
+
+## Waymo
+
+> 🛂 **Visa:** ❔ Unknown — London MS/PhD ML intern roles exist (Waymo is a UK Skilled Worker sponsor); Warsaw via Formation; wording silent ([source](https://www.extern.com/post/waymo-internship-guide))
+
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [2027 Summer Intern, PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8265868) 🆕 | AI/ML | PhD | London, England, United Kingdom | 2026-10-13 |
+| [2027 Summer Intern, BS/MS, Software Engineering, Commercialization](https://careers.withwaymo.com/jobs?gh_jid=8268204) 🆕 | Software | BS/MS | Warsaw, Poland | 2026-10-12 |
+| [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) 🆕 | AI/ML | MS/PhD | London, England, United Kingdom | 2026-09-18 |
+| [2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)](https://careers.withwaymo.com/jobs?gh_jid=8214729) 🆕 | Software | BS/MS | Warsaw, Poland | 2026-09-18 |
+| [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) 🆕 | AI/ML | MS/PhD | London, England, United Kingdom | 2026-09-17 |
 
 
 ---
@@ -220,6 +277,8 @@ the title ([scraper/degrees.py](scraper/degrees.py)), and diffs against
 [`data/jobs.json`](data/jobs.json). A GitHub Actions
 [workflow](.github/workflows/update.yml) runs it on a cron schedule and commits
 only when something changed. Positions that disappear from a careers page are
-closed automatically.
+closed automatically. Visa-sponsorship notes are a hand-maintained table
+([scraper/visa.py](scraper/visa.py)) checked against each company's student
+FAQ or intern postings — corrections welcome.
 
 Found a problem or want another company added? Open an issue or PR.

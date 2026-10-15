@@ -1,34 +1,8 @@
 {
-  "failed": {
-    "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
-  },
+  "failed": {},
   "succeeded": [
-    "Adobe",
-    "Airbnb",
-    "Amazon",
-    "Anthropic",
-    "Apple",
-    "Bloomberg",
-    "Cisco",
-    "Cloudflare",
-    "Databricks",
-    "GitHub",
-    "Google",
-    "Hudson River Trading",
-    "Intel",
-    "Jane Street",
-    "Meta",
-    "Microsoft",
-    "NVIDIA",
-    "Netflix",
-    "OpenAI",
-    "Oracle",
-    "PayPal",
-    "Pinterest",
-    "Salesforce",
-    "Snap",
-    "Snowflake",
-    "Spotify",
-    "Stripe"
+    "IBM",
+    "Mastercard",
+    "Waymo"
   ]
 }
