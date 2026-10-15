@@ -2,12 +2,12 @@
 
 Auto-updated list of **open software-engineering internships in Europe** —
 AI/ML, Data, Mobile, Frontend, Backend/Infra, QA and Security roles — at
-32 top tech companies, scraped directly from each company's careers
+35 top tech companies, scraped directly from each company's careers
 API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-15 05:44:12 UTC** · 📌 **103** open internships
+> 🕐 Last updated: **2026-10-15 08:39:37 UTC** · 📌 **108** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -24,6 +24,7 @@ API every 6 hours by GitHub Actions.
 | [Cisco](#cisco) | 4 |
 | Cloudflare | — |
 | [Databricks](#databricks) | 5 |
+| [Figma](#figma) | 1 |
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
@@ -38,6 +39,7 @@ API every 6 hours by GitHub Actions.
 | OpenAI | — |
 | Oracle | — |
 | PayPal | — |
+| [Perplexity AI](#perplexity-ai) | 4 |
 | [Pinterest](#pinterest) | 4 |
 | Salesforce | — |
 | Snap | — |
@@ -47,8 +49,11 @@ API every 6 hours by GitHub Actions.
 | Uber | — |
 | Visa | — |
 | [Waymo](#waymo) | 5 |
+| Wise | — |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
+| Revolut | *revolut.com serves a 'quick security check' browser challenge to every non-browser client, careers pages and sitemaps included; needs a headless browser* |
+| TikTok | *careers.tiktok.com now redirects to lifeattiktok.com, a Next.js app that loads jobs through server actions; the old /api/v1/search/job/posts endpoint answers 405 or an empty body; needs a headless browser* |
 
 ---
 
@@ -115,6 +120,12 @@ API every 6 hours by GitHub Actions.
 | [Software Engineering Intern (2027 Start) - Belgrade](https://databricks.com/company/careers/open-positions/job?gh_jid=7640764002) | Software | — | Belgrade, Serbia | 2024-09-27 |
 | [Software Engineering Intern (2027 Start) - Berlin](https://databricks.com/company/careers/open-positions/job?gh_jid=6866531002) | Software | — | Berlin, Germany | 2023-09-01 |
 | [Software Engineering Intern (2027 Start) - Amsterdam](https://databricks.com/company/careers/open-positions/job?gh_jid=6866534002) | Software | — | Amsterdam, Netherlands | 2023-09-01 |
+
+## Figma
+
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [Software Engineer Intern (London, United Kingdom) (Summer 2027)](https://boards.greenhouse.io/figma/jobs/6152695004?gh_jid=6152695004) 🆕 | Software | — | London, England | 2026-09-14 |
 
 ## Google
 
@@ -194,6 +205,15 @@ API every 6 hours by GitHub Actions.
 | [Robotics Simulation and Evaluation PhD Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531) 🆕 | AI/ML | PhD | Switzerland, Zurich | 2026-10-10 |
 | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294) 🆕 | AI/ML | PhD | Switzerland, Zurich | 2026-10-10 |
 | [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) | AI/ML | PhD | Switzerland, Zurich | 2026-09-29 |
+
+## Perplexity AI
+
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [Internship - Machine Learning Research Engineer](https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c) 🆕 | AI/ML | — | Berlin | 2026-09-02 |
+| [Internship - Search Backend Infra Engineer](https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92) 🆕 | Backend/Infra | — | Belgrade | 2026-07-01 |
+| [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) 🆕 | AI/ML | — | London | 2026-04-08 |
+| [Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/9246cf02-26fd-4ae8-90c5-639c6e85e9e2) 🆕 | AI/ML | — | Belgrade | 2026-01-13 |
 
 ## Pinterest
 
