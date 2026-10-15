@@ -1,8 +1,41 @@
 {
-  "failed": {},
+  "failed": {
+    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
+    "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
+  },
   "succeeded": [
+    "Adobe",
+    "Airbnb",
+    "Amazon",
+    "Anthropic",
+    "Apple",
+    "Bloomberg",
+    "Cisco",
+    "Cloudflare",
+    "Databricks",
     "Figma",
+    "GitHub",
+    "Google",
+    "Hudson River Trading",
+    "IBM",
+    "Intel",
+    "Jane Street",
+    "Mastercard",
+    "Meta",
+    "NVIDIA",
+    "Netflix",
+    "OpenAI",
+    "Oracle",
+    "PayPal",
     "Perplexity AI",
+    "Pinterest",
+    "Salesforce",
+    "Snap",
+    "Snowflake",
+    "Spotify",
+    "Stripe",
+    "Visa",
+    "Waymo",
     "Wise"
   ]
 }
