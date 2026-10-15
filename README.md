@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-15 17:06:16 UTC** · 📌 **112** open internships
+> 🕐 Last updated: **2026-10-15 21:28:46 UTC** · 📌 **114** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -32,8 +32,8 @@ API every 6 hours by GitHub Actions.
 | [Intel](#intel) | 13 |
 | Jane Street | — |
 | Mastercard | — |
-| [Meta](#meta) | 1 |
-| [Microsoft](#microsoft) | 6 |
+| [Meta](#meta) | 2 |
+| [Microsoft](#microsoft) | 7 |
 | [NVIDIA](#nvidia) | 3 |
 | Netflix | — |
 | OpenAI | — |
@@ -189,12 +189,14 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/1050177734644029) 🆕 | AI/ML | PhD | Paris, France | — |
 | [Network Production Engineer Intern](https://www.metacareers.com/jobs/2558941294546763) | Backend/Infra | — | Dublin, Ireland; London, UK | — |
 
 ## Microsoft
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Applied Sciences Intern](https://apply.careers.microsoft.com/careers/job/1970393557040084) 🆕 | AI/ML | — | United Kingdom, London, London | 2026-10-15 |
 | [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557038773) 🆕 | Software | — | Ireland, Dublin, Dublin | 2026-10-12 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393557026573) 🆕 | AI/ML | — | Switzerland, Zürich, Zürich | 2026-10-09 |
 | [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) | Software | — | Czech Republic, Prague, Prague | 2026-10-07 |

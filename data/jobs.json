@@ -1776,6 +1776,23 @@
       "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
       "url": "https://www.metacareers.com/jobs/1029177790044680"
     },
+    "meta:1050177734644029": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1050177734644029",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "Paris, France"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
+      "url": "https://www.metacareers.com/jobs/1050177734644029"
+    },
     "meta:2558941294546763": {
       "active": true,
       "category": "Backend/Infra",
@@ -2050,6 +2067,21 @@
       "posted": "2026-10-12",
       "title": "Software Engineer Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773"
+    },
+    "microsoft:1970393557040084": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557040084",
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15",
+      "locations": [
+        "United Kingdom, London, London"
+      ],
+      "posted": "2026-10-15",
+      "title": "Applied Sciences Intern",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084"
     },
     "nvidia:JR2012814": {
       "active": false,
@@ -2532,5 +2564,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
     }
   },
-  "updated_at": "2026-10-15T17:06:16Z"
+  "updated_at": "2026-10-15T21:28:46Z"
 }
