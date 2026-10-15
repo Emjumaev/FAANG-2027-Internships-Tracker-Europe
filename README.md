@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-15 05:25:20 UTC** · 📌 **104** open internships
+> 🕐 Last updated: **2026-10-15 05:34:05 UTC** · 📌 **103** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 > · 🛂 Visa = does the company sponsor work visas for interns (✅ yes ·
@@ -30,7 +30,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — | ❔ Unknown — No Europe-based GitHub internship postings found |
 | [Google](#google) | 13 | ❌ No sponsorship — London/Zurich/Dublin/Munich 2026 SWE+SRE interns: no immigration sponsorship; must be EMEA student located in-country |
 | [Hudson River Trading](#hudson-river-trading) | 2 | ✅ Sponsors — London SWE internship listings carry same visa-sponsorship benefit plus paid housing and travel allowance |
-| [IBM](#ibm) | 6 | ❌ No sponsorship — UK internships/placements require right to work in UK (no visa sponsorship); German Ehningen posts require enrolment, no relocation |
+| [IBM](#ibm) | 5 | ❌ No sponsorship — UK internships/placements require right to work in UK (no visa sponsorship); German Ehningen posts require enrolment, no relocation |
 | [Intel](#intel) | 14 | ❔ Unknown — Gdansk/Munich/Leixlip intern postings not verified; Intel's non-US intern postings elsewhere say 'No visa sponsorship' |
 | Jane Street | — | ✅ Sponsors — London internship listings include visa sponsorship plus flights and accommodation for the program |
 | Mastercard | — | ⚠️ Case-by-case — Lisbon 2026 SWE intern post is silent on visas; other EU early-career posts (Warsaw, Copenhagen, Istanbul) say no sponsorship |
@@ -164,7 +164,6 @@ API every 6 hours by GitHub Actions.
 | [Research Intern 2027 (3 months)  - Security & Privacy](https://careers.ibm.com/careers/JobDetail?jobId=134827) 🆕 | Security | — | Dublin, Ireland | — |
 | [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) 🆕 | Backend/Infra | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) 🆕 | Software | — | Ehningen, Germany | — |
-| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) 🆕 | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) 🆕 | Software | — | Ehningen, Germany | — |
 | [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) 🆕 | Data | BS | Ehningen, Germany | — |
 

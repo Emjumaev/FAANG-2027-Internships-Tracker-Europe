@@ -1690,8 +1690,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134827"
     },
     "ibm:135456": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-15",
       "company": "IBM",
       "degrees": [
         "MS"
@@ -2692,5 +2693,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
     }
   },
-  "updated_at": "2026-10-15T05:25:20Z"
+  "updated_at": "2026-10-15T05:34:05Z"
 }
