@@ -494,6 +494,21 @@
       "title": "Business Intelligence Intern Italy",
       "url": "https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy"
     },
+    "amazon:10581332": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10581332",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-16",
+      "title": "2027 Software Dev Engineer Intern - United Kingdom",
+      "url": "https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -881,6 +896,21 @@
       "posted": "2026-10-06",
       "title": "Internship - Software Engineering - AI-Augmented Static Code Analysis",
       "url": "https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis"
+    },
+    "apple:200689473": {
+      "active": true,
+      "category": "Software",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200689473",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-10-16",
+      "title": "Software Engineering Intern, Apple Services Engineering",
+      "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering"
     },
     "cisco:2005347": {
       "active": false,
@@ -1487,7 +1517,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -1773,6 +1803,21 @@
       "posted": "2026-10-14",
       "title": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"
+    },
+    "intel:JR0288221": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288221",
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-16",
+      "title": "DevOps Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1"
     },
     "meta:1029177790044680": {
       "active": false,
@@ -2595,5 +2640,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
     }
   },
-  "updated_at": "2026-10-16T11:28:22Z"
+  "updated_at": "2026-10-16T16:46:06Z"
 }

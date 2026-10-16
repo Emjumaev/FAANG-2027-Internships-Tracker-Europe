@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-16 11:28:22 UTC** · 📌 **115** open internships
+> 🕐 Last updated: **2026-10-16 16:46:06 UTC** · 📌 **119** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -17,9 +17,9 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | Adobe | — |
 | Airbnb | — |
-| [Amazon](#amazon) | 28 |
+| [Amazon](#amazon) | 29 |
 | Anthropic | — |
-| [Apple](#apple) | 11 |
+| [Apple](#apple) | 12 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 4 |
 | Cloudflare | — |
@@ -28,8 +28,8 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 6 |
-| [Intel](#intel) | 13 |
+| [IBM](#ibm) | 7 |
+| [Intel](#intel) | 14 |
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 2 |
@@ -61,6 +61,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [2027 Software Dev Engineer Intern - United Kingdom](https://www.amazon.jobs/en/jobs/10581332/2027-software-dev-engineer-intern-united-kingdom) 🆕 | Software | — | London, England, GBR | 2026-10-16 |
 | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) 🆕 | Data | — | Milan, Lombardy, ITA | 2026-10-15 |
 | [Business Intelligence Engineer Internship Turkey](https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey) 🆕 | Data | — | Istanbul, TUR | 2026-10-15 |
 | [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) 🆕 | Data | — | Clichy, Ile-de-France, FRA | 2026-10-15 |
@@ -94,6 +95,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineering Intern, Apple Services Engineering](https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering) 🆕 | Software | — | London | 2026-10-16 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | — | Zurich | 2026-10-13 |
 | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) | Backend/Infra | — | Munich | 2026-10-07 |
 | [Internship - Software Engineering - Wireless Data Science](https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science) | Data | — | Munich | 2026-10-06 |
@@ -165,12 +167,14 @@ API every 6 hours by GitHub Actions.
 | [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) 🆕 | Backend/Infra | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) 🆕 | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) 🆕 | Software | MS | Ehningen, Germany | — |
+| [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) 🆕 | Software | — | Ehningen, Germany | — |
 | [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) 🆕 | Data | BS | Ehningen, Germany | — |
 
 ## Intel
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1) 🆕 | Backend/Infra | — | Poland, Gdansk | 2026-10-16 |
 | [MLIR Compiler Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942) 🆕 | Backend/Infra | BS | Germany, Munich | 2026-10-14 |
 | [MLIR Compiler Engineering Graduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943) 🆕 | Backend/Infra | MS/PhD | Germany, Munich | 2026-10-14 |
 | [Compiler Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897) 🆕 | Backend/Infra | — | Poland, Gdansk | 2026-10-14 |
