@@ -1499,7 +1499,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134827"
     },
     "ibm:135456": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-10-16",
       "company": "IBM",
@@ -2640,5 +2640,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
     }
   },
-  "updated_at": "2026-10-16T16:46:06Z"
+  "updated_at": "2026-10-16T21:12:23Z"
 }
