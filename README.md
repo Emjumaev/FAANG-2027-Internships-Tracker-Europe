@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-17 10:48:01 UTC** · 📌 **116** open internships
+> 🕐 Last updated: **2026-10-17 15:38:27 UTC** · 📌 **116** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -19,7 +19,7 @@ API every 6 hours by GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 29 |
 | Anthropic | — |
-| [Apple](#apple) | 12 |
+| [Apple](#apple) | 13 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 4 |
 | Cloudflare | — |
@@ -28,7 +28,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 5 |
+| [IBM](#ibm) | 4 |
 | [Intel](#intel) | 14 |
 | Jane Street | — |
 | Mastercard | — |
@@ -95,6 +95,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) 🆕 | Security | — | Paris | 2026-10-17 |
 | [Software Engineering Intern, Apple Services Engineering](https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering) 🆕 | Software | — | London | 2026-10-16 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | — | Zurich | 2026-10-13 |
 | [PHY Cellular Firmware Engineer Internship](https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship) | Backend/Infra | — | Munich | 2026-10-07 |
@@ -163,8 +164,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) 🆕 | Data | — | Ehningen, Germany | — |
-| [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) 🆕 | Backend/Infra | — | Ehningen, Germany | — |
-| [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) 🆕 | Software | — | Ehningen, Germany | — |
+| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) 🆕 | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) 🆕 | Software | — | Ehningen, Germany | — |
 | [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) 🆕 | Data | BS | Ehningen, Germany | — |
 
