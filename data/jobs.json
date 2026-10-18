@@ -1485,7 +1485,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134050"
     },
     "ibm:134679": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-18",
       "company": "IBM",
@@ -2659,5 +2659,5 @@
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
     }
   },
-  "updated_at": "2026-10-18T11:08:07Z"
+  "updated_at": "2026-10-18T15:56:56Z"
 }
