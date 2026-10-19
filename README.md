@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-19 13:17:04 UTC** · 📌 **123** open internships
+> 🕐 Last updated: **2026-10-19 22:26:49 UTC** · 📌 **129** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -19,7 +19,7 @@ API every 6 hours by GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 29 |
 | Anthropic | — |
-| [Apple](#apple) | 15 |
+| [Apple](#apple) | 16 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 4 |
 | Cloudflare | — |
@@ -29,11 +29,11 @@ API every 6 hours by GitHub Actions.
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
 | [IBM](#ibm) | 6 |
-| [Intel](#intel) | 14 |
+| [Intel](#intel) | 15 |
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 2 |
-| [Microsoft](#microsoft) | 6 |
+| [Microsoft](#microsoft) | 7 |
 | [NVIDIA](#nvidia) | 4 |
 | Netflix | — |
 | OpenAI | — |
@@ -49,7 +49,7 @@ API every 6 hours by GitHub Actions.
 | Uber | — |
 | [Visa](#visa) | 1 |
 | [Waymo](#waymo) | 5 |
-| Wise | — |
+| [Wise](#wise) | 3 |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
 | Revolut | *revolut.com serves a 'quick security check' browser challenge to every non-browser client, careers pages and sitemaps included; needs a headless browser* |
@@ -104,6 +104,7 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|---|
 | [Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test](https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test) 🆕 | Software | — | Munich | 2026-10-19 |
 | [Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE](https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte) 🆕 | AI/ML | — | Munich | 2026-10-19 |
+| [Information Security Internship](https://jobs.apple.com/en-us/details/200687171/information-security-internship) 🆕 | Security | — | London | 2026-10-19 |
 | [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) 🆕 | Security | — | Paris | 2026-10-17 |
 | [Software Engineering Intern, Apple Services Engineering](https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering) 🆕 | Software | — | London | 2026-10-16 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | — | Zurich | 2026-10-13 |
@@ -183,6 +184,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Development Tools Software Engineer Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205) 🆕 | Software | — | Germany, Munich | 2026-10-19 |
 | [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1) 🆕 | Backend/Infra | — | Poland, Gdansk | 2026-10-16 |
 | [MLIR Compiler Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942) 🆕 | Backend/Infra | BS | Germany, Munich | 2026-10-14 |
 | [MLIR Compiler Engineering Graduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943) 🆕 | Backend/Infra | MS/PhD | Germany, Munich | 2026-10-14 |
@@ -209,7 +211,8 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Applied Sciences Intern](https://apply.careers.microsoft.com/careers/job/1970393557040084) 🆕 | AI/ML | — | United Kingdom, London, London | 2026-10-15 |
+| [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) 🆕 | AI/ML | PhD | United Kingdom, Berkshire, Reading | 2026-10-19 |
+| [Applied Science Intern](https://apply.careers.microsoft.com/careers/job/1970393557040084) 🆕 | AI/ML | — | United Kingdom, London, London | 2026-10-15 |
 | [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393557026573) | AI/ML | — | Switzerland, Zürich, Zürich | 2026-10-09 |
 | [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) | Software | — | Czech Republic, Prague, Prague | 2026-10-07 |
 | [Software Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557021515) | Software | — | Czech Republic, Multiple Locations, Multiple Locations | 2026-10-07 |
@@ -274,6 +277,14 @@ API every 6 hours by GitHub Actions.
 | [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) 🆕 | AI/ML | MS/PhD | London, England, United Kingdom | 2026-09-18 |
 | [2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)](https://careers.withwaymo.com/jobs?gh_jid=8214729) 🆕 | Software | BS/MS | Warsaw, Poland | 2026-09-18 |
 | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) 🆕 | AI/ML | MS/PhD | London, England, United Kingdom | 2026-09-17 |
+
+## Wise
+
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [Software Engineering Intern](https://wise.jobs/job/software-engineering-intern-in-london-jid-4355) 🆕 | Software | — | London | 2026-10-19 |
+| [Data Science Intern](https://wise.jobs/job/data-science-intern-in-london-jid-4352) 🆕 | Data | — | London | 2026-10-19 |
+| [Analytics Intern](https://wise.jobs/job/analytics-intern-in-london-jid-4354) 🆕 | Data | — | London | 2026-10-19 |
 
 
 ---

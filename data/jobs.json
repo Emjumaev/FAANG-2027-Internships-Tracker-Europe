@@ -928,6 +928,21 @@
       "title": "Internship - Software Engineering - Wireless Data Science",
       "url": "https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science"
     },
+    "apple:200687171": {
+      "active": true,
+      "category": "Security",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200687171",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-10-19",
+      "title": "Information Security Internship",
+      "url": "https://jobs.apple.com/en-us/details/200687171/information-security-internship"
+    },
     "apple:200687209": {
       "active": true,
       "category": "AI/ML",
@@ -1898,6 +1913,21 @@
       "title": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"
     },
+    "intel:JR0288205": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288205",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "Germany, Munich"
+      ],
+      "posted": "2026-10-19",
+      "title": "Development Tools Software Engineer Intern (m/f/d)",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205"
+    },
     "intel:JR0288221": {
       "active": true,
       "category": "Backend/Infra",
@@ -2236,8 +2266,25 @@
         "United Kingdom, London, London"
       ],
       "posted": "2026-10-15",
-      "title": "Applied Sciences Intern",
+      "title": "Applied Science Intern",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557040084"
+    },
+    "microsoft:1970393557042487": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Microsoft",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1970393557042487",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "United Kingdom, Berkshire, Reading"
+      ],
+      "posted": "2026-10-19",
+      "title": "Applied Science PhD Internship",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487"
     },
     "nvidia:JR2012814": {
       "active": false,
@@ -2748,7 +2795,52 @@
       "posted": "2026-10-12",
       "title": "2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
       "url": "https://careers.withwaymo.com/jobs?gh_jid=8268204"
+    },
+    "wise:4352": {
+      "active": true,
+      "category": "Data",
+      "company": "Wise",
+      "degrees": [],
+      "external_id": "4352",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-10-19",
+      "title": "Data Science Intern",
+      "url": "https://wise.jobs/job/data-science-intern-in-london-jid-4352"
+    },
+    "wise:4354": {
+      "active": true,
+      "category": "Data",
+      "company": "Wise",
+      "degrees": [],
+      "external_id": "4354",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-10-19",
+      "title": "Analytics Intern",
+      "url": "https://wise.jobs/job/analytics-intern-in-london-jid-4354"
+    },
+    "wise:4355": {
+      "active": true,
+      "category": "Software",
+      "company": "Wise",
+      "degrees": [],
+      "external_id": "4355",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-19",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-10-19",
+      "title": "Software Engineering Intern",
+      "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-19T13:17:04Z"
+  "updated_at": "2026-10-19T22:26:49Z"
 }
