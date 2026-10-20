@@ -1,6 +1,7 @@
 {
   "failed": {
     "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
+    "Spotify": "request failed after 3 attempts: GET https://api.lifeatspotify.com/wp-json/animal/v1/job/search (HTTPSConnectionPool(host='api.lifeatspotify.com', port=443): Read timed out. (read timeout=30))",
     "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
   },
   "succeeded": [
@@ -32,7 +33,6 @@
     "Salesforce",
     "Snap",
     "Snowflake",
-    "Spotify",
     "Stripe",
     "Visa",
     "Waymo",
