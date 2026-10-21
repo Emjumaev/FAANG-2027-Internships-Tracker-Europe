@@ -13,7 +13,7 @@ import sys
 import time
 import traceback
 
-from . import store
+from . import store, telegram
 from .categories import categorize
 from .companies import COMPANIES
 from .degrees import detect_degrees
@@ -69,6 +69,10 @@ def run(only=None):
         len(added), len(closed), len(reopened), len(succeeded), len(failed)))
     for j in added:
         print("  + {} — {}".format(j["company"], j["title"]))
+
+    sent = telegram.notify(added)
+    if sent:
+        print("[telegram] sent {} message(s)".format(sent))
 
     # surface the counts to the GitHub Actions step that writes the commit message
     gh_output = os.environ.get("GITHUB_OUTPUT")
