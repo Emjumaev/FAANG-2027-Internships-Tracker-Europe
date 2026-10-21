@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-21 11:53:12 UTC** · 📌 **145** open internships
+> 🕐 Last updated: **2026-10-21 17:17:42 UTC** · 📌 **147** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,11 +30,11 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 6 |
-| [Intel](#intel) | 18 |
+| [IBM](#ibm) | 5 |
+| [Intel](#intel) | 20 |
 | Jane Street | — |
 | Mastercard | — |
-| [Meta](#meta) | 11 |
+| [Meta](#meta) | 12 |
 | [Microsoft](#microsoft) | 6 |
 | [NVIDIA](#nvidia) | 7 |
 | Netflix | — |
@@ -70,6 +70,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) 🆕 | AI/ML | PhD | Bucharest, ROU | 2026-10-21 |
 | [Business Intelligence Intern Spain](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) 🆕 | Data | — | Madrid, Community of Madrid, ESP | 2026-10-19 |
 | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) 🆕 | Data | — | Milan, Lombardy, ITA | 2026-10-15 |
 | [Business Intelligence Engineer Internship Turkey](https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey) 🆕 | Data | — | Istanbul, TUR | 2026-10-15 |
@@ -94,7 +95,6 @@ API every 6 hours by GitHub Actions.
 | [2027 Software Dev Engineer Intern - Luxembourg](https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg) | Software | — | Luxembourg, LUX | 2026-09-21 |
 | [2027 Software Dev Engineer Intern - Iași, Romania](https://www.amazon.jobs/en/jobs/10554652/2027-software-dev-engineer-intern-ia-i-romania) | Software | — | Iasi, ROU | 2026-09-21 |
 | [2027 Software Dev Engineer Intern - Germany](https://www.amazon.jobs/en/jobs/10554701/2027-software-dev-engineer-intern-germany) | Software | — | Berlin, Berlin, DEU | 2026-09-21 |
-| [Business Developer Intern - 2027 - 6 months](https://www.amazon.jobs/en/jobs/10544726/business-developer-intern-2027-6-months) | Software | — | Munich, Bavaria, DEU | 2026-09-16 |
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | — | Dublin, IRL | 2026-05-13 |
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | — | Berlin, Berlin, DEU | 2025-12-01 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | Backend/Infra | — | Dresden, Saxony, DEU | 2025-11-21 |
@@ -180,7 +180,6 @@ API every 6 hours by GitHub Actions.
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) 🆕 | Data | — | Ehningen, Germany | — |
 | [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) 🆕 | Backend/Infra | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) 🆕 | Software | — | Ehningen, Germany | — |
-| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) 🆕 | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) 🆕 | Software | — | Ehningen, Germany | — |
 | [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) 🆕 | Data | BS | Ehningen, Germany | — |
 
@@ -188,7 +187,9 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207) 🆕 | Software | — | Poland, Gdansk | 2026-10-21 |
 | [Media AI Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216) 🆕 | AI/ML | — | Poland, Gdansk | 2026-10-21 |
+| [Intern Software QA Test Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220) 🆕 | QA | — | Poland, Gdansk | 2026-10-21 |
 | [Middleware Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213) 🆕 | Software | — | Poland, Gdansk | 2026-10-20 |
 | [DevOps Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210) 🆕 | Backend/Infra | — | Poland, Gdansk | 2026-10-20 |
 | [AI Software Development Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/AI-Software-Development-Intern_JR0288225) 🆕 | AI/ML | — | Poland, Gdansk | 2026-10-20 |
@@ -214,6 +215,7 @@ API every 6 hours by GitHub Actions.
 | [Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)](https://www.metacareers.com/jobs/29859210493681744) 🆕 | AI/ML | PhD | Cambridge, UK | — |
 | [Research Scientist Intern, Robotics Foundation Models (PhD)](https://www.metacareers.com/jobs/1085375117813817) 🆕 | AI/ML | PhD | Zurich, Switzerland | — |
 | [Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)](https://www.metacareers.com/jobs/1420325362923811) 🆕 | AI/ML | PhD | Zurich, Switzerland | — |
+| [Research Scientist Intern, Audio, Numerical Acoustics (PhD)](https://www.metacareers.com/jobs/2188224482038078) 🆕 | AI/ML | PhD | Cambridge, UK | — |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/2288012098648243) 🆕 | AI/ML | PhD | Cambridge, UK | — |
 | [Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)](https://www.metacareers.com/jobs/2281070982817094) 🆕 | AI/ML | PhD | London, UK | — |
 | [Research Scientist Intern, Robotics Foundation Models Post-Training (PhD)](https://www.metacareers.com/jobs/848358355026771) 🆕 | AI/ML | PhD | Zurich, Switzerland | — |

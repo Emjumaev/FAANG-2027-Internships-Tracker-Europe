@@ -94,9 +94,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10537284/2026-software-dev-engineer-intern-spain"
     },
     "amazon:10544726": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-09-21",
+      "closed": "2026-10-21",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10544726",
@@ -554,6 +554,23 @@
       "posted": "2026-10-19",
       "title": "Business Intelligence Intern Spain",
       "url": "https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain"
+    },
+    "amazon:10585292": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "10585292",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Bucharest, ROU"
+      ],
+      "posted": "2026-10-21",
+      "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
     },
     "amazon:3072042": {
       "active": false,
@@ -1654,7 +1671,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134827"
     },
     "ibm:135456": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-10-21",
       "company": "IBM",
@@ -1974,6 +1991,21 @@
       "title": "Development Tools Software Engineer Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205"
     },
+    "intel:JR0288207": {
+      "active": true,
+      "category": "Software",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288207",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-21",
+      "title": "System Software Engineering Intern",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207"
+    },
     "intel:JR0288210": {
       "active": true,
       "category": "Backend/Infra",
@@ -2018,6 +2050,21 @@
       "posted": "2026-10-21",
       "title": "Media AI Software Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216"
+    },
+    "intel:JR0288220": {
+      "active": true,
+      "category": "QA",
+      "company": "Intel",
+      "degrees": [],
+      "external_id": "JR0288220",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Poland, Gdansk"
+      ],
+      "posted": "2026-10-21",
+      "title": "Intern Software QA Test Engineer",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220"
     },
     "intel:JR0288221": {
       "active": true,
@@ -2152,6 +2199,23 @@
       "posted": null,
       "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
       "url": "https://www.metacareers.com/jobs/1642811797633951"
+    },
+    "meta:2188224482038078": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2188224482038078",
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21",
+      "locations": [
+        "Cambridge, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
+      "url": "https://www.metacareers.com/jobs/2188224482038078"
     },
     "meta:2281070982817094": {
       "active": true,
@@ -3161,5 +3225,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-21T11:53:12Z"
+  "updated_at": "2026-10-21T17:17:42Z"
 }
