@@ -20,7 +20,7 @@ API every 6 hours by GitHub Actions.
 > title names one (— = not specified, usually open to all levels)
 
 ⭐ Star this repo to keep an eye on new openings — or watch *Releases/Activity* for commits titled “new internship(s)”.
-
+{telegram}
 """
 
 FOOTER = """
@@ -62,6 +62,14 @@ def _fmt_locations(locations, limit=3):
     return shown
 
 
+def _telegram_line():
+    from .telegram import channel_url
+    url = channel_url()
+    if not url:
+        return ""
+    return "\n📣 Get new internships as they appear: **[follow the Telegram channel]({})**\n".format(url)
+
+
 def render(state):
     from .companies import COMPANIES, UNSUPPORTED
     tracked = [c["name"] for c in COMPANIES]
@@ -79,6 +87,7 @@ def render(state):
         updated=updated.replace("T", " ").replace("Z", " UTC"),
         n_open=len(jobs),
         new_days=NEW_BADGE_DAYS,
+        telegram=_telegram_line(),
     )]
 
     # summary table with anchors
