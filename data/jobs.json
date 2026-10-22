@@ -1053,8 +1053,9 @@
       "url": "https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform"
     },
     "apple:200690125": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-22",
       "company": "Apple",
       "degrees": [],
       "external_id": "200690125",
@@ -1705,7 +1706,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-22",
       "company": "IBM",
@@ -2245,6 +2246,40 @@
       "posted": null,
       "title": "Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
       "url": "https://www.metacareers.com/jobs/1642811797633951"
+    },
+    "meta:1647286810370437": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "MS"
+      ],
+      "external_id": "1647286810370437",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "locations": [
+        "Paris, France"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Muse RL and Agents Team (MSc)",
+      "url": "https://www.metacareers.com/jobs/1647286810370437"
+    },
+    "meta:1886039392386822": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1886039392386822",
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22",
+      "locations": [
+        "Paris, France"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
+      "url": "https://www.metacareers.com/jobs/1886039392386822"
     },
     "meta:2188224482038078": {
       "active": true,
@@ -3272,5 +3307,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-22T17:16:45Z"
+  "updated_at": "2026-10-22T21:41:11Z"
 }
