@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-22 11:56:41 UTC** · 📌 **144** open internships
+> 🕐 Last updated: **2026-10-22 17:16:45 UTC** · 📌 **148** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -21,7 +21,7 @@ API every 6 hours by GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 29 |
 | Anthropic | — |
-| [Apple](#apple) | 17 |
+| [Apple](#apple) | 18 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 4 |
 | Cloudflare | — |
@@ -30,8 +30,8 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 4 |
-| [Intel](#intel) | 20 |
+| [IBM](#ibm) | 5 |
+| [Intel](#intel) | 22 |
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 12 |
@@ -104,6 +104,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineer Intern, iCloud Platform](https://jobs.apple.com/en-us/details/200690044/software-engineer-intern-icloud-platform) 🆕 | Backend/Infra | — | London | 2026-10-22 |
 | [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation) 🆕 | AI/ML | — | Cambridge | 2026-10-21 |
 | [Research Scientist Intern – Human-Centric Generative AI](https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai) 🆕 | AI/ML | — | Munich | 2026-10-20 |
 | [Internship - Software Engineering](https://jobs.apple.com/en-us/details/200690139/internship-software-engineering) 🆕 | Software | — | Munich | 2026-10-20 |
@@ -177,6 +178,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) 🆕 | Data | — | Ehningen, Germany | — |
+| [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) 🆕 | Backend/Infra | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) 🆕 | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) 🆕 | Software | MS | Ehningen, Germany | — |
 | [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) 🆕 | Data | BS | Ehningen, Germany | — |
@@ -185,6 +187,8 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Development Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215) 🆕 | Software | — | Germany, Munich | 2026-10-22 |
+| [DevOps Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288209) 🆕 | Backend/Infra | — | Poland, Gdansk | 2026-10-22 |
 | [System Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207) 🆕 | Software | — | Poland, Gdansk | 2026-10-21 |
 | [Media AI Software Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216) 🆕 | AI/ML | — | Poland, Gdansk | 2026-10-21 |
 | [Intern Software QA Test Engineer](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220) 🆕 | QA | — | Poland, Gdansk | 2026-10-21 |
