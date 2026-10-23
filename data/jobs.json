@@ -1687,7 +1687,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
     },
     "ibm:134050": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-23",
       "company": "IBM",
@@ -2568,7 +2568,7 @@
       "degrees": [],
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -2611,9 +2611,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557007677"
     },
     "microsoft:1970393557021513": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-06",
+      "closed": "2026-10-23",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393557021513",
@@ -2627,8 +2627,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557021513"
     },
     "microsoft:1970393557021515": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-23",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393557021515",
@@ -2674,8 +2675,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557025005"
     },
     "microsoft:1970393557026573": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-10-23",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393557026573",
@@ -2745,7 +2747,7 @@
       ],
       "external_id": "1970393557042487",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-22",
+      "last_seen": "2026-10-23",
       "locations": [
         "United Kingdom, Berkshire, Reading"
       ],
@@ -3355,5 +3357,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-23T17:11:59Z"
+  "updated_at": "2026-10-23T21:30:59Z"
 }

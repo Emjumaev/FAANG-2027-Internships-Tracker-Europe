@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-23 17:11:59 UTC** · 📌 **151** open internships
+> 🕐 Last updated: **2026-10-23 21:30:59 UTC** · 📌 **149** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,12 +30,12 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 13 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 5 |
+| [IBM](#ibm) | 6 |
 | [Intel](#intel) | 22 |
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 14 |
-| [Microsoft](#microsoft) | 5 |
+| [Microsoft](#microsoft) | 2 |
 | [NVIDIA](#nvidia) | 7 |
 | Netflix | — |
 | OpenAI | — |
@@ -181,6 +181,7 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|---|
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) 🆕 | Data | — | Ehningen, Germany | — |
 | [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) | Backend/Infra | — | Ehningen, Germany | — |
+| [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 | [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) | Data | BS | Ehningen, Germany | — |
@@ -236,9 +237,6 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) 🆕 | AI/ML | PhD | United Kingdom, Berkshire, Reading | 2026-10-19 |
-| [Research Sciences INTERN](https://apply.careers.microsoft.com/careers/job/1970393557026573) | AI/ML | — | Switzerland, Zürich, Zürich | 2026-10-09 |
-| [Software Engineering Internship Opportunities - CoreAI](https://apply.careers.microsoft.com/careers/job/1970393557021513) | Software | — | Czech Republic, Prague, Prague | 2026-10-07 |
-| [Software Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557021515) | Software | — | Czech Republic, Multiple Locations, Multiple Locations | 2026-10-07 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | — | Belgium, Brussels Region, Brussels | 2026-09-14 |
 
 ## NVIDIA
