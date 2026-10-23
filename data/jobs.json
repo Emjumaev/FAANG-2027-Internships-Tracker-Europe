@@ -572,6 +572,53 @@
       "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
     },
+    "amazon:10587678": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "10587678",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Turin, Piedmont, ITA"
+      ],
+      "posted": "2026-10-23",
+      "title": "2027 Applied Scientist Internship \u2013 PhD, Amazon University Talent Acquisition",
+      "url": "https://www.amazon.jobs/en/jobs/10587678/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition"
+    },
+    "amazon:10587696": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10587696",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "Munich, Bavaria, DEU"
+      ],
+      "posted": "2026-10-23",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587696/business-developer-intern-early-careers-2027"
+    },
+    "amazon:10587701": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10587701",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-23",
+      "title": "Business Developer Intern, Early Careers 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -1640,9 +1687,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
     },
     "ibm:134050": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-20",
+      "closed": "2026-10-23",
       "company": "IBM",
       "degrees": [],
       "external_id": "134050",
@@ -2124,7 +2171,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-16",
+      "posted": "2026-10-23",
       "title": "DevOps Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1"
     },
@@ -3308,5 +3355,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-23T11:43:03Z"
+  "updated_at": "2026-10-23T17:11:59Z"
 }
