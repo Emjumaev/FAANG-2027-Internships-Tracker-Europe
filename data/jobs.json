@@ -11,7 +11,7 @@
       "locations": [
         "Basel"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-26",
       "title": "2027 Intern- Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015"
     },
@@ -635,6 +635,36 @@
       "posted": "2026-10-23",
       "title": "Business Developer Intern, Early Careers 2027",
       "url": "https://www.amazon.jobs/en/jobs/10587701/business-developer-intern-early-careers-2027"
+    },
+    "amazon:10588762": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10588762",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-26",
+      "title": "2027 Software Dev Engineer Intern (Machine Learning) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk"
+    },
+    "amazon:10588998": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10588998",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "locations": [
+        "London, England, GBR"
+      ],
+      "posted": "2026-10-26",
+      "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
+      "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk"
     },
     "amazon:3072042": {
       "active": false,
@@ -1724,9 +1754,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
     },
     "ibm:134050": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-23",
+      "closed": "2026-10-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "134050",
@@ -2294,6 +2324,23 @@
       "title": "Research Scientist Intern, Robotics Foundation Models (PhD)",
       "url": "https://www.metacareers.com/jobs/1085375117813817"
     },
+    "meta:1418948513778654": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1418948513778654",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1418948513778654"
+    },
     "meta:1420325362923811": {
       "active": true,
       "category": "AI/ML",
@@ -2394,6 +2441,24 @@
       "posted": null,
       "title": "Research Scientist Intern, Muse RL and Agents Team (MSc)",
       "url": "https://www.metacareers.com/jobs/1647286810370437"
+    },
+    "meta:1694337262064234": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1694337262064234",
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+      "url": "https://www.metacareers.com/jobs/1694337262064234"
     },
     "meta:1775227420261809": {
       "active": true,
@@ -3457,8 +3522,9 @@
       "url": "https://wise.jobs/job/data-science-intern-in-london-jid-4352"
     },
     "wise:4354": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-10-26",
       "company": "Wise",
       "degrees": [],
       "external_id": "4354",
@@ -3488,5 +3554,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-26T13:05:54Z"
+  "updated_at": "2026-10-26T22:45:45Z"
 }
