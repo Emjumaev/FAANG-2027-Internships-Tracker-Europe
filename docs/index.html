@@ -302,21 +302,14 @@
     color: var(--dim); font-size: 13px;
   }
 </style>
-<script type="module">
-  // Firebase Analytics — logs a page_view on every visit (see Firebase console → Analytics).
-  // The web config is public by design (it only identifies the project).
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
-  import { getAnalytics, isSupported } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
-  const firebaseConfig = {
-    apiKey: "AIzaSyC92OICrIcBOtOYUqHlmh_2xYwbGOjxzjo",
-    authDomain: "faang-intern-tracker-eu.firebaseapp.com",
-    projectId: "faang-intern-tracker-eu",
-    storageBucket: "faang-intern-tracker-eu.firebasestorage.app",
-    messagingSenderId: "681296842258",
-    appId: "1:681296842258:web:f4efa29d67254f97dad2cb",
-    measurementId: "G-NFXQG0K8VY",
-  };
-  if (await isSupported()) getAnalytics(initializeApp(firebaseConfig));
+<!-- Google Analytics (GA4, linked to the Firebase project) — logs a page_view on every visit.
+     Uses only the measurement ID, so no API key is shipped. -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NFXQG0K8VY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){ dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-NFXQG0K8VY');
 </script>
 </head>
 <body>
