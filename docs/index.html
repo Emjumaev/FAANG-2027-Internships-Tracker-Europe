@@ -302,6 +302,22 @@
     color: var(--dim); font-size: 13px;
   }
 </style>
+<script type="module">
+  // Firebase Analytics — logs a page_view on every visit (see Firebase console → Analytics).
+  // The web config is public by design (it only identifies the project).
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-app.js";
+  import { getAnalytics, isSupported } from "https://www.gstatic.com/firebasejs/11.0.2/firebase-analytics.js";
+  const firebaseConfig = {
+    apiKey: "AIzaSyC92OICrIcBOtOYUqHlmh_2xYwbGOjxzjo",
+    authDomain: "faang-intern-tracker-eu.firebaseapp.com",
+    projectId: "faang-intern-tracker-eu",
+    storageBucket: "faang-intern-tracker-eu.firebasestorage.app",
+    messagingSenderId: "681296842258",
+    appId: "1:681296842258:web:f4efa29d67254f97dad2cb",
+    measurementId: "G-NFXQG0K8VY",
+  };
+  if (await isSupported()) getAnalytics(initializeApp(firebaseConfig));
+</script>
 </head>
 <body>
 
