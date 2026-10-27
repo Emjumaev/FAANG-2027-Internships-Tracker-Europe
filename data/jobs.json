@@ -11,7 +11,7 @@
       "locations": [
         "Basel"
       ],
-      "posted": "2026-10-26",
+      "posted": "2026-10-27",
       "title": "2027 Intern- Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015"
     },
@@ -26,7 +26,7 @@
       "locations": [
         "Bucharest"
       ],
-      "posted": "2026-10-19",
+      "posted": "2026-10-27",
       "title": "2027 Intern- Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018"
     },
@@ -1815,7 +1815,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134050"
     },
     "ibm:134679": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-10-27",
       "company": "IBM",
@@ -1831,14 +1831,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134679"
     },
     "ibm:134827": {
-      "active": false,
+      "active": true,
       "category": "Security",
       "closed": "2026-10-17",
       "company": "IBM",
       "degrees": [],
       "external_id": "134827",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-17",
+      "last_seen": "2026-10-27",
       "locations": [
         "Dublin, Ireland"
       ],
@@ -1909,6 +1909,21 @@
       "posted": null,
       "title": "IBM Finance Data Science Traineeship",
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=137677"
+    },
+    "ibm:138755": {
+      "active": true,
+      "category": "Software",
+      "company": "IBM",
+      "degrees": [],
+      "external_id": "138755",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "BRATISLAVA, Slovakia"
+      ],
+      "posted": null,
+      "title": "Python Developer Intern (Student)",
+      "url": "https://careers.ibm.com/careers/JobDetail?jobId=138755"
     },
     "intel:JR0284874": {
       "active": false,
@@ -2520,6 +2535,23 @@
       "title": "Research Scientist Intern - Content Seal - FAIR",
       "url": "https://www.metacareers.com/jobs/1775227420261809"
     },
+    "meta:1811645993254851": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1811645993254851",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, AI Research - Speech & Audio (PhD)",
+      "url": "https://www.metacareers.com/jobs/1811645993254851"
+    },
     "meta:1886039392386822": {
       "active": true,
       "category": "AI/ML",
@@ -3125,8 +3157,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
     },
     "nvidia:JR2028209": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-10-27",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2028209",
@@ -3367,6 +3400,21 @@
       "posted": "2026-10-12",
       "title": "Software Engineer Intern - Zurich (2026)",
       "url": "https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58"
+    },
+    "snowflake:e11c70eb-0800-4363-b609-264610878dce": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Snowflake",
+      "degrees": [],
+      "external_id": "e11c70eb-0800-4363-b609-264610878dce",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "locations": [
+        "Warsaw, Poland"
+      ],
+      "posted": "2026-10-12",
+      "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
+      "url": "https://careers.snowflake.com/us/en/job/e11c70eb-0800-4363-b609-264610878dce"
     },
     "snowflake:e70a0f78-05d9-4adc-873e-0ac43bf549d2": {
       "active": false,
@@ -3615,5 +3663,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-27T12:15:18Z"
+  "updated_at": "2026-10-27T18:06:37Z"
 }
