@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-10-28 12:58:36 UTC** · 📌 **155** open internships
+> 🕐 Last updated: **2026-10-28 22:39:47 UTC** · 📌 **154** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,13 +30,13 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 9 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 8 |
+| [IBM](#ibm) | 7 |
 | [Intel](#intel) | 21 |
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 20 |
 | [Microsoft](#microsoft) | 2 |
-| [NVIDIA](#nvidia) | 8 |
+| [NVIDIA](#nvidia) | 9 |
 | Netflix | — |
 | OpenAI | — |
 | Oracle | — |
@@ -45,7 +45,7 @@ API every 6 hours by GitHub Actions.
 | [Pinterest](#pinterest) | 4 |
 | Salesforce | — |
 | Snap | — |
-| [Snowflake](#snowflake) | 4 |
+| [Snowflake](#snowflake) | 3 |
 | Spotify | — |
 | [Stripe](#stripe) | 3 |
 | Uber | — |
@@ -181,10 +181,9 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|---|
 | [Python Developer Intern (Student)](https://careers.ibm.com/careers/JobDetail?jobId=138755) 🆕 | Software | — | BRATISLAVA, Slovakia | — |
 | [Intern Back-End Developer - Starting July 2027](https://careers.ibm.com/careers/JobDetail?jobId=128230) 🆕 | Backend/Infra | — | Hursley, United Kingdom | — |
+| [IBM Finance Data Science Traineeship](https://careers.ibm.com/careers/JobDetail?jobId=137677) 🆕 | Data | — | BRATISLAVA, Slovakia | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
-| [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) | Backend/Infra | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
-| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 | [Duales Studium 2027 Bachelor@IBM: Wirtschaftsinformatik - Data Science (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=133042) | Data | BS | Ehningen, Germany | — |
 
@@ -250,6 +249,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) 🆕 | Data | — | Poland, Warsaw | 2026-10-28 |
 | [GenAI Algorithms Intern – Model Optimization for Inference](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597) 🆕 | AI/ML | — | Switzerland, Zurich | 2026-10-26 |
 | [Software Intern - Embedded Systems 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1) 🆕 | Backend/Infra | — | UK, Bristol | 2026-10-21 |
 | [AI Developer Technology Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497) | AI/ML | — | Germany, Munich | 2026-10-20 |
@@ -284,7 +284,6 @@ API every 6 hours by GitHub Actions.
 | [Software Engineer Intern AI/ML - Warsaw (2027)](https://careers.snowflake.com/us/en/job/e11c70eb-0800-4363-b609-264610878dce) 🆕 | AI/ML | — | Warsaw, Poland | 2026-10-12 |
 | [Software Engineer Intern - Zurich (2026)](https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58) | Software | — | Zurich, Switzerland | 2026-10-12 |
 | [Software Engineer Intern - Berlin (2027)](https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e) | Software | — | Berlin, Germany | 2026-09-29 |
-| [Software Engineer Intern - Berlin (2026)](https://careers.snowflake.com/us/en/job/3a9baeaf-b107-41fb-a9b3-a98ab78275ed) | Software | — | Berlin, Germany | 2026-06-02 |
 
 ## Stripe
 
