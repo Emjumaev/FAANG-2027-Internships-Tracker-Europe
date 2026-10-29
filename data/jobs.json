@@ -713,6 +713,21 @@
       "title": "2027 Software Dev Engineer Intern (Embedded Systems) - UK",
       "url": "https://www.amazon.jobs/en/jobs/10588998/2027-software-dev-engineer-intern-embedded-systems-uk"
     },
+    "amazon:10592306": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10592306",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "locations": [
+        "Zurich, Zurich, CHE"
+      ],
+      "posted": "2026-10-29",
+      "title": "Robotics Wireless & Network Engineer Intern, RIVR",
+      "url": "https://www.amazon.jobs/en/jobs/10592306/robotics-wireless-network-engineer-intern-rivr"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -1239,6 +1254,21 @@
       "posted": "2026-10-20",
       "title": "Research Scientist Intern \u2013 Human-Centric Generative AI",
       "url": "https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai"
+    },
+    "apple:200692236": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200692236",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "locations": [
+        "Aachen"
+      ],
+      "posted": "2026-10-29",
+      "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+      "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation"
     },
     "cisco:2005347": {
       "active": false,
@@ -1801,7 +1831,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
     },
     "ibm:134050": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-29",
       "company": "IBM",
@@ -1867,7 +1897,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-10-29",
       "company": "IBM",
@@ -2436,7 +2466,7 @@
         "Paris, France"
       ],
       "posted": null,
-      "title": "Software Engineering Intern, Neuro-AI - Brain & AI Team (PhD)",
+      "title": "Research Intern, Neuro-AI - Brain & AI Team (PhD)",
       "url": "https://www.metacareers.com/jobs/1463189352436520"
     },
     "meta:1464655882214150": {
@@ -2556,6 +2586,23 @@
       "title": "Research Scientist Intern, AI Research - Speech & Audio (PhD)",
       "url": "https://www.metacareers.com/jobs/1811645993254851"
     },
+    "meta:1847186939636437": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1847186939636437",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "locations": [
+        "London, UK"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/1847186939636437"
+    },
     "meta:1886039392386822": {
       "active": true,
       "category": "AI/ML",
@@ -2572,6 +2619,24 @@
       "posted": null,
       "title": "Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
       "url": "https://www.metacareers.com/jobs/1886039392386822"
+    },
+    "meta:2082008865811696": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2082008865811696",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Muse RL and Agents Team (PhD)",
+      "url": "https://www.metacareers.com/jobs/2082008865811696"
     },
     "meta:2188224482038078": {
       "active": true,
@@ -2726,6 +2791,23 @@
       "posted": null,
       "title": "Research Scientist Intern, Photorealistic Telepresence (PhD)",
       "url": "https://www.metacareers.com/jobs/924149567345400"
+    },
+    "meta:969100159096154": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "969100159096154",
+      "first_seen": "2026-10-29",
+      "last_seen": "2026-10-29",
+      "locations": [
+        "Paris, France"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+      "url": "https://www.metacareers.com/jobs/969100159096154"
     },
     "meta:994737396214791": {
       "active": true,
@@ -3683,5 +3765,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-29T13:05:02Z"
+  "updated_at": "2026-10-29T22:50:35Z"
 }
