@@ -1926,7 +1926,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134827"
     },
     "ibm:135456": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-10-31",
       "company": "IBM",
@@ -3861,5 +3861,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-10-31T12:31:25Z"
+  "updated_at": "2026-10-31T21:38:12Z"
 }
