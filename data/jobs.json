@@ -556,6 +556,21 @@
       "title": "Business Intelligence Intern Italy",
       "url": "https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy"
     },
+    "amazon:10581052": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10581052",
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03",
+      "locations": [
+        "Zurich, Zurich, CHE"
+      ],
+      "posted": "2026-11-03",
+      "title": "Applied Scientist Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10581052/applied-scientist-intern"
+    },
     "amazon:10581054": {
       "active": false,
       "category": "AI/ML",
@@ -841,8 +856,9 @@
       "url": "https://www.amazon.jobs/en/jobs/3115016/2026-applied-scientist-intern-amazon-university-talent-acquisition"
     },
     "amazon:3120058": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-03",
       "company": "Amazon",
       "degrees": [],
       "external_id": "3120058",
@@ -3095,7 +3111,7 @@
       "degrees": [],
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-03",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -3274,7 +3290,7 @@
       ],
       "external_id": "1970393557042487",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-03",
       "locations": [
         "United Kingdom, Berkshire, Reading"
       ],
@@ -3289,7 +3305,7 @@
       "degrees": [],
       "external_id": "1970393557050102",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-03",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -3538,8 +3554,9 @@
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069"
     },
     "nvidia:JR2029184": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-03",
       "company": "NVIDIA",
       "degrees": [],
       "external_id": "JR2029184",
@@ -4014,5 +4031,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-03T14:17:19Z"
+  "updated_at": "2026-11-03T23:27:29Z"
 }

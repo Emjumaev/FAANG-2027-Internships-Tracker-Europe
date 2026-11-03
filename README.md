@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-03 14:17:19 UTC** · 📌 **161** open internships
+> 🕐 Last updated: **2026-11-03 23:27:29 UTC** · 📌 **160** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -36,7 +36,7 @@ API every 6 hours by GitHub Actions.
 | Mastercard | — |
 | [Meta](#meta) | 21 |
 | [Microsoft](#microsoft) | 3 |
-| [NVIDIA](#nvidia) | 9 |
+| [NVIDIA](#nvidia) | 8 |
 | Netflix | — |
 | OpenAI | — |
 | Oracle | — |
@@ -71,6 +71,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [SLAM / Computer Vision Intern, RIVR](https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr) 🆕 | AI/ML | — | Zurich, Zurich, CHE | 2026-11-03 |
+| [Applied Scientist Intern](https://www.amazon.jobs/en/jobs/10581052/applied-scientist-intern) 🆕 | AI/ML | — | Zurich, Zurich, CHE | 2026-11-03 |
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027) 🆕 | Software | — | Munich, Bavaria, DEU | 2026-10-30 |
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593322/business-developer-intern-early-careers-2027) 🆕 | Software | — | London, England, GBR | 2026-10-30 |
 | [2027 Software Dev Engineer Intern (Machine Learning) - UK](https://www.amazon.jobs/en/jobs/10588762/2027-software-dev-engineer-intern-machine-learning-uk) | AI/ML | — | London, England, GBR | 2026-10-26 |
@@ -107,7 +108,6 @@ API every 6 hours by GitHub Actions.
 | [2027 Software Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern) | Software | — | Dublin, IRL | 2026-05-13 |
 | [Software Dev Engineer internship - Embedded Development](https://www.amazon.jobs/en/jobs/3134271/software-dev-engineer-internship-embedded-development) | Backend/Infra | — | Berlin, Berlin, DEU | 2025-12-01 |
 | [Software Dev Engineer Internship - Embedded Development (Linux)](https://www.amazon.jobs/en/jobs/3130528/software-dev-engineer-internship-embedded-development-linux) | Backend/Infra | — | Dresden, Saxony, DEU | 2025-11-21 |
-| [2026 Applied Scientist Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/3120058/2026-applied-scientist-intern-amazon-university-talent-acquisition) | AI/ML | — | Barcelona, Catalonia, ESP | 2025-11-03 |
 
 ## Apple
 
@@ -256,7 +256,6 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184) 🆕 | Software | — | Germany, Munich | 2026-11-03 |
 | [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069) 🆕 | AI/ML | — | Switzerland, Zurich | 2026-11-03 |
 | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) 🆕 | Data | — | Poland, Warsaw | 2026-10-31 |
 | [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) | Backend/Infra | — | Poland, Warsaw | 2026-10-31 |
