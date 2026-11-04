@@ -1189,8 +1189,9 @@
       "url": "https://jobs.apple.com/en-us/details/200686958/internship-software-engineering-wireless-data-science"
     },
     "apple:200687171": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-11-04",
       "company": "Apple",
       "degrees": [],
       "external_id": "200687171",
@@ -2012,7 +2013,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134827"
     },
     "ibm:135456": {
-      "active": true,
+      "active": false,
       "category": "Software",
       "closed": "2026-11-04",
       "company": "IBM",
@@ -2599,8 +2600,9 @@
       "url": "https://www.metacareers.com/jobs/1050177734644029"
     },
     "meta:1085375117813817": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-04",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -2631,6 +2633,41 @@
       "posted": null,
       "title": "Research Scientist Intern, AI Core Machine Learning (MSc)",
       "url": "https://www.metacareers.com/jobs/1126525590244595"
+    },
+    "meta:1139996808441103": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1139996808441103",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "locations": [
+        "London, UK",
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+      "url": "https://www.metacareers.com/jobs/1139996808441103"
+    },
+    "meta:1165781989214784": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1165781989214784",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "locations": [
+        "Zurich, Switzerland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)",
+      "url": "https://www.metacareers.com/jobs/1165781989214784"
     },
     "meta:1418948513778654": {
       "active": true,
@@ -2752,8 +2789,9 @@
       "url": "https://www.metacareers.com/jobs/1647286810370437"
     },
     "meta:1694337262064234": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-04",
       "company": "Meta",
       "degrees": [
         "PhD"
@@ -2938,6 +2976,26 @@
       "posted": null,
       "title": "Network Production Engineer Intern",
       "url": "https://www.metacareers.com/jobs/2558941294546763"
+    },
+    "meta:2572072169967580": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "2572072169967580",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04",
+      "locations": [
+        "Burlingame, CA",
+        "Cambridge, MA",
+        "Redmond, WA",
+        "Sunnyvale, CA"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, Generative AI & Computational Photography (PhD)",
+      "url": "https://www.metacareers.com/jobs/2572072169967580"
     },
     "meta:29859210493681744": {
       "active": false,
@@ -3130,7 +3188,7 @@
       "degrees": [],
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -3309,11 +3367,11 @@
       ],
       "external_id": "1970393557042487",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "United Kingdom, Berkshire, Reading"
       ],
-      "posted": "2026-10-19",
+      "posted": "2026-11-04",
       "title": "Applied Science PhD Internship",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487"
     },
@@ -3324,7 +3382,7 @@
       "degrees": [],
       "external_id": "1970393557050102",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-04",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -4050,5 +4108,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-04T14:45:32Z"
+  "updated_at": "2026-11-04T23:46:08Z"
 }
