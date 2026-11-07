@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-07 13:04:27 UTC** · 📌 **155** open internships
+> 🕐 Last updated: **2026-11-07 21:54:49 UTC** · 📌 **156** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,7 +30,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 9 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 7 |
+| [IBM](#ibm) | 8 |
 | [Intel](#intel) | 18 |
 | Jane Street | — |
 | Mastercard | — |
@@ -185,6 +185,7 @@ API every 6 hours by GitHub Actions.
 | [Early Associate Data Insights, Analytics & Technology Intern (12-Week Summer Internship)](https://careers.ibm.com/careers/JobDetail?jobId=138998) | Data | — | London, United Kingdom | — |
 | [Python Developer Intern (Student)](https://careers.ibm.com/careers/JobDetail?jobId=138755) | Software | — | BRATISLAVA, Slovakia | — |
 | [IBM Finance Data Science Traineeship](https://careers.ibm.com/careers/JobDetail?jobId=137677) | Data | — | BRATISLAVA, Slovakia | — |
+| [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
