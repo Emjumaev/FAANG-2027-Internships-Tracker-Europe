@@ -1981,9 +1981,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
     },
     "ibm:134050": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-07",
+      "closed": "2026-11-08",
       "company": "IBM",
       "degrees": [],
       "external_id": "134050",
@@ -2047,9 +2047,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-10-29",
+      "closed": "2026-11-08",
       "company": "IBM",
       "degrees": [],
       "external_id": "135502",
@@ -3240,7 +3240,7 @@
       "degrees": [],
       "external_id": "1970393556998387",
       "first_seen": "2026-09-14",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "locations": [
         "Belgium, Brussels Region, Brussels"
       ],
@@ -3379,18 +3379,18 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557027064"
     },
     "microsoft:1970393557038773": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-17",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393557038773",
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-16",
+      "last_seen": "2026-11-08",
       "locations": [
         "Ireland, Dublin, Dublin"
       ],
-      "posted": "2026-10-12",
+      "posted": "2026-11-08",
       "title": "Software Engineer Internship Opportunities",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557038773"
     },
@@ -3419,7 +3419,7 @@
       ],
       "external_id": "1970393557042487",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "locations": [
         "United Kingdom, Berkshire, Reading"
       ],
@@ -3434,7 +3434,7 @@
       "degrees": [],
       "external_id": "1970393557050102",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-07",
+      "last_seen": "2026-11-08",
       "locations": [
         "United Kingdom, Cambridgeshire, Cambridge"
       ],
@@ -4175,5 +4175,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-08T13:27:50Z"
+  "updated_at": "2026-11-08T22:08:36Z"
 }

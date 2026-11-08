@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-08 13:27:50 UTC** · 📌 **156** open internships
+> 🕐 Last updated: **2026-11-08 22:08:36 UTC** · 📌 **155** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,12 +30,12 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 9 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 8 |
+| [IBM](#ibm) | 6 |
 | [Intel](#intel) | 18 |
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 21 |
-| [Microsoft](#microsoft) | 3 |
+| [Microsoft](#microsoft) | 4 |
 | [NVIDIA](#nvidia) | 10 |
 | Netflix | — |
 | OpenAI | — |
@@ -186,9 +186,7 @@ API every 6 hours by GitHub Actions.
 | [Python Developer Intern (Student)](https://careers.ibm.com/careers/JobDetail?jobId=138755) | Software | — | BRATISLAVA, Slovakia | — |
 | [IBM Finance Data Science Traineeship](https://careers.ibm.com/careers/JobDetail?jobId=137677) | Data | — | BRATISLAVA, Slovakia | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
-| [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
-| [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 
 ## Intel
 
@@ -243,6 +241,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557038773) | Software | — | Ireland, Dublin, Dublin | 2026-11-08 |
 | [Applied Science PhD Internship](https://apply.careers.microsoft.com/careers/job/1970393557042487) | AI/ML | PhD | United Kingdom, Berkshire, Reading | 2026-11-04 |
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-10-30 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | — | Belgium, Brussels Region, Brussels | 2026-09-14 |
