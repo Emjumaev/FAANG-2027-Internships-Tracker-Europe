@@ -11,7 +11,7 @@
       "locations": [
         "Bucharest"
       ],
-      "posted": "2026-11-10",
+      "posted": "2026-11-09",
       "title": "2027 Intern- Security Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468"
     },
@@ -26,7 +26,7 @@
       "locations": [
         "Basel"
       ],
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "title": "2027 Intern- Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015"
     },
@@ -41,7 +41,7 @@
       "locations": [
         "Bucharest"
       ],
-      "posted": "2026-10-31",
+      "posted": "2026-10-30",
       "title": "2027 Intern- Software Engineer",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018"
     },
@@ -75,6 +75,21 @@
       "posted": "2026-05-13",
       "title": "2027 Software Dev Engineer Intern",
       "url": "https://www.amazon.jobs/en/jobs/10418355/2027-software-dev-engineer-intern"
+    },
+    "amazon:10489527": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10489527",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "locations": [
+        "Luxembourg, LUX"
+      ],
+      "posted": "2026-11-10",
+      "title": "Software Dev Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10489527/software-dev-intern"
     },
     "amazon:10531760": {
       "active": false,
@@ -824,6 +839,21 @@
       "title": "2027 Applied Scientist Internship \u2013 Masters, Amazon University Talent Acquisition",
       "url": "https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition"
     },
+    "amazon:10600919": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10600919",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "locations": [
+        "Zurich, Zurich, CHE"
+      ],
+      "posted": "2026-11-10",
+      "title": "Applied Scientist Intern - VLA and DATA, RIVR",
+      "url": "https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr"
+    },
     "amazon:3072042": {
       "active": false,
       "category": "Software",
@@ -1049,9 +1079,9 @@
       "url": "https://jobs.apple.com/en-us/details/200629965/soc-performance-modeling-internship-platform-architecture"
     },
     "apple:200682229": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-09-23",
+      "closed": "2026-11-10",
       "company": "Apple",
       "degrees": [],
       "external_id": "200682229",
@@ -1080,8 +1110,9 @@
       "url": "https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture"
     },
     "apple:200683768": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-10",
       "company": "Apple",
       "degrees": [],
       "external_id": "200683768",
@@ -1435,6 +1466,21 @@
       "posted": "2026-11-05",
       "title": "Cellular Baseband Security Research Intern",
       "url": "https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern"
+    },
+    "apple:200694316": {
+      "active": true,
+      "category": "Software",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200694316",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "locations": [
+        "London"
+      ],
+      "posted": "2026-11-10",
+      "title": "Virtualisation Software Engineering Internship, CoreOS",
+      "url": "https://jobs.apple.com/en-us/details/200694316/virtualisation-software-engineering-internship-coreos"
     },
     "cisco:2005347": {
       "active": false,
@@ -1999,9 +2045,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
     },
     "ibm:134050": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-08",
+      "closed": "2026-11-10",
       "company": "IBM",
       "degrees": [],
       "external_id": "134050",
@@ -2162,14 +2208,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138998"
     },
     "ibm:139192": {
-      "active": false,
+      "active": true,
       "category": "AI/ML",
       "closed": "2026-11-06",
       "company": "IBM",
       "degrees": [],
       "external_id": "139192",
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-10",
       "locations": [
         "Ehningen, Germany"
       ],
@@ -2264,8 +2310,9 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Undergraduate-Intern-Technical--OpenVINO--Neural-Network-Compression-Tools---f-m-d-_JR0287675"
     },
     "intel:JR0287884": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-10",
       "company": "Intel",
       "degrees": [],
       "external_id": "JR0287884",
@@ -2335,7 +2382,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "title": "GPU Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287893"
     },
@@ -2350,7 +2397,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-14",
+      "posted": "2026-10-13",
       "title": "GPU Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/GPU-Software-Engineering-Intern_JR0287894"
     },
@@ -2381,7 +2428,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "title": "Compiler Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"
     },
@@ -2416,7 +2463,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "title": "MLIR Compiler Engineering Undergraduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Undergraduate-Intern--f-m-d-_JR0287942"
     },
@@ -2434,7 +2481,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-15",
+      "posted": "2026-10-14",
       "title": "MLIR Compiler Engineering Graduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/MLIR-Compiler-Engineering-Graduate-Intern--f-m-d-_JR0287943"
     },
@@ -2449,7 +2496,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-20",
+      "posted": "2026-10-19",
       "title": "Development Tools Software Engineer Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Development-Tools-Software-Engineer-Intern--m-f-d-_JR0288205"
     },
@@ -2464,7 +2511,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "title": "System Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/System-Software-Engineering-Intern_JR0288207"
     },
@@ -2495,7 +2542,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "title": "DevOps Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288210"
     },
@@ -2510,7 +2557,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "title": "Middleware Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Middleware-Software-Engineering-Intern_JR0288213"
     },
@@ -2525,7 +2572,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-23",
+      "posted": "2026-10-22",
       "title": "Software Development Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215"
     },
@@ -2540,7 +2587,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "title": "Media AI Software Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Media-AI-Software-Intern_JR0288216"
     },
@@ -2555,7 +2602,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-10-22",
+      "posted": "2026-10-21",
       "title": "Intern Software QA Test Engineer",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220"
     },
@@ -2602,7 +2649,7 @@
       "locations": [
         "Poland, Gdansk"
       ],
-      "posted": "2026-11-03",
+      "posted": "2026-11-02",
       "title": "DevOps Software Engineering Intern",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633"
     },
@@ -2617,7 +2664,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Middleware Software Engineering Intern (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635"
     },
@@ -2632,7 +2679,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-11-07",
+      "posted": "2026-11-06",
       "title": "Software Design Engineer Intern for Physical Design (m/f/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937"
     },
@@ -3478,6 +3525,21 @@
       "title": "Applied Science PhD Internship",
       "url": "https://apply.careers.microsoft.com/careers/job/1970393557042487"
     },
+    "microsoft:1970393557044053": {
+      "active": true,
+      "category": "Software",
+      "company": "Microsoft",
+      "degrees": [],
+      "external_id": "1970393557044053",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "locations": [
+        "Finland, Satakunta, Tampere"
+      ],
+      "posted": "2026-11-10",
+      "title": "Software Engineering INTERN",
+      "url": "https://apply.careers.microsoft.com/careers/job/1970393557044053"
+    },
     "microsoft:1970393557050102": {
       "active": true,
       "category": "Security",
@@ -3570,7 +3632,7 @@
       "locations": [
         "Poland, Warsaw"
       ],
-      "posted": "2026-11-01",
+      "posted": "2026-10-31",
       "title": "Image and Data Processing Libraries Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517"
     },
@@ -3585,7 +3647,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-10-21",
+      "posted": "2026-10-20",
       "title": "AI Compiler Formal Verification Intern",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025"
     },
@@ -3667,7 +3729,7 @@
       "locations": [
         "Poland, Warsaw"
       ],
-      "posted": "2026-11-01",
+      "posted": "2026-10-31",
       "title": "Developer Tools DevOps Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826"
     },
@@ -3714,7 +3776,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-10-27",
+      "posted": "2026-10-26",
       "title": "GenAI Algorithms Intern \u2013 Model Optimization for Inference",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597"
     },
@@ -3729,7 +3791,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-11-06",
+      "posted": "2026-11-05",
       "title": "Software Engineering Intern, Physics Simulation - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066"
     },
@@ -3744,7 +3806,7 @@
       "locations": [
         "Switzerland, Zurich"
       ],
-      "posted": "2026-11-04",
+      "posted": "2026-11-03",
       "title": "AI Compiler Intern, CUDA Tile IR - Summer 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069"
     },
@@ -3760,7 +3822,7 @@
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-11-05",
+      "posted": "2026-11-04",
       "title": "Software Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184"
     },
@@ -4083,7 +4145,7 @@
       "locations": [
         "ES - Madrid, Spain"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Consulting & Analytics Summer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1"
     },
@@ -4226,5 +4288,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-10T07:21:54Z"
+  "updated_at": "2026-11-10T19:50:21Z"
 }
