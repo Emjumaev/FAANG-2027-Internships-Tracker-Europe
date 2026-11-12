@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-12 15:17:58 UTC** · 📌 **163** open internships
+> 🕐 Last updated: **2026-11-12 23:44:38 UTC** · 📌 **163** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -21,7 +21,7 @@ API every 6 hours by GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 39 |
 | Anthropic | — |
-| [Apple](#apple) | 19 |
+| [Apple](#apple) | 16 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
 | Cloudflare | — |
@@ -30,8 +30,8 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 9 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 4 |
-| [Intel](#intel) | 16 |
+| [IBM](#ibm) | 6 |
+| [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 23 |
@@ -71,6 +71,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [2027 Software Dev Engineer Intern - Finland](https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland) 🆕 | Software | — | Tampere, West and Inner Finland, FIN | 2026-11-12 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) 🆕 | Data | — | Luxembourg, LUX | 2026-11-11 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) 🆕 | Data | — | London, England, GBR | 2026-11-11 |
 | [Applied Scientist Intern - VLA and DATA, RIVR](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) 🆕 | AI/ML | — | Zurich, Zurich, CHE | 2026-11-10 |
@@ -84,7 +85,6 @@ API every 6 hours by GitHub Actions.
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | PhD | Bucharest, ROU | 2026-10-21 |
 | [Business Intelligence Intern Spain](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) | Data | — | Madrid, Community of Madrid, ESP | 2026-10-19 |
 | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | Data | — | Milan, Lombardy, ITA | 2026-10-15 |
-| [Business Intelligence Engineer Internship Turkey](https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey) | Data | — | Istanbul, TUR | 2026-10-15 |
 | [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) | Data | — | Clichy, Ile-de-France, FRA | 2026-10-15 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | Security | — | Dublin, IRL | 2026-10-13 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) | Security | — | London, England, GBR | 2026-10-13 |
@@ -121,15 +121,12 @@ API every 6 hours by GitHub Actions.
 | [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) | Security | — | Paris | 2026-11-11 |
 | [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) 🆕 | Backend/Infra | — | London | 2026-11-10 |
 | [Machine Learning Engineering Intern, Personal Agentic Search](https://jobs.apple.com/en-us/details/200694037/machine-learning-engineering-intern-personal-agentic-search) 🆕 | AI/ML | — | Cambridge | 2026-11-10 |
-| [Internship - Software Engineering - AI-Augmented Static Code Analysis](https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis) | AI/ML | — | Munich | 2026-11-05 |
 | [Cellular Baseband Security Research Intern](https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern) 🆕 | Security | — | Paris | 2026-11-05 |
 | [Internship -  Machine Learning Research (recurrent models \| generative models \|  interpretability)](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) | AI/ML | — | Barcelona | 2026-11-02 |
 | [AI Research Intern - Foundation Models & Multimodal Intelligence](https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence) | AI/ML | — | Zurich | 2026-11-02 |
 | [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation) | AI/ML | — | Cambridge | 2026-10-29 |
 | [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation) | AI/ML | — | Aachen | 2026-10-29 |
 | [Research Scientist Intern – Human-Centric Generative AI](https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai) | AI/ML | — | Munich | 2026-10-20 |
-| [Internship - Software Engineering](https://jobs.apple.com/en-us/details/200690139/internship-software-engineering) | Software | — | Munich | 2026-10-20 |
-| [Internship - Software Engineering - On-Demand Agent Provisioning in Cellular Test](https://jobs.apple.com/en-us/details/200689729/internship-software-engineering-on-demand-agent-provisioning-in-cellular-test) | Software | — | Munich | 2026-10-19 |
 | [Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE](https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte) | AI/ML | — | Munich | 2026-10-19 |
 | [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | — | Zurich | 2026-10-13 |
 | [AMS Lab Validation Intern](https://jobs.apple.com/en-us/details/200686742/ams-lab-validation-intern) | QA | — | Munich | 2026-10-01 |
@@ -186,12 +183,15 @@ API every 6 hours by GitHub Actions.
 | [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
 | [Internship: AI Enablement for Embedded Firmware Development (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139192) | AI/ML | — | Ehningen, Germany | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
+| [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) | Backend/Infra | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
+| [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 
 ## Intel
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Software Engineering Undergraduate Intern (f/m/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923) | Software | BS | Germany, Munich | 2026-11-12 |
 | [Software Design Engineer Intern for Physical Design (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937) 🆕 | Software | — | Germany, Munich | 2026-11-06 |
 | [Middleware Software Engineering Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635) 🆕 | Software | — | Germany, Munich | 2026-11-05 |
 | [DevOps Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633) | Backend/Infra | — | Poland, Gdansk | 2026-11-02 |

@@ -543,8 +543,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security"
     },
     "amazon:10579683": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-12",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10579683",
@@ -884,6 +885,21 @@
       "posted": "2026-11-11",
       "title": "Data Engineer Internship",
       "url": "https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship"
+    },
+    "amazon:10603649": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10603649",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "locations": [
+        "Tampere, West and Inner Finland, FIN"
+      ],
+      "posted": "2026-11-12",
+      "title": "2027 Software Dev Engineer Intern - Finland",
+      "url": "https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland"
     },
     "amazon:3072042": {
       "active": false,
@@ -1284,9 +1300,9 @@
       "url": "https://jobs.apple.com/en-us/details/200687171/information-security-internship"
     },
     "apple:200687209": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-21",
+      "closed": "2026-11-12",
       "company": "Apple",
       "degrees": [],
       "external_id": "200687209",
@@ -1347,8 +1363,9 @@
       "url": "https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte"
     },
     "apple:200689729": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-12",
       "company": "Apple",
       "degrees": [],
       "external_id": "200689729",
@@ -1394,8 +1411,9 @@
       "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation"
     },
     "apple:200690139": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-12",
       "company": "Apple",
       "degrees": [],
       "external_id": "200690139",
@@ -2155,14 +2173,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134050"
     },
     "ibm:134679": {
-      "active": false,
+      "active": true,
       "category": "Backend/Infra",
       "closed": "2026-11-06",
       "company": "IBM",
       "degrees": [],
       "external_id": "134679",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-06",
+      "last_seen": "2026-11-12",
       "locations": [
         "Ehningen, Germany"
       ],
@@ -2205,7 +2223,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-12",
       "company": "IBM",
@@ -2527,7 +2545,7 @@
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Compiler-Engineering-Intern_JR0287897"
     },
     "intel:JR0287923": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-10-28",
       "company": "Intel",
@@ -2536,11 +2554,11 @@
       ],
       "external_id": "JR0287923",
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-12",
       "locations": [
         "Germany, Munich"
       ],
-      "posted": "2026-10-09",
+      "posted": "2026-11-12",
       "title": "Software Engineering Undergraduate Intern (f/m/d)",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Germany-Munich/Software-Engineering-Undergraduate-Intern--f-m-d-_JR0287923"
     },
@@ -4522,5 +4540,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-12T15:17:58Z"
+  "updated_at": "2026-11-12T23:44:38Z"
 }
