@@ -1,7 +1,5 @@
 {
   "failed": {
-    "Intel": "request failed after 3 attempts: POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (Expecting value: line 1 column 1 (char 0))",
-    "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
     "Uber": "request failed after 3 attempts: POST https://www.uber.com/api/loadSearchJobsResults?localeCode=en (404 Client Error: Not Found for url: https://www.uber.com/api/loadSearchJobsResults?localeCode=en)"
   },
   "succeeded": [
@@ -19,9 +17,11 @@
     "Google",
     "Hudson River Trading",
     "IBM",
+    "Intel",
     "Jane Street",
     "Mastercard",
     "Meta",
+    "Microsoft",
     "NVIDIA",
     "Netflix",
     "OpenAI",

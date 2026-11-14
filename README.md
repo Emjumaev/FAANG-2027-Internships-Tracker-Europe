@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-14 18:05:07 UTC** · 📌 **162** open internships
+> 🕐 Last updated: **2026-11-14 22:28:05 UTC** · 📌 **162** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -240,7 +240,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557044053) 🆕 | Software | — | Finland, Satakunta, Tampere | 2026-11-10 |
+| [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) 🆕 | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-11-11 |
 | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) 🆕 | Backend/Infra | — | Netherlands, Noord-Holland, Schiphol | 2026-11-09 |
 | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) 🆕 | Backend/Infra | — | Germany, Multiple Locations, Multiple Locations | 2026-11-09 |
 | [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557038773) | Software | — | Ireland, Dublin, Dublin | 2026-11-08 |
