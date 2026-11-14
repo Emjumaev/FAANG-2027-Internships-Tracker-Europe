@@ -7,7 +7,7 @@
       "degrees": [],
       "external_id": "R172468",
       "first_seen": "2026-11-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Bucharest"
       ],
@@ -22,7 +22,7 @@
       "degrees": [],
       "external_id": "R173015",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Basel"
       ],
@@ -37,7 +37,7 @@
       "degrees": [],
       "external_id": "R173018",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Bucharest"
       ],
@@ -52,7 +52,7 @@
       "degrees": [],
       "external_id": "R173345",
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "London"
       ],
@@ -2255,9 +2255,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135502"
     },
     "ibm:137019": {
-      "active": true,
+      "active": false,
       "category": "Data",
-      "closed": "2026-11-07",
+      "closed": "2026-11-14",
       "company": "IBM",
       "degrees": [],
       "external_id": "137019",
@@ -3775,7 +3775,7 @@
       ],
       "external_id": "JR2024606",
       "first_seen": "2026-09-28",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -3791,7 +3791,7 @@
       "degrees": [],
       "external_id": "JR2026517",
       "first_seen": "2026-10-28",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Warsaw"
       ],
@@ -3806,7 +3806,7 @@
       "degrees": [],
       "external_id": "JR2027025",
       "first_seen": "2026-10-20",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -3839,7 +3839,7 @@
       ],
       "external_id": "JR2027294",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -3872,7 +3872,7 @@
       ],
       "external_id": "JR2027531",
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -3888,7 +3888,7 @@
       "degrees": [],
       "external_id": "JR2027826",
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Poland, Warsaw"
       ],
@@ -3935,7 +3935,7 @@
       "degrees": [],
       "external_id": "JR2028597",
       "first_seen": "2026-10-26",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -3950,7 +3950,7 @@
       "degrees": [],
       "external_id": "JR2029066",
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -3965,7 +3965,7 @@
       "degrees": [],
       "external_id": "JR2029069",
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -3996,7 +3996,7 @@
       "degrees": [],
       "external_id": "JR2029779",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Switzerland, Zurich"
       ],
@@ -4011,7 +4011,7 @@
       "degrees": [],
       "external_id": "JR2029780",
       "first_seen": "2026-11-11",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "Finland, Helsinki"
       ],
@@ -4365,7 +4365,7 @@
       "degrees": [],
       "external_id": "REF089917W",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "ES - Madrid, Spain"
       ],
@@ -4380,7 +4380,7 @@
       "degrees": [],
       "external_id": "REF090466W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "GB - Reading, United Kingdom"
       ],
@@ -4395,7 +4395,7 @@
       "degrees": [],
       "external_id": "REF090467W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "GB - Cambridge, United Kingdom"
       ],
@@ -4410,7 +4410,7 @@
       "degrees": [],
       "external_id": "REF090469W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13",
+      "last_seen": "2026-11-14",
       "locations": [
         "GB - London, United Kingdom"
       ],
@@ -4557,5 +4557,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-14T06:24:39Z"
+  "updated_at": "2026-11-14T18:05:07Z"
 }
