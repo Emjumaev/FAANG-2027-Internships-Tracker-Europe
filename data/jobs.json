@@ -558,14 +558,14 @@
       "url": "https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security"
     },
     "amazon:10579683": {
-      "active": false,
+      "active": true,
       "category": "Data",
       "closed": "2026-11-12",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10579683",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-12",
+      "last_seen": "2026-11-16",
       "locations": [
         "Istanbul, TUR"
       ],
@@ -1608,6 +1608,21 @@
       "title": "Internship - Pro Apps Machine Learning Ecosystem Engineer",
       "url": "https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer"
     },
+    "apple:200694900": {
+      "active": true,
+      "category": "Security",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200694900",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-16",
+      "locations": [
+        "Paris"
+      ],
+      "posted": "2026-11-16",
+      "title": "Defensive AI Security Intern",
+      "url": "https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern"
+    },
     "cisco:2005347": {
       "active": false,
       "category": "AI/ML",
@@ -2031,8 +2046,9 @@
       "url": "https://www.google.com/about/careers/applications/jobs/results/83199557986329286"
     },
     "google:84561862556820166": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-16",
       "company": "Google",
       "degrees": [
         "MS"
@@ -4574,5 +4590,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-16T06:30:35Z"
+  "updated_at": "2026-11-16T22:04:29Z"
 }

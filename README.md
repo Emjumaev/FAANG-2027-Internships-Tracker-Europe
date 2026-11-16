@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-16 06:30:35 UTC** · 📌 **161** open internships
+> 🕐 Last updated: **2026-11-16 22:04:29 UTC** · 📌 **162** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -19,16 +19,16 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 4 |
 | Airbnb | — |
-| [Amazon](#amazon) | 39 |
+| [Amazon](#amazon) | 40 |
 | Anthropic | — |
-| [Apple](#apple) | 15 |
+| [Apple](#apple) | 16 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
 | Cloudflare | — |
 | [Databricks](#databricks) | 5 |
 | [Figma](#figma) | 1 |
 | GitHub | — |
-| [Google](#google) | 9 |
+| [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
 | [IBM](#ibm) | 5 |
 | [Intel](#intel) | 17 |
@@ -86,6 +86,7 @@ API every 6 hours by GitHub Actions.
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10585292/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | PhD | Bucharest, ROU | 2026-10-21 |
 | [Business Intelligence Intern Spain](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) | Data | — | Madrid, Community of Madrid, ESP | 2026-10-19 |
 | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | Data | — | Milan, Lombardy, ITA | 2026-10-15 |
+| [Business Intelligence Engineer Internship Turkey](https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey) | Data | — | Istanbul, TUR | 2026-10-15 |
 | [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) | Data | — | Clichy, Ile-de-France, FRA | 2026-10-15 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | Security | — | Dublin, IRL | 2026-10-13 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) | Security | — | London, England, GBR | 2026-10-13 |
@@ -116,6 +117,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Defensive AI Security Intern](https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern) 🆕 | Security | — | Paris | 2026-11-16 |
 | [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) 🆕 | Software | — | Prague | 2026-11-12 |
 | [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) 🆕 | AI/ML | — | London | 2026-11-12 |
 | [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) 🆕 | Software | — | Cambridge | 2026-11-12 |
@@ -160,7 +162,6 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Student Researcher, 2027](https://www.google.com/about/careers/applications/jobs/results/86733690079453894) | AI/ML | — | Accra, Ghana; Amsterdam, Netherlands; Berlin, Germany *(+6 more)* | 2026-10-05 |
-| [Data Scientist Product MS Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/84561862556820166) | Data | MS | Zürich, Switzerland | 2026-10-02 |
 | [Data Science PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/74389446190867142) | Data | PhD | Warsaw, Poland | 2026-09-03 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/93078491720753862) | Software | PhD | Zürich, Switzerland | 2026-08-18 |
 | [Software Engineering PhD Intern, 2027](https://www.google.com/about/careers/applications/jobs/results/107087730147500742) | Software | PhD | Kraków, Poland; Warsaw, Poland | 2026-08-17 |
