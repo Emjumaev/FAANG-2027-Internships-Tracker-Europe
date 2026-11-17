@@ -1188,9 +1188,9 @@
       "url": "https://jobs.apple.com/en-us/details/200683768/internship-machine-learning-research"
     },
     "apple:200685035": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-10-07",
+      "closed": "2026-11-17",
       "company": "Apple",
       "degrees": [],
       "external_id": "200685035",
@@ -1620,8 +1620,23 @@
         "Paris"
       ],
       "posted": "2026-11-16",
-      "title": "Defensive AI Security Intern",
-      "url": "https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern"
+      "title": "Defensive AI Security Intern - Paris, France",
+      "url": "https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern-paris-france"
+    },
+    "apple:200695155": {
+      "active": true,
+      "category": "QA",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200695155",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-11-17",
+      "title": "QA Automation Test Engineering Intern - Dublin, Ireland",
+      "url": "https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland"
     },
     "cisco:2005347": {
       "active": false,
@@ -3496,8 +3511,9 @@
       "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387"
     },
     "microsoft:1970393557002254": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-17",
       "company": "Microsoft",
       "degrees": [],
       "external_id": "1970393557002254",
@@ -4406,6 +4422,36 @@
       "title": "Data Science Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1"
     },
+    "visa:REF089625W": {
+      "active": true,
+      "category": "Data",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089625W",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "locations": [
+        "DE - Frankfurt, Germany"
+      ],
+      "posted": "2026-11-17",
+      "title": "Consulting & Analytics Summer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2"
+    },
+    "visa:REF089675W": {
+      "active": true,
+      "category": "Software",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089675W",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "locations": [
+        "PL - Warsaw, Poland"
+      ],
+      "posted": "2026-11-17",
+      "title": "Software Engineer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2"
+    },
     "visa:REF089917W": {
       "active": true,
       "category": "Data",
@@ -4413,11 +4459,11 @@
       "degrees": [],
       "external_id": "REF089917W",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "locations": [
         "ES - Madrid, Spain"
       ],
-      "posted": "2026-10-29",
+      "posted": "2026-10-28",
       "title": "Consulting & Analytics Summer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1"
     },
@@ -4428,11 +4474,11 @@
       "degrees": [],
       "external_id": "REF090466W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "locations": [
         "GB - Reading, United Kingdom"
       ],
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "title": "Software Engineer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W"
     },
@@ -4443,17 +4489,18 @@
       "degrees": [],
       "external_id": "REF090467W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
+      "last_seen": "2026-11-17",
       "locations": [
         "GB - Cambridge, United Kingdom"
       ],
-      "posted": "2026-11-13",
+      "posted": "2026-11-12",
       "title": "Software Engineer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1"
     },
     "visa:REF090469W": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-17",
       "company": "Visa",
       "degrees": [],
       "external_id": "REF090469W",
@@ -4605,5 +4652,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-17T07:57:48Z"
+  "updated_at": "2026-11-17T20:58:13Z"
 }

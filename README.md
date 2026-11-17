@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-17 07:57:48 UTC** · 📌 **163** open internships
+> 🕐 Last updated: **2026-11-17 20:58:13 UTC** · 📌 **163** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -35,7 +35,7 @@ API every 6 hours by GitHub Actions.
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 23 |
-| [Microsoft](#microsoft) | 6 |
+| [Microsoft](#microsoft) | 5 |
 | [NVIDIA](#nvidia) | 11 |
 | Netflix | — |
 | OpenAI | — |
@@ -49,7 +49,7 @@ API every 6 hours by GitHub Actions.
 | Spotify | — |
 | [Stripe](#stripe) | 3 |
 | Uber | — |
-| [Visa](#visa) | 4 |
+| [Visa](#visa) | 5 |
 | [Waymo](#waymo) | 4 |
 | Wise | — |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
@@ -117,7 +117,8 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Defensive AI Security Intern](https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern) 🆕 | Security | — | Paris | 2026-11-16 |
+| [QA Automation Test Engineering Intern - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland) 🆕 | QA | — | Dublin | 2026-11-17 |
+| [Defensive AI Security Intern - Paris, France](https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern-paris-france) 🆕 | Security | — | Paris | 2026-11-16 |
 | [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) 🆕 | Software | — | Prague | 2026-11-12 |
 | [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) 🆕 | AI/ML | — | London | 2026-11-12 |
 | [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) 🆕 | Software | — | Cambridge | 2026-11-12 |
@@ -131,7 +132,6 @@ API every 6 hours by GitHub Actions.
 | [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation) | AI/ML | — | Aachen | 2026-10-29 |
 | [Research Scientist Intern – Human-Centric Generative AI](https://jobs.apple.com/en-us/details/200690377/research-scientist-intern-human-centric-generative-ai) | AI/ML | — | Munich | 2026-10-20 |
 | [Internship - Software Engineering - AI-Assisted Baseband Debugging Evaluation, WTE](https://jobs.apple.com/en-us/details/200689711/internship-software-engineering-ai-assisted-baseband-debugging-evaluation-wte) | AI/ML | — | Munich | 2026-10-19 |
-| [Internship - Machine Learning (Foundation Models)](https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models) | AI/ML | — | Zurich | 2026-10-13 |
 | [GPU Internships - Architecture Validation, Performance Modelling & Platform Architecture](https://jobs.apple.com/en-us/details/200682357/gpu-internships-architecture-validation-performance-modelling-platform-architecture) | QA | — | London | 2026-09-08 |
 
 ## Cisco
@@ -241,7 +241,6 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Data Engineering Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557002254) 🆕 | Data | — | Ireland, Dublin, Dublin | 2026-11-16 |
 | [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) 🆕 | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-11-11 |
 | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) 🆕 | Backend/Infra | — | Netherlands, Noord-Holland, Schiphol | 2026-11-09 |
 | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) 🆕 | Backend/Infra | — | Germany, Multiple Locations, Multiple Locations | 2026-11-09 |
@@ -303,10 +302,11 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) 🆕 | Software | — | GB - Reading, United Kingdom | 2026-11-13 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) 🆕 | Software | — | GB - Cambridge, United Kingdom | 2026-11-13 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/Software-Engineer-Intern_REF090469W-1) 🆕 | Software | — | GB - London, United Kingdom | 2026-11-13 |
-| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1) | Data | — | ES - Madrid, Spain | 2026-10-29 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2) 🆕 | Software | — | PL - Warsaw, Poland | 2026-11-17 |
+| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) 🆕 | Data | — | DE - Frankfurt, Germany | 2026-11-17 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) 🆕 | Software | — | GB - Reading, United Kingdom | 2026-11-12 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) 🆕 | Software | — | GB - Cambridge, United Kingdom | 2026-11-12 |
+| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1) | Data | — | ES - Madrid, Spain | 2026-10-28 |
 
 ## Waymo
 
