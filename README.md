@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-17 20:58:13 UTC** · 📌 **163** open internships
+> 🕐 Last updated: **2026-11-18 07:29:29 UTC** · 📌 **163** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -75,7 +75,7 @@ API every 6 hours by GitHub Actions.
 | [2027 Software Dev Engineer Intern - Finland](https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland) 🆕 | Software | — | Tampere, West and Inner Finland, FIN | 2026-11-12 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) 🆕 | Data | — | Luxembourg, LUX | 2026-11-11 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) 🆕 | Data | — | London, England, GBR | 2026-11-11 |
-| [Applied Scientist Intern - VLA and DATA, RIVR](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) 🆕 | AI/ML | — | Zurich, Zurich, CHE | 2026-11-10 |
+| [Applied Scientist Intern - VLA and DATA, RIVR](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) | AI/ML | — | Zurich, Zurich, CHE | 2026-11-10 |
 | [2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition) | AI/ML | MS | Bucharest, ROU | 2026-11-04 |
 | [SLAM / Computer Vision Intern, RIVR](https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr) | AI/ML | — | Zurich, Zurich, CHE | 2026-11-03 |
 | [Business Developer Intern, Early Careers 2027](https://www.amazon.jobs/en/jobs/10593299/business-developer-intern-early-careers-2027) | Software | — | Munich, Bavaria, DEU | 2026-10-30 |
@@ -123,7 +123,7 @@ API every 6 hours by GitHub Actions.
 | [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) 🆕 | AI/ML | — | London | 2026-11-12 |
 | [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) 🆕 | Software | — | Cambridge | 2026-11-12 |
 | [AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR](https://jobs.apple.com/en-us/details/200689695/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear) | Security | — | Paris | 2026-11-11 |
-| [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) 🆕 | Backend/Infra | — | London | 2026-11-10 |
+| [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) | Backend/Infra | — | London | 2026-11-10 |
 | [Machine Learning Engineering Intern, Personal Agentic Search](https://jobs.apple.com/en-us/details/200694037/machine-learning-engineering-intern-personal-agentic-search) 🆕 | AI/ML | — | Cambridge | 2026-11-10 |
 | [Cellular Baseband Security Research Intern](https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern) | Security | — | Paris | 2026-11-05 |
 | [Internship -  Machine Learning Research (recurrent models \| generative models \|  interpretability)](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) | AI/ML | — | Barcelona | 2026-11-02 |
@@ -242,8 +242,8 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) 🆕 | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-11-11 |
-| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) 🆕 | Backend/Infra | — | Netherlands, Noord-Holland, Schiphol | 2026-11-09 |
-| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) 🆕 | Backend/Infra | — | Germany, Multiple Locations, Multiple Locations | 2026-11-09 |
+| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Backend/Infra | — | Netherlands, Noord-Holland, Schiphol | 2026-11-09 |
+| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) | Backend/Infra | — | Germany, Multiple Locations, Multiple Locations | 2026-11-09 |
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-10-30 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | — | Belgium, Brussels Region, Brussels | 2026-09-14 |
 
