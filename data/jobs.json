@@ -902,8 +902,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship"
     },
     "amazon:10603649": {
-      "active": true,
+      "active": false,
       "category": "Software",
+      "closed": "2026-11-18",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10603649",
@@ -915,6 +916,21 @@
       "posted": "2026-11-12",
       "title": "2027 Software Dev Engineer Intern - Finland",
       "url": "https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland"
+    },
+    "amazon:10608081": {
+      "active": true,
+      "category": "Backend/Infra",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10608081",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "locations": [
+        "Amsterdam, North Holland, NLD"
+      ],
+      "posted": "2026-11-18",
+      "title": "Professional Services Cloud Consultant Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern"
     },
     "amazon:3072042": {
       "active": false,
@@ -1348,9 +1364,9 @@
       "url": "https://jobs.apple.com/en-us/details/200689473/software-engineering-intern-apple-services-engineering"
     },
     "apple:200689695": {
-      "active": true,
+      "active": false,
       "category": "Security",
-      "closed": "2026-11-09",
+      "closed": "2026-11-18",
       "company": "Apple",
       "degrees": [],
       "external_id": "200689695",
@@ -1637,6 +1653,21 @@
       "posted": "2026-11-17",
       "title": "QA Automation Test Engineering Intern - Dublin, Ireland",
       "url": "https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland"
+    },
+    "apple:200695667": {
+      "active": true,
+      "category": "Software",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200695667",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "locations": [
+        "Dublin"
+      ],
+      "posted": "2026-11-18",
+      "title": "Software Engineering Intern, Apple Services - Dublin, Ireland",
+      "url": "https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland"
     },
     "cisco:2005347": {
       "active": false,
@@ -4422,6 +4453,21 @@
       "title": "Data Science Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1"
     },
+    "visa:REF089622W": {
+      "active": true,
+      "category": "Data",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF089622W",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "locations": [
+        "NL - Amsterdam, Netherlands"
+      ],
+      "posted": "2026-11-18",
+      "title": "Consulting & Analytics Summer Intern (Dutch Speakers)",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/NL---Amsterdam-Netherlands/Consulting---Analytics-Summer-Intern_REF089622W-2"
+    },
     "visa:REF089625W": {
       "active": true,
       "category": "Data",
@@ -4429,11 +4475,11 @@
       "degrees": [],
       "external_id": "REF089625W",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "DE - Frankfurt, Germany"
       ],
-      "posted": "2026-11-17",
+      "posted": "2026-11-18",
       "title": "Consulting & Analytics Summer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2"
     },
@@ -4444,7 +4490,7 @@
       "degrees": [],
       "external_id": "REF089675W",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "PL - Warsaw, Poland"
       ],
@@ -4459,13 +4505,28 @@
       "degrees": [],
       "external_id": "REF089917W",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "ES - Madrid, Spain"
       ],
       "posted": "2026-10-28",
       "title": "Consulting & Analytics Summer Intern",
       "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1"
+    },
+    "visa:REF090118W": {
+      "active": true,
+      "category": "Data",
+      "company": "Visa",
+      "degrees": [],
+      "external_id": "REF090118W",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "locations": [
+        "PT - Lisbon, Portugal"
+      ],
+      "posted": "2026-11-18",
+      "title": "Consulting & Analytics Summer Intern",
+      "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PT---Lisbon-Portugal/Consulting---Analytics-Summer-Intern_REF090118W-2"
     },
     "visa:REF090466W": {
       "active": true,
@@ -4474,7 +4535,7 @@
       "degrees": [],
       "external_id": "REF090466W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "GB - Reading, United Kingdom"
       ],
@@ -4489,7 +4550,7 @@
       "degrees": [],
       "external_id": "REF090467W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "locations": [
         "GB - Cambridge, United Kingdom"
       ],
@@ -4652,5 +4713,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-18T07:29:29Z"
+  "updated_at": "2026-11-18T20:34:07Z"
 }
