@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-19 07:27:35 UTC** · 📌 **162** open internships
+> 🕐 Last updated: **2026-11-19 20:38:42 UTC** · 📌 **159** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -19,7 +19,7 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 4 |
 | Airbnb | — |
-| [Amazon](#amazon) | 40 |
+| [Amazon](#amazon) | 39 |
 | Anthropic | — |
 | [Apple](#apple) | 16 |
 | Bloomberg | — |
@@ -30,7 +30,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 4 |
+| [IBM](#ibm) | 3 |
 | [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
@@ -50,7 +50,7 @@ API every 6 hours by GitHub Actions.
 | [Stripe](#stripe) | 3 |
 | Uber | — |
 | [Visa](#visa) | 7 |
-| [Waymo](#waymo) | 3 |
+| [Waymo](#waymo) | 2 |
 | Wise | — |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
@@ -72,7 +72,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Professional Services Cloud Consultant Intern](https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern) 🆕 | Backend/Infra | — | Amsterdam, North Holland, NLD | 2026-11-18 |
+| [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg) 🆕 | Data | — | Luxembourg, LUX | 2026-11-19 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) | Data | — | Luxembourg, LUX | 2026-11-11 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) | Data | — | London, England, GBR | 2026-11-11 |
 | [Applied Scientist Intern - VLA and DATA, RIVR](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) | AI/ML | — | Zurich, Zurich, CHE | 2026-11-10 |
@@ -103,7 +103,6 @@ API every 6 hours by GitHub Actions.
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10567744/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | PhD | Madrid, Community of Madrid, ESP | 2026-10-02 |
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567769/physical-security-specialist-intern-2027-internship) | Security | — | Zaragoza, Aragon, ESP | 2026-10-02 |
 | [(Physical) Security Specialist Intern -  2027 Internship](https://www.amazon.jobs/en/jobs/10567818/physical-security-specialist-intern-2027-internship) | Security | — | Paris, Ile-de-France, FRA | 2026-10-02 |
-| [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10557454/business-intelligence-intern-luxembourg) | Data | — | Luxembourg, LUX | 2026-09-23 |
 | [2027 Software Dev Engineer Intern - Spain](https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain) | Software | — | Madrid, Community of Madrid, ESP | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Poland](https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland) | Software | — | Gdansk, Pomeranian Voivodeship, POL | 2026-09-22 |
 | [2027 Software Dev Engineer Intern - Italy](https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy) | Software | — | Turin, Piedmont, ITA | 2026-09-22 |
@@ -181,9 +180,8 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
 | [Internship: AI Enablement for Embedded Firmware Development (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139192) | AI/ML | — | Ehningen, Germany | — |
-| [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) | Backend/Infra | — | Ehningen, Germany | — |
-| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 
 ## Intel
@@ -314,7 +312,6 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|---|
 | [2027 Summer Intern, PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8265868) | AI/ML | PhD | London, England, United Kingdom | 2026-10-13 |
 | [2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)](https://careers.withwaymo.com/jobs?gh_jid=8214729) | Software | BS/MS | Warsaw, Poland | 2026-09-18 |
-| [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) | AI/ML | MS/PhD | London, England, United Kingdom | 2026-09-17 |
 
 
 ---
