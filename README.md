@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-18 20:34:07 UTC** · 📌 **165** open internships
+> 🕐 Last updated: **2026-11-19 07:27:35 UTC** · 📌 **162** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,11 +30,11 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 5 |
+| [IBM](#ibm) | 4 |
 | [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
-| [Meta](#meta) | 23 |
+| [Meta](#meta) | 22 |
 | [Microsoft](#microsoft) | 5 |
 | [NVIDIA](#nvidia) | 11 |
 | Netflix | — |
@@ -50,7 +50,7 @@ API every 6 hours by GitHub Actions.
 | [Stripe](#stripe) | 3 |
 | Uber | — |
 | [Visa](#visa) | 7 |
-| [Waymo](#waymo) | 4 |
+| [Waymo](#waymo) | 3 |
 | Wise | — |
 | Citadel Securities | *no API — entire site behind a Cloudflare browser challenge; needs a headless browser* |
 | LinkedIn | *careers site only links to linkedin.com/jobs, which is authwalled and prohibits scraping* |
@@ -73,8 +73,8 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Professional Services Cloud Consultant Intern](https://www.amazon.jobs/en/jobs/10608081/professional-services-cloud-consultant-intern) 🆕 | Backend/Infra | — | Amsterdam, North Holland, NLD | 2026-11-18 |
-| [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) 🆕 | Data | — | Luxembourg, LUX | 2026-11-11 |
-| [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) 🆕 | Data | — | London, England, GBR | 2026-11-11 |
+| [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) | Data | — | Luxembourg, LUX | 2026-11-11 |
+| [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) | Data | — | London, England, GBR | 2026-11-11 |
 | [Applied Scientist Intern - VLA and DATA, RIVR](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) | AI/ML | — | Zurich, Zurich, CHE | 2026-11-10 |
 | [2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition) | AI/ML | MS | Bucharest, ROU | 2026-11-04 |
 | [SLAM / Computer Vision Intern, RIVR](https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr) | AI/ML | — | Zurich, Zurich, CHE | 2026-11-03 |
@@ -124,7 +124,7 @@ API every 6 hours by GitHub Actions.
 | [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) 🆕 | AI/ML | — | London | 2026-11-12 |
 | [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) 🆕 | Software | — | Cambridge | 2026-11-12 |
 | [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) | Backend/Infra | — | London | 2026-11-10 |
-| [Machine Learning Engineering Intern, Personal Agentic Search](https://jobs.apple.com/en-us/details/200694037/machine-learning-engineering-intern-personal-agentic-search) 🆕 | AI/ML | — | Cambridge | 2026-11-10 |
+| [Machine Learning Engineering Intern, Personal Agentic Search](https://jobs.apple.com/en-us/details/200694037/machine-learning-engineering-intern-personal-agentic-search) | AI/ML | — | Cambridge | 2026-11-10 |
 | [Cellular Baseband Security Research Intern](https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern) | Security | — | Paris | 2026-11-05 |
 | [Internship -  Machine Learning Research (recurrent models \| generative models \|  interpretability)](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) | AI/ML | — | Barcelona | 2026-11-02 |
 | [AI Research Intern - Foundation Models & Multimodal Intelligence](https://jobs.apple.com/en-us/details/200692868/ai-research-intern-foundation-models-multimodal-intelligence) | AI/ML | — | Zurich | 2026-11-02 |
@@ -181,7 +181,6 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
 | [Internship: AI Enablement for Embedded Firmware Development (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139192) | AI/ML | — | Ehningen, Germany | — |
 | [Quantum Software Intern - Backend Execution Environment for Quantum Workloads - 2027 (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134679) | Backend/Infra | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
@@ -219,7 +218,6 @@ API every 6 hours by GitHub Actions.
 | [Research Scientist Intern, Generative AI & Computational Photography (PhD)](https://www.metacareers.com/jobs/2572072169967580) | AI/ML | PhD | Burlingame, CA; Cambridge, MA; Redmond, WA *(+1 more)* | — |
 | [Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)](https://www.metacareers.com/jobs/1165781989214784) | AI/ML | PhD | Zurich, Switzerland | — |
 | [Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)](https://www.metacareers.com/jobs/1886852912490515) | AI/ML | PhD | Zurich, Switzerland | — |
-| [Research Scientist Intern, AI Core Machine Learning (MSc)](https://www.metacareers.com/jobs/1126525590244595) | AI/ML | MS | Paris, France | — |
 | [Research Scientist Intern, Muse RL and Agents Team (PhD)](https://www.metacareers.com/jobs/2082008865811696) | AI/ML | PhD | London, UK; Zurich, Switzerland | — |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/1847186939636437) | AI/ML | PhD | London, UK | — |
 | [Research Scientist Intern, AI Core Machine Learning (PhD)](https://www.metacareers.com/jobs/969100159096154) | AI/ML | PhD | Paris, France | — |
@@ -251,8 +249,8 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [System Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780) 🆕 | Software | — | Finland, Helsinki | 2026-11-12 |
-| [GPU Compiler Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779) 🆕 | Backend/Infra | — | Switzerland, Zurich | 2026-11-12 |
+| [System Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780) | Software | — | Finland, Helsinki | 2026-11-12 |
+| [GPU Compiler Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779) | Backend/Infra | — | Switzerland, Zurich | 2026-11-12 |
 | [Software Engineering Intern, Physics Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066) | Software | — | Switzerland, Zurich | 2026-11-06 |
 | [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069) | AI/ML | — | Switzerland, Zurich | 2026-11-04 |
 | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) | Data | — | Poland, Warsaw | 2026-11-01 |
@@ -285,8 +283,8 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineer Intern - Zurich (2027)](https://careers.snowflake.com/us/en/job/a92a900c-56c2-4cf6-8c2e-fcd183a84e58) | Software | — | Zurich, Switzerland | 2026-11-13 |
-| [Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)](https://careers.snowflake.com/us/en/job/1181b78f-cef2-4078-970f-ebdf96fbeca5) 🆕 | Backend/Infra | — | Warsaw, Poland | 2026-11-11 |
-| [Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)](https://careers.snowflake.com/us/en/job/e8e69bfe-22b4-4abe-b2cb-f60a73f190d5) 🆕 | Data | — | Warsaw, Poland | 2026-11-11 |
+| [Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)](https://careers.snowflake.com/us/en/job/1181b78f-cef2-4078-970f-ebdf96fbeca5) | Backend/Infra | — | Warsaw, Poland | 2026-11-11 |
+| [Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)](https://careers.snowflake.com/us/en/job/e8e69bfe-22b4-4abe-b2cb-f60a73f190d5) | Data | — | Warsaw, Poland | 2026-11-11 |
 | [Software Engineer Intern AI/ML - Warsaw (2027)](https://careers.snowflake.com/us/en/job/e11c70eb-0800-4363-b609-264610878dce) | AI/ML | — | Warsaw, Poland | 2026-10-12 |
 | [Software Engineer Intern - Berlin (2027)](https://careers.snowflake.com/us/en/job/36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e) | Software | — | Berlin, Germany | 2026-09-29 |
 
@@ -315,7 +313,6 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [2027 Summer Intern, PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8265868) | AI/ML | PhD | London, England, United Kingdom | 2026-10-13 |
-| [2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure](https://careers.withwaymo.com/jobs?gh_jid=8205680) | AI/ML | MS/PhD | London, England, United Kingdom | 2026-09-18 |
 | [2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)](https://careers.withwaymo.com/jobs?gh_jid=8214729) | Software | BS/MS | Warsaw, Poland | 2026-09-18 |
 | [2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=8208465) | AI/ML | MS/PhD | London, England, United Kingdom | 2026-09-17 |
 
