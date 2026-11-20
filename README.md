@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-19 20:38:42 UTC** · 📌 **159** open internships
+> 🕐 Last updated: **2026-11-20 07:17:45 UTC** · 📌 **160** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,7 +30,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 3 |
+| [IBM](#ibm) | 4 |
 | [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
@@ -119,9 +119,9 @@ API every 6 hours by GitHub Actions.
 | [Software Engineering Intern, Apple Services - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland) 🆕 | Software | — | Dublin | 2026-11-18 |
 | [QA Automation Test Engineering Intern - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland) 🆕 | QA | — | Dublin | 2026-11-17 |
 | [Defensive AI Security Intern - Paris, France](https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern-paris-france) 🆕 | Security | — | Paris | 2026-11-16 |
-| [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) 🆕 | Software | — | Prague | 2026-11-12 |
-| [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) 🆕 | AI/ML | — | London | 2026-11-12 |
-| [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) 🆕 | Software | — | Cambridge | 2026-11-12 |
+| [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) | Software | — | Prague | 2026-11-12 |
+| [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) | AI/ML | — | London | 2026-11-12 |
+| [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) | Software | — | Cambridge | 2026-11-12 |
 | [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) | Backend/Infra | — | London | 2026-11-10 |
 | [Machine Learning Engineering Intern, Personal Agentic Search](https://jobs.apple.com/en-us/details/200694037/machine-learning-engineering-intern-personal-agentic-search) | AI/ML | — | Cambridge | 2026-11-10 |
 | [Cellular Baseband Security Research Intern](https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern) | Security | — | Paris | 2026-11-05 |
@@ -182,6 +182,7 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|---|
 | [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
 | [Internship: AI Enablement for Embedded Firmware Development (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139192) | AI/ML | — | Ehningen, Germany | — |
+| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 
 ## Intel
@@ -210,8 +211,8 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Research Scientist Intern, Generative AI & 3D Generation (PhD)](https://www.metacareers.com/jobs/1414858330673000) 🆕 | AI/ML | PhD | Zurich, Switzerland | — |
-| [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/1382697917119311) 🆕 | AI/ML | PhD | Cambridge, UK | — |
+| [Research Scientist Intern, Generative AI & 3D Generation (PhD)](https://www.metacareers.com/jobs/1414858330673000) | AI/ML | PhD | Zurich, Switzerland | — |
+| [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/1382697917119311) | AI/ML | PhD | Cambridge, UK | — |
 | [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1139996808441103) | AI/ML | PhD | London, UK; Zurich, Switzerland | — |
 | [Research Scientist Intern, Generative AI & Computational Photography (PhD)](https://www.metacareers.com/jobs/2572072169967580) | AI/ML | PhD | Burlingame, CA; Cambridge, MA; Redmond, WA *(+1 more)* | — |
 | [Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)](https://www.metacareers.com/jobs/1165781989214784) | AI/ML | PhD | Zurich, Switzerland | — |
@@ -302,8 +303,8 @@ API every 6 hours by GitHub Actions.
 | [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) 🆕 | Data | — | DE - Frankfurt, Germany | 2026-11-18 |
 | [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PT---Lisbon-Portugal/Consulting---Analytics-Summer-Intern_REF090118W-2) 🆕 | Data | — | PT - Lisbon, Portugal | 2026-11-18 |
 | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2) 🆕 | Software | — | PL - Warsaw, Poland | 2026-11-17 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) 🆕 | Software | — | GB - Reading, United Kingdom | 2026-11-12 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) 🆕 | Software | — | GB - Cambridge, United Kingdom | 2026-11-12 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) | Software | — | GB - Reading, United Kingdom | 2026-11-12 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) | Software | — | GB - Cambridge, United Kingdom | 2026-11-12 |
 | [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1) | Data | — | ES - Madrid, Spain | 2026-10-28 |
 
 ## Waymo
