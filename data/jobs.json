@@ -2252,14 +2252,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=133042"
     },
     "ibm:134050": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "134050",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "locations": [
         "Ehningen, Germany"
       ],
@@ -2300,7 +2300,7 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=134827"
     },
     "ibm:135456": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-21",
       "company": "IBM",
@@ -2309,7 +2309,7 @@
       ],
       "external_id": "135456",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-20",
+      "last_seen": "2026-11-21",
       "locations": [
         "Ehningen, Germany"
       ],
@@ -2318,9 +2318,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-12",
+      "closed": "2026-11-21",
       "company": "IBM",
       "degrees": [],
       "external_id": "135502",
@@ -4780,5 +4780,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-21T07:08:30Z"
+  "updated_at": "2026-11-21T19:19:11Z"
 }
