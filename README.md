@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-20 20:18:33 UTC** · 📌 **163** open internships
+> 🕐 Last updated: **2026-11-21 07:08:30 UTC** · 📌 **162** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,7 +30,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 6 |
+| [IBM](#ibm) | 5 |
 | [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
@@ -63,7 +63,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [2027 Intern - Research Scientist](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) 🆕 | AI/ML | — | London | 2026-11-14 |
+| [2027 Intern - Research Scientist](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345) | AI/ML | — | London | 2026-11-14 |
 | [2027 Intern- Security Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Security-Engineer_R172468) | Security | — | Bucharest | 2026-11-10 |
 | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015) | Software | — | Basel | 2026-10-31 |
 | [2027 Intern- Software Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018) | Software | — | Bucharest | 2026-10-31 |
@@ -182,9 +182,8 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|---|
 | [IBM internship Cloud Fullstack](https://careers.ibm.com/careers/JobDetail?jobId=145216) 🆕 | Backend/Infra | — | Bucharest, Romania | — |
 | [IBM Internship Oracle Application Developer](https://careers.ibm.com/careers/JobDetail?jobId=145236) 🆕 | Software | — | Bucharest, Romania | — |
+| [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
-| [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
-| [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
 | [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 
 ## Intel
