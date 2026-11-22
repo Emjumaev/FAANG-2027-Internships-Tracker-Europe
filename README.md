@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-21 19:19:11 UTC** · 📌 **163** open internships
+> 🕐 Last updated: **2026-11-22 06:49:20 UTC** · 📌 **164** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,7 +30,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 6 |
+| [IBM](#ibm) | 7 |
 | [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
@@ -186,6 +186,7 @@ API every 6 hours by GitHub Actions.
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
+| [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 
 ## Intel
 
@@ -241,7 +242,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
-| [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) 🆕 | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-11-11 |
+| [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-11-11 |
 | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Backend/Infra | — | Netherlands, Noord-Holland, Schiphol | 2026-11-09 |
 | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) | Backend/Infra | — | Germany, Multiple Locations, Multiple Locations | 2026-11-09 |
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-10-30 |

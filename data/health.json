@@ -2,7 +2,7 @@
   "failed": {
     "Adobe": "request failed after 3 attempts: POST https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs (HTTP 429)",
     "Intel": "request failed after 3 attempts: POST https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs (HTTP 429)",
-    "Mastercard": "request failed after 3 attempts: POST https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs (HTTP 429)",
+    "Meta": "meta graphql response missing all_jobs (doc_id likely rotated): {'errors': [{'message': 'A server error missing_required_variable_value occured. Check server logs for details.', 'severity': 'CRITICAL', 'mids': ['5dd0881ecb3d703975bbf8a467d8d257'], 'debug_link': 'h",
     "Microsoft": "request failed after 3 attempts: GET https://apply.careers.microsoft.com/api/pcsx/search (HTTP 429)",
     "NVIDIA": "request failed after 3 attempts: POST https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs (HTTP 429)",
     "PayPal": "request failed after 3 attempts: POST https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs (HTTP 429)",
@@ -26,7 +26,7 @@
     "Hudson River Trading",
     "IBM",
     "Jane Street",
-    "Meta",
+    "Mastercard",
     "Netflix",
     "OpenAI",
     "Oracle",
