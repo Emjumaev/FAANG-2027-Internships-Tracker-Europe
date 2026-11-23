@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-23 07:39:23 UTC** · 📌 **164** open internships
+> 🕐 Last updated: **2026-11-23 23:56:25 UTC** · 📌 **163** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -21,7 +21,7 @@ API every 6 hours by GitHub Actions.
 | Airbnb | — |
 | [Amazon](#amazon) | 39 |
 | Anthropic | — |
-| [Apple](#apple) | 16 |
+| [Apple](#apple) | 14 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
 | Cloudflare | — |
@@ -30,16 +30,16 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 7 |
+| [IBM](#ibm) | 6 |
 | [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
-| [Meta](#meta) | 23 |
+| [Meta](#meta) | 24 |
 | [Microsoft](#microsoft) | 5 |
 | [NVIDIA](#nvidia) | 11 |
 | Netflix | — |
 | OpenAI | — |
-| Oracle | — |
+| [Oracle](#oracle) | 1 |
 | PayPal | — |
 | [Perplexity AI](#perplexity-ai) | 3 |
 | [Pinterest](#pinterest) | 4 |
@@ -117,8 +117,6 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Software Engineering Intern, Apple Services - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland) 🆕 | Software | — | Dublin | 2026-11-18 |
-| [QA Automation Test Engineering Intern - Dublin, Ireland](https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland) 🆕 | QA | — | Dublin | 2026-11-17 |
-| [Defensive AI Security Intern - Paris, France](https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern-paris-france) 🆕 | Security | — | Paris | 2026-11-16 |
 | [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) | Software | — | Prague | 2026-11-12 |
 | [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) | AI/ML | — | London | 2026-11-12 |
 | [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) | Software | — | Cambridge | 2026-11-12 |
@@ -182,7 +180,6 @@ API every 6 hours by GitHub Actions.
 |---|---|---|---|---|---|
 | [IBM internship Cloud Fullstack](https://careers.ibm.com/careers/JobDetail?jobId=145216) 🆕 | Backend/Infra | — | Bucharest, Romania | — |
 | [IBM Internship Oracle Application Developer](https://careers.ibm.com/careers/JobDetail?jobId=145236) 🆕 | Software | — | Bucharest, Romania | — |
-| [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
@@ -214,6 +211,7 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Research Scientist Intern, uLED Display Characterization (PhD)](https://www.metacareers.com/jobs/1296888565955935) 🆕 | AI/ML | PhD | Cork, Ireland | — |
 | [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/1122232790428355) 🆕 | AI/ML | PhD | London, UK | — |
 | [Research Scientist Intern, Generative AI & 3D Generation (PhD)](https://www.metacareers.com/jobs/1414858330673000) | AI/ML | PhD | Zurich, Switzerland | — |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/1382697917119311) | AI/ML | PhD | Cambridge, UK | — |
@@ -263,6 +261,12 @@ API every 6 hours by GitHub Actions.
 | [Robotics Simulation and Evaluation PhD Intern - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Robotics-Simulation-and-Evaluation-PhD-Intern---Summer-2027_JR2027531) | AI/ML | PhD | Switzerland, Zurich | 2026-10-10 |
 | [PhD Research Intern, Robotics - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Robotics---Summer-2027_JR2027294) | AI/ML | PhD | Switzerland, Zurich | 2026-10-10 |
 | [PhD Research Intern, Autonomous Systems and Physical AI Research - 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024606-1) | AI/ML | PhD | Switzerland, Zurich | 2026-09-29 |
+
+## Oracle
+
+| Role | Category | Degree | Location | Posted | First seen |
+|---|---|---|---|---|---|
+| [Intern as Software Engineer - part time](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/351109) 🆕 | Software | — | BRNO, Czech Republic | 2026-11-23 |
 
 ## Perplexity AI
 

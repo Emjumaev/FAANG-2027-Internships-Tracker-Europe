@@ -1642,8 +1642,9 @@
       "url": "https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer"
     },
     "apple:200694900": {
-      "active": true,
+      "active": false,
       "category": "Security",
+      "closed": "2026-11-23",
       "company": "Apple",
       "degrees": [],
       "external_id": "200694900",
@@ -1657,8 +1658,9 @@
       "url": "https://jobs.apple.com/en-us/details/200694900/defensive-ai-security-intern-paris-france"
     },
     "apple:200695155": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-11-23",
       "company": "Apple",
       "degrees": [],
       "external_id": "200695155",
@@ -2382,9 +2384,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138755"
     },
     "ibm:138790": {
-      "active": true,
+      "active": false,
       "category": "Backend/Infra",
-      "closed": "2026-11-22",
+      "closed": "2026-11-23",
       "company": "IBM",
       "degrees": [
         "MS"
@@ -3044,6 +3046,23 @@
       "posted": null,
       "title": "Research Scientist Intern -GenAI, VLM, FlowMatching, Spatial Understanding (PhD)",
       "url": "https://www.metacareers.com/jobs/1165781989214784"
+    },
+    "meta:1296888565955935": {
+      "active": true,
+      "category": "AI/ML",
+      "company": "Meta",
+      "degrees": [
+        "PhD"
+      ],
+      "external_id": "1296888565955935",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "locations": [
+        "Cork, Ireland"
+      ],
+      "posted": null,
+      "title": "Research Scientist Intern, uLED Display Characterization (PhD)",
+      "url": "https://www.metacareers.com/jobs/1296888565955935"
     },
     "meta:1382697917119311": {
       "active": true,
@@ -4179,6 +4198,21 @@
       "title": "System Software Engineering Intern - 2027",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Finland-Helsinki/System-Software-Engineering-Intern---2027_JR2029780"
     },
+    "oracle:351109": {
+      "active": true,
+      "category": "Software",
+      "company": "Oracle",
+      "degrees": [],
+      "external_id": "351109",
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "locations": [
+        "BRNO, Czech Republic"
+      ],
+      "posted": "2026-11-23",
+      "title": "Intern as Software Engineer - part time",
+      "url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/job/351109"
+    },
     "perplexity-ai:71168628-1998-47d3-87a9-be7bc56a430d": {
       "active": true,
       "category": "AI/ML",
@@ -4780,5 +4814,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-23T07:39:23Z"
+  "updated_at": "2026-11-23T23:56:25Z"
 }
