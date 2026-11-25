@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-24 22:29:14 UTC** · 📌 **168** open internships
+> 🕐 Last updated: **2026-11-25 08:34:43 UTC** · 📌 **169** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,7 +30,7 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 9 |
+| [IBM](#ibm) | 10 |
 | [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
@@ -179,6 +179,7 @@ API every 6 hours by GitHub Actions.
 | [Software Developer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=146219) 🆕 | Software | — | Krakow, Poland | — |
 | [Masterthesis: AI-Driven Performance Analysis of Linux / KVM (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139801) 🆕 | AI/ML | MS | Ehningen, Germany | — |
 | [IBM internship Cloud Fullstack](https://careers.ibm.com/careers/JobDetail?jobId=145216) 🆕 | Backend/Infra | — | Bucharest, Romania | — |
+| [IBM Internship Oracle Application Developer](https://careers.ibm.com/careers/JobDetail?jobId=145236) 🆕 | Software | — | Bucharest, Romania | — |
 | [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
 | [Internship: AI Enablement for Embedded Firmware Development (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139192) | AI/ML | — | Ehningen, Germany | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
@@ -313,9 +314,9 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Consulting & Analytics Summer Intern (Dutch Speakers)](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/NL---Amsterdam-Netherlands/Consulting---Analytics-Summer-Intern_REF089622W-2) 🆕 | Data | — | NL - Amsterdam, Netherlands | 2026-11-18 |
-| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) 🆕 | Data | — | DE - Frankfurt, Germany | 2026-11-18 |
+| [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/DE---Frankfurt-Germany/Consulting---Analytics-Summer-Intern_REF089625W-2) | Data | — | DE - Frankfurt, Germany | 2026-11-18 |
 | [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PT---Lisbon-Portugal/Consulting---Analytics-Summer-Intern_REF090118W-2) 🆕 | Data | — | PT - Lisbon, Portugal | 2026-11-18 |
-| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2) 🆕 | Software | — | PL - Warsaw, Poland | 2026-11-17 |
+| [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/PL---Warsaw-Poland/Software-Engineer-Intern_REF089675W-2) | Software | — | PL - Warsaw, Poland | 2026-11-17 |
 | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) | Software | — | GB - Reading, United Kingdom | 2026-11-12 |
 | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---Cambridge-United-Kingdom/Software-Engineer-Intern_REF090467W-1) | Software | — | GB - Cambridge, United Kingdom | 2026-11-12 |
 | [Consulting & Analytics Summer Intern](https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1) | Data | — | ES - Madrid, Spain | 2026-10-28 |
