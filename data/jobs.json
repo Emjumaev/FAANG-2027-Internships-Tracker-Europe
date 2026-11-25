@@ -337,8 +337,8 @@
         "London, England, GBR"
       ],
       "posted": "2026-10-02",
-      "title": "Business Intelligence Intern London",
-      "url": "https://www.amazon.jobs/en/jobs/10567687/business-intelligence-intern-london"
+      "title": "12 Month - Business Intelligence Intern",
+      "url": "https://www.amazon.jobs/en/jobs/10567687/12-month-business-intelligence-intern"
     },
     "amazon:10567688": {
       "active": true,
@@ -1190,8 +1190,9 @@
       "url": "https://jobs.apple.com/en-us/details/200682229/phy-cellular-firmware-engineer-internship"
     },
     "apple:200682357": {
-      "active": true,
+      "active": false,
       "category": "QA",
+      "closed": "2026-11-25",
       "company": "Apple",
       "degrees": [],
       "external_id": "200682357",
@@ -1675,20 +1676,35 @@
       "url": "https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland"
     },
     "apple:200695667": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-24",
       "company": "Apple",
       "degrees": [],
       "external_id": "200695667",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "locations": [
         "Dublin"
       ],
-      "posted": "2026-11-18",
+      "posted": "2026-11-25",
       "title": "Software Engineering Intern, Apple Services - Dublin, Ireland",
       "url": "https://jobs.apple.com/en-us/details/200695667/software-engineering-intern-apple-services-dublin-ireland"
+    },
+    "apple:200696800": {
+      "active": true,
+      "category": "Data",
+      "company": "Apple",
+      "degrees": [],
+      "external_id": "200696800",
+      "first_seen": "2026-11-25",
+      "last_seen": "2026-11-25",
+      "locations": [
+        "Barcelona"
+      ],
+      "posted": "2026-11-25",
+      "title": "Internship - Agentic Data Generation for High-Fidelity Personal Data, Global Siri",
+      "url": "https://jobs.apple.com/en-us/details/200696800/internship-agentic-data-generation-for-high-fidelity-personal-data-global-siri"
     },
     "cisco:2005347": {
       "active": false,
@@ -2420,9 +2436,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=138998"
     },
     "ibm:139192": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
-      "closed": "2026-11-20",
+      "closed": "2026-11-25",
       "company": "IBM",
       "degrees": [],
       "external_id": "139192",
@@ -4641,7 +4657,7 @@
       "degrees": [],
       "external_id": "REF089622W",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "locations": [
         "NL - Amsterdam, Netherlands"
       ],
@@ -4656,7 +4672,7 @@
       "degrees": [],
       "external_id": "REF089625W",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "locations": [
         "DE - Frankfurt, Germany"
       ],
@@ -4671,7 +4687,7 @@
       "degrees": [],
       "external_id": "REF089675W",
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "locations": [
         "PL - Warsaw, Poland"
       ],
@@ -4686,7 +4702,7 @@
       "degrees": [],
       "external_id": "REF089917W",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "locations": [
         "ES - Madrid, Spain"
       ],
@@ -4701,7 +4717,7 @@
       "degrees": [],
       "external_id": "REF090118W",
       "first_seen": "2026-11-18",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "locations": [
         "PT - Lisbon, Portugal"
       ],
@@ -4716,7 +4732,7 @@
       "degrees": [],
       "external_id": "REF090466W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "locations": [
         "GB - Reading, United Kingdom"
       ],
@@ -4731,7 +4747,7 @@
       "degrees": [],
       "external_id": "REF090467W",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-24",
+      "last_seen": "2026-11-25",
       "locations": [
         "GB - Cambridge, United Kingdom"
       ],
@@ -4896,5 +4912,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-25T08:34:43Z"
+  "updated_at": "2026-11-25T21:45:22Z"
 }
