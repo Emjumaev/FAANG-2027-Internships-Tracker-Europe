@@ -123,6 +123,21 @@
       "title": "2026 Software Dev Engineer Intern - Spain",
       "url": "https://www.amazon.jobs/en/jobs/10531760/2026-software-dev-engineer-intern-spain"
     },
+    "amazon:10535149": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10535149",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Cambridge, England, GBR"
+      ],
+      "posted": "2026-11-14",
+      "title": "System Dev Engineer Internship 2027",
+      "url": "https://www.amazon.jobs/en/jobs/10535149/system-dev-engineer-internship-2027"
+    },
     "amazon:10537284": {
       "active": false,
       "category": "Software",
@@ -575,8 +590,9 @@
       "url": "https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey"
     },
     "amazon:10579727": {
-      "active": true,
+      "active": false,
       "category": "Data",
+      "closed": "2026-11-26",
       "company": "Amazon",
       "degrees": [],
       "external_id": "10579727",
@@ -948,6 +964,21 @@
       "posted": "2026-11-19",
       "title": "Business Intelligence Intern Luxembourg",
       "url": "https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg"
+    },
+    "amazon:10615428": {
+      "active": true,
+      "category": "Software",
+      "company": "Amazon",
+      "degrees": [],
+      "external_id": "10615428",
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26",
+      "locations": [
+        "Berlin, Berlin, DEU"
+      ],
+      "posted": "2026-11-26",
+      "title": "2027 Software Dev Engineer Internship, AWS EC2",
+      "url": "https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2"
     },
     "amazon:3072042": {
       "active": false,
@@ -1629,8 +1660,9 @@
       "url": "https://jobs.apple.com/en-us/details/200694477/camera-software-intern"
     },
     "apple:200694490": {
-      "active": true,
+      "active": false,
       "category": "AI/ML",
+      "closed": "2026-11-26",
       "company": "Apple",
       "degrees": [],
       "external_id": "200694490",
@@ -2338,14 +2370,14 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=135456"
     },
     "ibm:135502": {
-      "active": false,
+      "active": true,
       "category": "Software",
       "closed": "2026-11-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "135502",
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-25",
+      "last_seen": "2026-11-26",
       "locations": [
         "Ehningen, Germany"
       ],
@@ -2484,9 +2516,9 @@
       "url": "https://careers.ibm.com/careers/JobDetail?jobId=145216"
     },
     "ibm:145236": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-24",
+      "closed": "2026-11-26",
       "company": "IBM",
       "degrees": [],
       "external_id": "145236",
@@ -4912,5 +4944,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-26T08:18:53Z"
+  "updated_at": "2026-11-26T21:34:12Z"
 }

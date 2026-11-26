@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-26 08:18:53 UTC** · 📌 **168** open internships
+> 🕐 Last updated: **2026-11-26 21:34:12 UTC** · 📌 **168** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -19,9 +19,9 @@ API every 6 hours by GitHub Actions.
 |---|---|
 | [Adobe](#adobe) | 4 |
 | Airbnb | — |
-| [Amazon](#amazon) | 39 |
+| [Amazon](#amazon) | 40 |
 | Anthropic | — |
-| [Apple](#apple) | 13 |
+| [Apple](#apple) | 12 |
 | Bloomberg | — |
 | [Cisco](#cisco) | 2 |
 | Cloudflare | — |
@@ -72,7 +72,9 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [2027 Software Dev Engineer Internship, AWS EC2](https://www.amazon.jobs/en/jobs/10615428/2027-software-dev-engineer-internship-aws-ec2) 🆕 | Software | — | Berlin, Berlin, DEU | 2026-11-26 |
 | [Business Intelligence Intern Luxembourg](https://www.amazon.jobs/en/jobs/10609138/business-intelligence-intern-luxembourg) 🆕 | Data | — | Luxembourg, LUX | 2026-11-19 |
+| [System Dev Engineer Internship 2027](https://www.amazon.jobs/en/jobs/10535149/system-dev-engineer-internship-2027) 🆕 | Software | — | Cambridge, England, GBR | 2026-11-14 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602204/data-engineer-internship) | Data | — | Luxembourg, LUX | 2026-11-11 |
 | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) | Data | — | London, England, GBR | 2026-11-11 |
 | [Applied Scientist Intern - VLA and DATA, RIVR](https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr) | AI/ML | — | Zurich, Zurich, CHE | 2026-11-10 |
@@ -87,7 +89,6 @@ API every 6 hours by GitHub Actions.
 | [Business Intelligence Intern Spain](https://www.amazon.jobs/en/jobs/10582415/business-intelligence-intern-spain) | Data | — | Madrid, Community of Madrid, ESP | 2026-10-19 |
 | [Business Intelligence Intern Italy](https://www.amazon.jobs/en/jobs/10579728/business-intelligence-intern-italy) | Data | — | Milan, Lombardy, ITA | 2026-10-15 |
 | [Business Intelligence Engineer Internship Turkey](https://www.amazon.jobs/en/jobs/10579683/business-intelligence-engineer-internship-turkey) | Data | — | Istanbul, TUR | 2026-10-15 |
-| [Business Intelligence Engineer Internship France](https://www.amazon.jobs/en/jobs/10579727/business-intelligence-engineer-internship-france) | Data | — | Clichy, Ile-de-France, FRA | 2026-10-15 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DUB West](https://www.amazon.jobs/en/jobs/10576777/physical-security-specialist-intern-2027-internship-dub-west) | Security | — | Dublin, IRL | 2026-10-13 |
 | [(Physical) Security Specialist Intern - 2027 Internship, DC Security](https://www.amazon.jobs/en/jobs/10577611/physical-security-specialist-intern-2027-internship-dc-security) | Security | — | London, England, GBR | 2026-10-13 |
 | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10574920/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | AI/ML | PhD | Luxembourg, LUX | 2026-10-09 |
@@ -120,7 +121,6 @@ API every 6 hours by GitHub Actions.
 | [Internship - Agentic Data Generation for High-Fidelity Personal Data, Global Siri](https://jobs.apple.com/en-us/details/200696800/internship-agentic-data-generation-for-high-fidelity-personal-data-global-siri) 🆕 | Data | — | Barcelona | 2026-11-25 |
 | [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation) | AI/ML | — | Aachen | 2026-11-24 |
 | [Internship - Software Development Intern - Core OS](https://jobs.apple.com/en-us/details/200694476/internship-software-development-intern-core-os) | Software | — | Prague | 2026-11-12 |
-| [Internship - Pro Apps Machine Learning Ecosystem Engineer](https://jobs.apple.com/en-us/details/200694490/internship-pro-apps-machine-learning-ecosystem-engineer) | AI/ML | — | London | 2026-11-12 |
 | [Camera Software (Intern)](https://jobs.apple.com/en-us/details/200694477/camera-software-intern) | Software | — | Cambridge | 2026-11-12 |
 | [Virtualization Software Engineering Internship, CoreOS](https://jobs.apple.com/en-us/details/200694316/virtualization-software-engineering-internship-coreos) | Backend/Infra | — | London | 2026-11-10 |
 | [Machine Learning Engineering Intern, Personal Agentic Search](https://jobs.apple.com/en-us/details/200694037/machine-learning-engineering-intern-personal-agentic-search) | AI/ML | — | Cambridge | 2026-11-10 |
@@ -180,11 +180,11 @@ API every 6 hours by GitHub Actions.
 | [Software Developer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=146219) 🆕 | Software | — | Krakow, Poland | — |
 | [Masterthesis: AI-Driven Performance Analysis of Linux / KVM (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139801) 🆕 | AI/ML | MS | Ehningen, Germany | — |
 | [IBM internship Cloud Fullstack](https://careers.ibm.com/careers/JobDetail?jobId=145216) 🆕 | Backend/Infra | — | Bucharest, Romania | — |
-| [IBM Internship Oracle Application Developer](https://careers.ibm.com/careers/JobDetail?jobId=145236) 🆕 | Software | — | Bucharest, Romania | — |
 | [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
+| [Internship - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135502) | Software | — | Ehningen, Germany | — |
 
 ## Intel
 
