@@ -1708,9 +1708,9 @@
       "url": "https://jobs.apple.com/en-us/details/200695155/qa-automation-test-engineering-intern-dublin-ireland"
     },
     "apple:200695667": {
-      "active": true,
+      "active": false,
       "category": "Software",
-      "closed": "2026-11-24",
+      "closed": "2026-11-27",
       "company": "Apple",
       "degrees": [],
       "external_id": "200695667",
@@ -4944,5 +4944,5 @@
       "url": "https://wise.jobs/job/software-engineering-intern-in-london-jid-4355"
     }
   },
-  "updated_at": "2026-11-27T08:31:27Z"
+  "updated_at": "2026-11-27T21:20:38Z"
 }
