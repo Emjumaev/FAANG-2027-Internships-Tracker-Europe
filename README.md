@@ -7,7 +7,7 @@ API every 6 hours by GitHub Actions.
 
 🌐 **Check out the web version of the project: [emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe](https://emjumaev.github.io/FAANG-2027-Internships-Tracker-Europe/)**
 
-> 🕐 Last updated: **2026-11-27 21:20:38 UTC** · 📌 **167** open internships
+> 🕐 Last updated: **2026-11-28 07:51:22 UTC** · 📌 **169** open internships
 > · 🆕 = added in the last 7 days · 🎓 Degree = BS / MS / PhD when the
 > title names one (— = not specified, usually open to all levels)
 
@@ -30,12 +30,12 @@ API every 6 hours by GitHub Actions.
 | GitHub | — |
 | [Google](#google) | 8 |
 | [Hudson River Trading](#hudson-river-trading) | 2 |
-| [IBM](#ibm) | 8 |
+| [IBM](#ibm) | 11 |
 | [Intel](#intel) | 17 |
 | Jane Street | — |
 | Mastercard | — |
 | [Meta](#meta) | 24 |
-| [Microsoft](#microsoft) | 9 |
+| [Microsoft](#microsoft) | 8 |
 | [NVIDIA](#nvidia) | 11 |
 | Netflix | — |
 | OpenAI | — |
@@ -176,10 +176,13 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Master Thesis: Serverless Cloud Computing (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=146757) 🆕 | Backend/Infra | MS | Ehningen, Germany | — |
+| [Linux Kernel OS Developer](https://careers.ibm.com/careers/JobDetail?jobId=146284) 🆕 | Backend/Infra | — | Waterford, Ireland | — |
 | [Software Developer Intern 2027](https://careers.ibm.com/careers/JobDetail?jobId=146219) 🆕 | Software | — | Krakow, Poland | — |
 | [Masterthesis: AI-Driven Performance Analysis of Linux / KVM (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139801) 🆕 | AI/ML | MS | Ehningen, Germany | — |
-| [IBM internship Cloud Fullstack](https://careers.ibm.com/careers/JobDetail?jobId=145216) 🆕 | Backend/Infra | — | Bucharest, Romania | — |
+| [IBM internship Cloud Fullstack](https://careers.ibm.com/careers/JobDetail?jobId=145216) | Backend/Infra | — | Bucharest, Romania | — |
 | [Master@IBM - Werkstudent Linux Kernel Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=138790) | Backend/Infra | MS | Ehningen, Germany | — |
+| [Internship: AI Enablement for Embedded Firmware Development (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=139192) | AI/ML | — | Ehningen, Germany | — |
 | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Data | — | Ehningen, Germany | — |
 | [Praktika im Bereich z/OS Softwareentwicklung (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=134050) | Software | — | Ehningen, Germany | — |
 | [Master@IBM Werkstudent - Software Developer (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=135456) | Software | MS | Ehningen, Germany | — |
@@ -212,7 +215,7 @@ API every 6 hours by GitHub Actions.
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
 | [Research Scientist Intern, uLED Display Characterization (PhD)](https://www.metacareers.com/jobs/1296888565955935) 🆕 | AI/ML | PhD | Cork, Ireland | — |
-| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/1122232790428355) 🆕 | AI/ML | PhD | London, UK | — |
+| [Research Scientist Intern, Photorealistic Telepresence (PhD)](https://www.metacareers.com/jobs/1122232790428355) | AI/ML | PhD | London, UK | — |
 | [Research Scientist Intern, Generative AI & 3D Generation (PhD)](https://www.metacareers.com/jobs/1414858330673000) | AI/ML | PhD | Zurich, Switzerland | — |
 | [Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)](https://www.metacareers.com/jobs/1382697917119311) | AI/ML | PhD | Cambridge, UK | — |
 | [Research Scientist Intern, Generative AI (PhD) (multiple locations)](https://www.metacareers.com/jobs/1139996808441103) | AI/ML | PhD | London, UK; Zurich, Switzerland | — |
@@ -240,13 +243,12 @@ API every 6 hours by GitHub Actions.
 
 | Role | Category | Degree | Location | Posted | First seen |
 |---|---|---|---|---|---|
+| [Cambridge Research Intern - Distributed AI systems for agentic workflows](https://apply.careers.microsoft.com/careers/job/1970393557106762) 🆕 | AI/ML | — | United Kingdom, Cambridgeshire, Cambridge | 2026-11-27 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557044053) | Software | — | Finland, Satakunta, Tampere | 2026-11-22 |
 | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557076037) 🆕 | Software | — | Germany, Baden-Württemberg, Stuttgart | 2026-11-19 |
 | [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557075448) 🆕 | AI/ML | — | United Kingdom, Cambridgeshire, Cambridge | 2026-11-19 |
 | [Data Science - PhD Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557072640) 🆕 | Data | PhD | Switzerland, Zürich, Zürich | 2026-11-19 |
 | [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-11-11 |
-| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Backend/Infra | — | Netherlands, Noord-Holland, Schiphol | 2026-11-09 |
-| [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) | Backend/Infra | — | Germany, Multiple Locations, Multiple Locations | 2026-11-09 |
 | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Security | — | United Kingdom, Cambridgeshire, Cambridge | 2026-10-30 |
 | [Cloud Solution Architecture Intern](https://apply.careers.microsoft.com/careers/job/1970393556998387) | Backend/Infra | — | Belgium, Brussels Region, Brussels | 2026-09-14 |
 
